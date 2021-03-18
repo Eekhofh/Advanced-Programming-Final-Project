@@ -8,15 +8,32 @@
     <h1>
         Test
     </h1>
-    {% if not file_exist_in %}
-    <form action = "http://localhost:5000/upload" method = "POST" enctype = "multipart/form-data">
+    {% if not file_exist_srt %}
+        <h2>UPLOAD SRT FILE</h2>
+    <form action = "http://localhost:5000/upload_srt" method = "POST" enctype = "multipart/form-data">
          <input type = "file" name = "file" />
          <input type = "submit" value = "Submit" />
     </form>
+    {% else %}
+        <h2>SRT UPLOADED</h2>
+    {% endif %}
+
+    {% if not file_exist_script %}
+        <h2>UPLOAD SCRIPT FILE</h2>
+    <form action = "http://localhost:5000/upload_script" method = "POST" enctype = "multipart/form-data">
+         <input type = "file" name = "file" />
+         <input type = "submit" value = "Submit" />
+    </form>
+    {% else %}
+        <h2>SCRIPT UPLOADED</h2>
+    {% endif %}
+
+    {% if total_upload == 2 %}
+    <a href="/process" target="blank">PROCESS FILES</a>
     {% endif %}
 
     {% if file_exist_out %}
-    <a href="{{ url_for('download', name="out_test.txt") }}">File</a>
+    <a href="/downloads" target="blank">File</a>
     {% endif %}
 </body>
 </html>
