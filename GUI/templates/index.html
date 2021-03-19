@@ -8,22 +8,26 @@
     <h1>
         Test
     </h1>
-    {% if not file_exist_srt %}
+    {% if not file_exist_srt and not file_exist_out %}
         <h2>UPLOAD SRT FILE</h2>
     <form action = "http://localhost:5000/upload_srt" method = "POST" enctype = "multipart/form-data">
          <input type = "file" name = "file" />
          <input type = "submit" value = "Submit" />
     </form>
+    {% elif file_exist_out %}
+        <!-- Dummy -->
     {% else %}
         <h2>SRT UPLOADED</h2>
     {% endif %}
 
-    {% if not file_exist_script %}
+    {% if not file_exist_script and not file_exist_out %}
         <h2>UPLOAD SCRIPT FILE</h2>
     <form action = "http://localhost:5000/upload_script" method = "POST" enctype = "multipart/form-data">
          <input type = "file" name = "file" />
          <input type = "submit" value = "Submit" />
     </form>
+    {% elif file_exist_out %}
+        <!-- Dummy -->
     {% else %}
         <h2>SCRIPT UPLOADED</h2>
     {% endif %}
@@ -33,7 +37,16 @@
     {% endif %}
 
     {% if file_exist_out %}
-    <a href="/downloads" target="blank">File</a>
+    <button type="button"><a href="/downloads" target="blank">File</a></button>
     {% endif %}
+
+    {% with messages = get_flashed_messages() %}
+   {% if messages %}
+      {% for message in messages %}
+         {{ message }}
+      {% endfor %}
+   {% endif %}
+{% endwith %}
+
 </body>
 </html>
