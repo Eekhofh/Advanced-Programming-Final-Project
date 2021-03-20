@@ -1,25 +1,42 @@
 import re
 
 def label_line(line):
+	line_dict = {}
 	if re.match(r'[\n]+', line):
 		print(line)
 	elif re.match(r'^     .*INT[\.\- ]', line) or re.match(r'^     .*EXT[\.\- ]', line):
-		print('S \t' + line)
+		line = re.sub(' [ ]+', r'', line)
+		line_dict = {'S': line[:-1]}
+		print(line_dict)
 	elif re.match(r'^                          [A-Z]+', line):
-		print('C \t' + line)
+		line = re.sub(' [ ]+', r'', line)
+		line_dict = {'C': line[:-1]}
+		print(line_dict)
 	elif re.match(r'^                [a-zA-Z0-9-.,\']+', line):
-		print('D \t' + line)
+		line = re.sub(' [ ]+', r'', line)
+		line_dict = {'D': line[:-1]}
+		print(line_dict)
 	elif re.match(r'^     [A-Z]+[^a-z]+\n', line):
 		if len(line) > 60 or line[-2] in ".?!":
-			print('M \t' + line)
+			line = re.sub(' [ ]+', r'', line)
+			line_dict = {'M': line[:-1]}
+			print(line_dict)
 		else:
-			print('N \t' + line)
+			line = re.sub(' [ ]+', r'', line)
+			line_dict = {'N': line[:-1]}
+			print(line_dict)
 	elif re.match(r'[ ]+\(.+\)', line):
-		print('N \t' + line)
+		line = re.sub(' [ ]+', r'', line)
+		line_dict = {'N': line[:-1]}
+		print(line_dict)
 	elif re.match(r'^     [a-zA-Z0-9-]+', line):
-		print('N \t' + line)
+		line = re.sub(' [ ]+', r'', line)
+		line_dict = {'N': line[:-1]}
+		print(line_dict)
 	else:
-		print('M \t' + line)
+		line = re.sub(' [ ]+', r'', line)
+		line_dict = {'M': line[:-1]}
+		print(line_dict)
 
 def label_file(script):
 	with open(script, 'r', encoding='utf8') as infile:
