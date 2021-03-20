@@ -14,7 +14,7 @@ def one_line_dialogue(text_file):
 		dialogue = []
 		dialogue_dict = {}
 		if re.match(r'^{\'C\'', infile_list[i]):
-			print(infile_list[i])
+			dialogue_dict['C'] = infile_list[i][7:-3]
 			for line in infile_list[i+1:]:
 				if re.match('^D \t', line) or re.match('\n', line):
 					line = re.sub(' [ ]+', r'', line[3:-1])
@@ -26,7 +26,7 @@ def one_line_dialogue(text_file):
 			dialogue = [line for line in dialogue if line != '\n']
 			dialogue = [line for line in dialogue if line != '']
 			dialogue = [line for line in dialogue if not re.match(r'^{\'N\'', line)]
-			dialogue_dict = {'D': " ".join(dialogue)}
+			dialogue_dict['D'] = "  ".join(dialogue)
 			print(dialogue_dict)
 		elif not re.match('^D \t', infile_list[i]) and not re.match('^{\'N\': \(', infile_list[i]):
 			print(infile_list[i])

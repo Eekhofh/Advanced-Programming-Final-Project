@@ -170,9 +170,7 @@
 
 
 
-{'C': 'KIEV'}
-
-{'D': ''}
+{'C': 'KIEV', 'D': ''}
 
 
 
@@ -195,9 +193,7 @@
 
 
 
-{'C': 'ANATOLY'}
-
-{'D': 'Kasimov, Kasimov, good that you called us.'}
+{'C': 'ANATOLY', 'D': 'Kasimov, Kasimov, good that you called  us.'}
 
 
 
@@ -206,9 +202,7 @@
 
 
 
-{'C': 'KASIMOV'}
-
-{'D': "I don't remember what happened!We were at the bar, drinking, laughing -- having fun."}
+{'C': 'KASIMOV', 'D': "I don't remember what happened!We were  at the bar, drinking, laughing -- having  fun."}
 {'N': '(sobbing)'}
 
 
@@ -233,9 +227,7 @@
 
 
 
-{'C': 'KASIMOV'}
-
-{'D': "I don't even know how I got here. I swear, Anatoly, I never touched her!I didn't lay a finger on her."}
+{'C': 'KASIMOV', 'D': "I don't even know how I got here.  I swear, Anatoly, I never touched her!I  didn't lay a finger on her."}
 
 
 
@@ -252,9 +244,7 @@
 
 
 
-{'C': 'ANATOLY'}
-
-{'D': "Kasimov.Don't flounder."}
+{'C': 'ANATOLY', 'D': "Kasimov.Don't flounder."}
 
 
 
@@ -273,9 +263,7 @@
 
 
 
-{'C': 'JACK '}
-
-{'D': "Jesus, she's been under too long.Come  on, come on! "}
+{'C': 'JACK ', 'D': "Jesus, she's been under too long.Come   on, come on! "}
 
 
 
@@ -290,9 +278,7 @@
 
 
 
-{'C': 'KASIMOV '}
-
-{'D': "You're the only one who can help me. "}
+{'C': 'KASIMOV ', 'D': "You're the only one who can help me. "}
 
 
 
@@ -331,18 +317,14 @@
 
 
 
-{'C': 'ANATOLY '}
-
-{'D': "C'mon, c'mon, tell the truth...c'mon. "}
+{'C': 'ANATOLY ', 'D': "C'mon, c'mon, tell the truth...c'mon. "}
 
 
 
 
 
 
-{'C': 'KASIMOV '}
-
-{'D': "They'll kill me. "}
+{'C': 'KASIMOV ', 'D': "They'll kill me. "}
 
 
 
@@ -355,9 +337,7 @@
 
 
 
-{'C': 'ANATOLY '}
-
-{'D': 'You asked for my help.You asked for my help...come on... '}
+{'C': 'ANATOLY ', 'D': 'You asked for my help.You asked for my  help...come on... '}
 
 
 
@@ -366,9 +346,7 @@
 
 
 
-{'C': 'KASIMOV'}
-
-{'D': "You're right, of course. "}
+{'C': 'KASIMOV', 'D': "You're right, of course. "}
 
 
 
@@ -387,9 +365,7 @@
 
 
 
-{'C': 'JACK '}
-
-{'D': 'The name pal...give us the name. '}
+{'C': 'JACK ', 'D': 'The name pal...give us the name. '}
 
 
 
@@ -402,9 +378,7 @@
 
 
 
-{'C': 'KASIMOV '}
-
-{'D': 'The contact in Minsk..the contact in  Minsk..works in a travel agency. '}
+{'C': 'KASIMOV ', 'D': 'The contact in Minsk..the contact in   Minsk..works in a travel agency. '}
 
 
 
@@ -419,9 +393,7 @@
 
 
 
-{'C': 'JACK '}
-
-{'D': 'Come on! '}
+{'C': 'JACK ', 'D': 'Come on! '}
 
 
 
@@ -434,27 +406,21 @@
 
 
 
-{'C': 'ANATOLY '}
-
-{'D': 'Come on! '}
+{'C': 'ANATOLY ', 'D': 'Come on! '}
 
 
 
 
 
 
-{'C': 'KASIMOV '}
-
-{'D': 'His name is.....Dimitri Miediev. '}
+{'C': 'KASIMOV ', 'D': 'His name is.....Dimitri Miediev. '}
 
 
 
 
 
 
-{'C': 'ANATOLY '}
-
-{'D': 'Dimitri Miediev...Dimitri Miediev... '}
+{'C': 'ANATOLY ', 'D': 'Dimitri Miediev...Dimitri Miediev... '}
 
 
 
@@ -467,9 +433,7 @@
 
 
 
-{'C': 'JACK '}
-
-{'D': 'Got him. '}
+{'C': 'JACK ', 'D': 'Got him. '}
 
 
 
@@ -532,9 +496,7 @@
 
 
 
-{'C': 'ANATOLY '}
-
-{'D': 'Now, we drink. '}
+{'C': 'ANATOLY ', 'D': 'Now, we drink. '}
 
 
 
@@ -547,27 +509,21 @@
 
 
 
-{'C': "ANATOLY (CONT'D) "}
-
-{'D': 'To friends. '}
+{'C': "ANATOLY (CONT'D) ", 'D': 'To friends. '}
 
 
 
 
 
 
-{'C': 'KASIMOV '}
-
-{'D': 'Yes, Anatoly, yes. '}
+{'C': 'KASIMOV ', 'D': 'Yes, Anatoly, yes. '}
 
 
 
 
 
 
-{'C': 'JACK '}
-
-{'D': 'Cheers. '}
+{'C': 'JACK ', 'D': 'Cheers. '}
 
 
 
@@ -610,9 +566,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Get rid of this scum. '}
+{'C': 'ETHAN ', 'D': 'Get rid of this scum. '}
 {'N': '(in English now) '}
 
 
@@ -653,63 +607,49 @@
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': 'Did we get it? '}
+{'C': 'CLAIRE ', 'D': 'Did we get it? '}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'We got it.On your feet. '}
+{'C': 'ETHAN ', 'D': 'We got it.On your feet. '}
 
 
 
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': 'I want to sleep.Can I sleep here. '}
+{'C': 'CLAIRE ', 'D': 'I want to sleep.Can I sleep here. '}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Walk, just walk.Start walking. '}
+{'C': 'ETHAN ', 'D': 'Walk, just walk.Start walking. '}
 
 
 
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': "I'm walking. "}
+{'C': 'CLAIRE ', 'D': "I'm walking. "}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "Talking's good, walking's better. "}
+{'C': 'ETHAN ', 'D': "Talking's good, walking's better. "}
 
 
 
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': "Sleeping's better. "}
+{'C': 'CLAIRE ', 'D': "Sleeping's better. "}
 
 
 
@@ -740,9 +680,7 @@
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': "Are you all right Ethan.What's wrong with you? "}
+{'C': 'CLAIRE ', 'D': "Are you all right Ethan.What's wrong  with you? "}
 
 
 
@@ -751,9 +689,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "If you're gonna do this again Claire,  It's not gonna be on my watch. "}
+{'C': 'ETHAN ', 'D': "If you're gonna do this again Claire,   It's not gonna be on my watch. "}
 
 
 
@@ -762,9 +698,7 @@
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': 'Oh yeah? '}
+{'C': 'CLAIRE ', 'D': 'Oh yeah? '}
 
 
 
@@ -783,18 +717,14 @@
 
 
 
-{'C': 'JACK '}
-
-{'D': 'Claire. '}
+{'C': 'JACK ', 'D': 'Claire. '}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Jack. '}
+{'C': 'ETHAN ', 'D': 'Jack. '}
 
 
 
@@ -811,9 +741,7 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': "IS THERE ANY PARTICULAR REASON WE'RE NOT  OUT OF HERE YET?! "}
+{'C': 'ETHAN', 'D': "IS THERE ANY PARTICULAR REASON WE'RE NOT   OUT OF HERE YET?! "}
 
 
 
@@ -822,9 +750,7 @@
 
 
 
-{'C': 'JACK '}
-
-{'D': 'Just waiting for you, tubs. '}
+{'C': 'JACK ', 'D': 'Just waiting for you, tubs. '}
 
 
 
@@ -879,9 +805,7 @@
 
 
 
-{'C': 'VOICE (O.S.)'}
-
-{'D': 'Ladies and gentlemen, we have leveled off  at our cruising altitude of thirty-eight  thousand feet-and we should be arriving  in Prague right on schedule. '}
+{'C': 'VOICE (O.S.)', 'D': 'Ladies and gentlemen, we have leveled off   at our cruising altitude of thirty-eight   thousand feet-and we should be arriving   in Prague right on schedule. '}
 
 
 
@@ -902,9 +826,7 @@
 
 
 
-{'C': 'FLIGHT ATTENDANT '}
-
-{'D': 'Would you like to watch a movie Mr Rosen? '}
+{'C': 'FLIGHT ATTENDANT ', 'D': 'Would you like to watch a movie Mr Rosen? '}
 
 
 
@@ -917,9 +839,7 @@
 
 
 
-{'C': 'FLIGHT ATTENDANT '}
-
-{'D': 'Would you like to watch a movie Mr  Phelps? '}
+{'C': 'FLIGHT ATTENDANT ', 'D': 'Would you like to watch a movie Mr   Phelps? '}
 {'N': "(CONT'D) "}
 
 
@@ -942,9 +862,7 @@
 
 
 
-{'C': 'PHELPS '}
-
-{'D': 'No, I prefer the theatre.'}
+{'C': 'PHELPS ', 'D': 'No, I prefer the theatre.'}
 
 
 
@@ -959,9 +877,7 @@
 
 
 
-{'C': 'FLIGHT ATTENDANT '}
-
-{'D': 'Would you consider the cinema of the Ukraine? '}
+{'C': 'FLIGHT ATTENDANT ', 'D': 'Would you consider the cinema of the  Ukraine? '}
 
 
 
@@ -970,9 +886,7 @@
 
 
 
-{'C': 'PHELPS '}
-
-{'D': "Perhaps you'd choose one for me. "}
+{'C': 'PHELPS ', 'D': "Perhaps you'd choose one for me. "}
 
 
 
@@ -1059,9 +973,7 @@
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': "Good morning, Mr. Phelps.The man you're  about to see is Aleksander Golitsyn -- "}
+{'C': 'KITTRIDGE ', 'D': "Good morning, Mr. Phelps.The man you're   about to see is Aleksander Golitsyn -- "}
 {'N': '(on the tape) '}
 
 
@@ -1084,9 +996,7 @@
 
 
 
-{'C': 'KITTRIDGE (O.S.) '}
-
-{'D': '-- a former KGB Line X officer now  working the international black market  selling intelligence.This morning, we  learned that Golitsyn has stolen one half  of a CIA NOC list, the list of our non-  official cover agents working in Eastern  Europe. '}
+{'C': 'KITTRIDGE (O.S.) ', 'D': '-- a former KGB Line X officer now   working the international black market   selling intelligence.This morning, we   learned that Golitsyn has stolen one half   of a CIA NOC list, the list of our non-   official cover agents working in Eastern   Europe. '}
 
 
 
@@ -1115,9 +1025,7 @@
 
 
 
-{'C': 'KITTRIDGE (O.S.) '}
-
-{'D': 'For security reasons, the NOC list is  divided into two encoded halves.  Golitsyn already has the cryptonym  portion, which contains agent code names  and targeting areas.This portion is  useless unless combined with the second  half -- the true name list that is kept  in the CIA station in our Embassy in Prague. '}
+{'C': 'KITTRIDGE (O.S.) ', 'D': 'For security reasons, the NOC list is   divided into two encoded halves.   Golitsyn already has the cryptonym   portion, which contains agent code names   and targeting areas.This portion is   useless unless combined with the second   half -- the true name list that is kept   in the CIA station in our Embassy in Prague. '}
 
 
 
@@ -1148,9 +1056,7 @@
 
 
 
-{'C': 'KITTRIDGE (O.S.) '}
-
-{'D': "We believe Golitsyn plans to steal the  true name list at an Embassy function  tomorrow night.Your mission, should you  decide to accept it, is to obtain  photographic proof of the theft, apprehend  those involved, and return the stolen  list.I don't have to stress the  importance of this matter, Jim.We're  keeping it internally black. Because of its urgency, I've already sent to Prague  a team selected from your usual group. "}
+{'C': 'KITTRIDGE (O.S.) ', 'D': "We believe Golitsyn plans to steal the   true name list at an Embassy function   tomorrow night.Your mission, should you   decide to accept it, is to obtain   photographic proof of the theft, apprehend   those involved, and return the stolen   list.I don't have to stress the   importance of this matter, Jim.We're   keeping it internally black. Because of  its urgency, I've already sent to Prague   a team selected from your usual group. "}
 
 
 
@@ -1185,9 +1091,7 @@
 
 
 
-{'C': 'KITTRIDGE (O.S.) '}
-
-{'D': "Ethan Hunt will of course be your point  man, as usual.He's in Kiev; we're  getting word to him now. "}
+{'C': 'KITTRIDGE (O.S.) ', 'D': "Ethan Hunt will of course be your point   man, as usual.He's in Kiev; we're   getting word to him now. "}
 
 
 
@@ -1212,9 +1116,7 @@
 
 
 
-{'C': 'KITTRIDGE (O.S.) '}
-
-{'D': 'As always, should you or any member of  your IM force be caught or killed, the  Secretary will disavow all knowledge of  your actions.This tape will self-  destruct in five seconds.Good luck,  Jim! '}
+{'C': 'KITTRIDGE (O.S.) ', 'D': 'As always, should you or any member of   your IM force be caught or killed, the   Secretary will disavow all knowledge of   your actions.This tape will self-   destruct in five seconds.Good luck,   Jim! '}
 
 
 
@@ -1309,9 +1211,8 @@
 
 
 
-{'C': 'JACK '}
+{'C': 'JACK ', 'D': "Look to your right, then back to me.   There's a camera built right into the   bridge.Whatever you see it sees and   transmits it back here.Can you hear me?"}
 
-{'D': "Look to your right, then back to me.  There's a camera built right into the  bridge.Whatever you see it sees and  transmits it back here.Can you hear me?"}
 
 
 
@@ -1323,19 +1224,17 @@
 
 
 
+{'C': 'SARAH ', 'D': 'Of course I can hear you. '}
 
-{'C': 'SARAH '}
 
-{'D': 'Of course I can hear you. '}
 
 
 
 
+{'C': 'JACK ', 'D': 'No, in your...ear piece. You have a   lovely smile (eyes). Can you hear me   now? '}
 
 
-{'C': 'JACK '}
 
-{'D': 'No, in your...ear piece. You have a  lovely smile (eyes). Can you hear me  now? '}
 
 
 
@@ -1343,84 +1242,63 @@
 
 
 
+{'C': 'SARAH ', 'D': 'Loud and clear. '}
 
 
 
-{'C': 'SARAH '}
 
-{'D': 'Loud and clear. '}
 
 
+{'C': 'JACK ', 'D': "What's going on? "}
 
 
 
 
-{'C': 'JACK '}
 
-{'D': "What's going on? "}
 
+{'C': 'SARAH ', 'D': "I don't know. "}
 
 
 
 
 
-{'C': 'SARAH '}
 
-{'D': "I don't know. "}
+{'C': 'JACK ', 'D': "Why don't you take a look? "}
 
 
 
 
 
 
-{'C': 'JACK '}
+{'C': 'SARAH ', 'D': "Jack...that's spying. "}
 
-{'D': "Why don't you take a look? "}
 
 
 
 
 
+{'C': 'JACK ', 'D': "That's what we do isn't it? "}
 
-{'C': 'SARAH '}
 
-{'D': "Jack...that's spying. "}
 
 
 
 
+{'C': 'SARAH ', 'D': "Jack you're so wicked. "}
 
 
-{'C': 'JACK '}
 
-{'D': "That's what we do isn't it? "}
 
 
 
+{'C': 'JACK ', 'D': 'Too wicked to have a drink later? '}
 
 
 
-{'C': 'SARAH '}
 
-{'D': "Jack you're so wicked. "}
 
 
-
-
-
-
-{'C': 'JACK '}
-
-{'D': 'Too wicked to have a drink later? '}
-
-
-
-
-
-
-{'C': 'SARAH '}
-
-{'D': 'I think I might just take that look. '}
+{'C': 'SARAH ', 'D': 'I think I might just take that look. '}
 
 
 
@@ -1433,9 +1311,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "Yeah, well, Jim, fact is I've got more  than ninety days leave coming. "}
+{'C': 'ETHAN ', 'D': "Yeah, well, Jim, fact is I've got more   than ninety days leave coming. "}
 
 
 
@@ -1444,9 +1320,7 @@
 
 
 
-{'C': 'PHELPS '}
-
-{'D': 'A hundred and sixty-seven, I think it is.  Take it all, if you want.After this one. '}
+{'C': 'PHELPS ', 'D': 'A hundred and sixty-seven, I think it is.   Take it all, if you want.After this one. '}
 
 
 
@@ -1455,18 +1329,14 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "I thought I'd take some now. "}
+{'C': 'ETHAN ', 'D': "I thought I'd take some now. "}
 
 
 
 
 
 
-{'C': 'PHELPS'}
-
-{'D': "What the hell's made you decide to take  your leave at the worst possible time?  Claire's in a weird mood too. "}
+{'C': 'PHELPS', 'D': "What the hell's made you decide to take   your leave at the worst possible time?   Claire's in a weird mood too. "}
 {'N': '(quietly, to Ethan) '}
 
 
@@ -1479,18 +1349,14 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "Oh?What's the problem? "}
+{'C': 'ETHAN ', 'D': "Oh?What's the problem? "}
 
 
 
 
 
 
-{'C': 'PHELPS '}
-
-{'D': "I don't know, I had to go to Chicago  again.You were in Kiev.You tell me. "}
+{'C': 'PHELPS ', 'D': "I don't know, I had to go to Chicago   again.You were in Kiev.You tell me. "}
 
 
 
@@ -1499,18 +1365,14 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Tell you what? '}
+{'C': 'ETHAN ', 'D': 'Tell you what? '}
 
 
 
 
 
 
-{'C': 'PHELPS '}
-
-{'D': 'When you started noticing your short term  memory loss.What the problem was you  and Claire had in Kiev? '}
+{'C': 'PHELPS ', 'D': 'When you started noticing your short term   memory loss.What the problem was you   and Claire had in Kiev? '}
 
 
 
@@ -1521,18 +1383,14 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'What problem? '}
+{'C': 'ETHAN ', 'D': 'What problem? '}
 
 
 
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'Ah, God, forget it.What are we talking burnout here?'}
+{'C': 'PHELPS', 'D': 'Ah, God, forget it.What are we talking  burnout here?'}
 {'N': '(laughs)'}
 
 
@@ -1543,36 +1401,28 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'I guess. '}
+{'C': 'ETHAN ', 'D': 'I guess. '}
 
 
 
 
 
 
-{'C': 'PHELPS '}
-
-{'D': "Ethan, you can't burn out. "}
+{'C': 'PHELPS ', 'D': "Ethan, you can't burn out. "}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Why not? '}
+{'C': 'ETHAN', 'D': 'Why not? '}
 
 
 
 
 
 
-{'C': 'PHELPS '}
-
-{'D': "Because I can't afford it. And because  you'd burn up before you'd burn out. "}
+{'C': 'PHELPS ', 'D': "Because I can't afford it. And because   you'd burn up before you'd burn out. "}
 
 
 
@@ -1589,18 +1439,14 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'How was Chicago? '}
+{'C': 'ETHAN ', 'D': 'How was Chicago? '}
 
 
 
 
 
 
-{'C': 'PHELPS '}
-
-{'D': 'Wonderful.Ran into a convention of auto  dealers at the Drake Hotel.You hear the  one about the astronaut who comes back  from the first manned flight to Mars  after two years?His wife\'s got a year  old kid.So he says "All right.Who was  it?My friend Harry?"She says no. "Oh, it was my friend Sammy."She says it  wasn\'t Sammy."Oh, I suppose it was my  friend Lou.""No, what\'s the matter,  don\'t you think I have any friends of my  own?!" '}
+{'C': 'PHELPS ', 'D': 'Wonderful.Ran into a convention of auto   dealers at the Drake Hotel.You hear the   one about the astronaut who comes back   from the first manned flight to Mars   after two years?His wife\'s got a year   old kid.So he says "All right.Who was   it?My friend Harry?"She says no. "Oh,  it was my friend Sammy."She says it   wasn\'t Sammy."Oh, I suppose it was my   friend Lou.""No, what\'s the matter,   don\'t you think I have any friends of my   own?!" '}
 
 
 
@@ -1637,9 +1483,7 @@
 
 
 
-{'C': "PHELPS (CONT'D) "}
-
-{'D': 'Boy, you really are grim. Come here,  take a look. '}
+{'C': "PHELPS (CONT'D) ", 'D': 'Boy, you really are grim. Come here,   take a look. '}
 
 
 
@@ -1678,9 +1522,7 @@
 
 
 
-{'C': "PHELPS (CONT'D) "}
-
-{'D': "Beyond Charles Bridge there is our  Embassy.See it?Tomorrow night, if  anything goes wrong, this guy will steal  the names of our agents in every country  all over Eastern Europe.Up for grabs to  the highest bidders -- third world  terrorists, arms dealers, drug lords --  any and everybody who'd love to get rid  of long term coverts like us, and some  very dear friends among them.If they're  exposed, they'll be executed.Come over  here.Take a lock at this. "}
+{'C': "PHELPS (CONT'D) ", 'D': "Beyond Charles Bridge there is our   Embassy.See it?Tomorrow night, if   anything goes wrong, this guy will steal   the names of our agents in every country   all over Eastern Europe.Up for grabs to   the highest bidders -- third world   terrorists, arms dealers, drug lords --   any and everybody who'd love to get rid   of long term coverts like us, and some   very dear friends among them.If they're   exposed, they'll be executed.Come over   here.Take a lock at this. "}
 
 
 
@@ -1741,9 +1583,7 @@
 
 
 
-{'C': 'SENATOR WALTZER '}
-
-{'D': 'I\'ll go you one further.I say the CIA  and all its shadow organizations have  become irrelevant at best and  unconstitutional at worst.It\'s time we  throw a little light on the whole concept  of the Pentagon\'s "black budget."These  covert agency subgroups have confidential  funding, they report to no one -- who are these people?!We were living in a  democracy the last time I checked. '}
+{'C': 'SENATOR WALTZER ', 'D': 'I\'ll go you one further.I say the CIA   and all its shadow organizations have   become irrelevant at best and   unconstitutional at worst.It\'s time we   throw a little light on the whole concept   of the Pentagon\'s "black budget."These   covert agency subgroups have confidential   funding, they report to no one -- who are  these people?!We were living in a   democracy the last time I checked. '}
 
 
 
@@ -1780,36 +1620,28 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "You're going to use Walter? "}
+{'C': 'ETHAN ', 'D': "You're going to use Walter? "}
 
 
 
 
 
 
-{'C': 'PHELPS '}
-
-{'D': "He's our guy. "}
+{'C': 'PHELPS ', 'D': "He's our guy. "}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "Isn't he chairing the Armed Services hearing? "}
+{'C': 'ETHAN ', 'D': "Isn't he chairing the Armed Services hearing? "}
 
 
 
 
 
 
-{'C': 'PHELPS '}
-
-{'D': "Not this week. This week he's flyfishing  at the Oughterard Slough in County  Kildare, with one of our best Irish guides. "}
+{'C': 'PHELPS ', 'D': "Not this week. This week he's flyfishing   at the Oughterard Slough in County   Kildare, with one of our best Irish guides. "}
 
 
 
@@ -1820,18 +1652,14 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': "He won't be back in a hurry? "}
+{'C': 'ETHAN', 'D': "He won't be back in a hurry? "}
 
 
 
 
 
 
-{'C': 'PHELPS '}
-
-{'D': "No, not in a hurry.What do you think?  You think the plot'll work? "}
+{'C': 'PHELPS ', 'D': "No, not in a hurry.What do you think?   You think the plot'll work? "}
 
 
 
@@ -1840,18 +1668,14 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Sure.If the main character does. '}
+{'C': 'ETHAN ', 'D': 'Sure.If the main character does. '}
 
 
 
 
 
 
-{'C': 'PHELPS '}
-
-{'D': 'If you were me, Ethan, who would you trust to make him believable? '}
+{'C': 'PHELPS ', 'D': 'If you were me, Ethan, who would you  trust to make him believable? '}
 
 
 
@@ -1866,18 +1690,14 @@
 
 
 
-{'C': 'JACK '}
-
-{'D': 'Sorry, am I interrupting?'}
+{'C': 'JACK ', 'D': 'Sorry, am I interrupting?'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Always. '}
+{'C': 'ETHAN', 'D': 'Always. '}
 
 
 
@@ -1890,9 +1710,7 @@
 
 
 
-{'C': 'JACK '}
-
-{'D': "Stick of gum. If you come up against a  lock you can't pick -- "}
+{'C': 'JACK ', 'D': "Stick of gum. If you come up against a   lock you can't pick -- "}
 
 
 
@@ -1907,9 +1725,7 @@
 
 
 
-{'C': "JACK (CONT'D) "}
-
-{'D': "Red light.Green light.Mash them  together, asta lasagna.Don't get any on  you -- you have five seconds. "}
+{'C': "JACK (CONT'D) ", 'D': "Red light.Green light.Mash them   together, asta lasagna.Don't get any on   you -- you have five seconds. "}
 
 
 
@@ -1926,9 +1742,7 @@
 
 
 
-{'C': 'PHELPS '}
-
-{'D': 'Are you gonna take it? '}
+{'C': 'PHELPS ', 'D': 'Are you gonna take it? '}
 
 
 
@@ -1943,9 +1757,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Give me the God damn gum. '}
+{'C': 'ETHAN ', 'D': 'Give me the God damn gum. '}
 {'N': '(relenting) '}
 
 
@@ -1954,18 +1766,14 @@
 
 
 
-{'C': 'JACK '}
-
-{'D': "Just don't chew it. "}
+{'C': 'JACK ', 'D': "Just don't chew it. "}
 
 
 
 
 
 
-{'C': 'PHELPS '}
-
-{'D': 'Thank you. '}
+{'C': 'PHELPS ', 'D': 'Thank you. '}
 
 
 
@@ -2044,9 +1852,7 @@
 
 
 
-{'C': 'PHELPS '}
-
-{'D': "Ethan.Jack's inside.Window's open by  twenty-three hundred. "}
+{'C': 'PHELPS ', 'D': "Ethan.Jack's inside.Window's open by   twenty-three hundred. "}
 
 
 
@@ -2079,9 +1885,7 @@
 
 
 
-{'C': 'DIPLOMAT '}
-
-{'D': "How do you do, Senator, I'm Rand Housman,  the Ambassador's aide.If I could just  steer you through the reception line here --"}
+{'C': 'DIPLOMAT ', 'D': "How do you do, Senator, I'm Rand Housman,   the Ambassador's aide.If I could just   steer you through the reception line here  --"}
 
 
 
@@ -2102,9 +1906,7 @@
 
 
 
-{'C': "DIPLOMAT (CONT'D) "}
-
-{'D': 'Allow me to introduce Jaroslav Reid, the  director of the National Gallery -- Petr  Brandl, the mayor of Prague -- '}
+{'C': "DIPLOMAT (CONT'D) ", 'D': 'Allow me to introduce Jaroslav Reid, the   director of the National Gallery -- Petr   Brandl, the mayor of Prague -- '}
 
 
 
@@ -2125,18 +1927,14 @@
 
 
 
-{'C': 'SARAH '}
-
-{'D': "I bet you don't remember me, do you, Senator? "}
+{'C': 'SARAH ', 'D': "I bet you don't remember me, do you, Senator? "}
 
 
 
 
 
 
-{'C': 'SENATOR WALTZER '}
-
-{'D': 'Of course I do.How are you, Miss  Norman? '}
+{'C': 'SENATOR WALTZER ', 'D': 'Of course I do.How are you, Miss   Norman? '}
 
 
 
@@ -2153,9 +1951,7 @@
 
 
 
-{'C': 'SARAH '}
-
-{'D': "He's in pocket.Under the archway behind me. "}
+{'C': 'SARAH ', 'D': "He's in pocket.Under the archway behind me. "}
 
 
 
@@ -2208,9 +2004,7 @@
 
 
 
-{'C': 'PHELPS '}
-
-{'D': 'Sarah, mark the package and go to two. '}
+{'C': 'PHELPS ', 'D': 'Sarah, mark the package and go to two. '}
 
 
 
@@ -2229,9 +2023,7 @@
 
 
 
-{'C': 'SARAH '}
-
-{'D': "Your advance team mentioned you'd want a  tour of the facility, so I've gone ahead  and set that up for you -- "}
+{'C': 'SARAH ', 'D': "Your advance team mentioned you'd want a   tour of the facility, so I've gone ahead   and set that up for you -- "}
 
 
 
@@ -2242,9 +2034,7 @@
 
 
 
-{'C': 'SENATOR WALTZER '}
-
-{'D': "Terrific.Let's get going.  Will you excuse us?"}
+{'C': 'SENATOR WALTZER ', 'D': "Terrific.Let's get going.   Will you excuse us?"}
 
 
 {'N': '(to the Diplomat) '}
@@ -2265,9 +2055,7 @@
 
 
 
-{'C': 'DIPLOMAT '}
-
-{'D': 'Uh, sir? '}
+{'C': 'DIPLOMAT ', 'D': 'Uh, sir? '}
 
 
 
@@ -2302,9 +2090,7 @@
 
 
 
-{'C': 'JACK '}
-
-{'D': 'Great.Come on. '}
+{'C': 'JACK ', 'D': 'Great.Come on. '}
 
 
 
@@ -2347,9 +2133,7 @@
 
 
 
-{'C': 'PHELPS '}
-
-{'D': "Hannah.He's marked.Lets go. "}
+{'C': 'PHELPS ', 'D': "Hannah.He's marked.Lets go. "}
 
 
 
@@ -2370,9 +2154,7 @@
 
 
 
-{'C': 'HANNAH '}
-
-{'D': 'En route. '}
+{'C': 'HANNAH ', 'D': 'En route. '}
 
 
 
@@ -2391,9 +2173,7 @@
 
 
 
-{'C': 'PHELPS (O/S) '}
-
-{'D': 'Hannah, pull the shade (or - Hannah go to night vision). '}
+{'C': 'PHELPS (O/S) ', 'D': 'Hannah, pull the shade (or - Hannah go to  night vision). '}
 
 
 
@@ -2452,27 +2232,21 @@
 
 
 
-{'C': 'JACK '}
-
-{'D': "Governor's in position.We have the elevator. "}
+{'C': 'JACK ', 'D': "Governor's in position.We have the elevator. "}
 
 
 
 
 
 
-{'C': 'GUARD '}
-
-{'D': 'Excuse me, can I help you? '}
+{'C': 'GUARD ', 'D': 'Excuse me, can I help you? '}
 
 
 
 
 
 
-{'C': 'SARAH '}
-
-{'D': '-- which leads directly to the Denied  Area, the only limited access area in the  whole facility. '}
+{'C': 'SARAH ', 'D': '-- which leads directly to the Denied   Area, the only limited access area in the   whole facility. '}
 
 
 
@@ -2489,9 +2263,7 @@
 
 
 
-{'C': "SARAH (CONT'D) "}
-
-{'D': 'As you can see. this area has both a  Marine guard and video surveillance, and  is strictly monitored at all times. '}
+{'C': "SARAH (CONT'D) ", 'D': 'As you can see. this area has both a   Marine guard and video surveillance, and   is strictly monitored at all times. '}
 
 
 
@@ -2512,9 +2284,7 @@
 
 
 
-{'C': "SARAH (CONT'D)"}
-
-{'D': "Senator, don't you have a young man on  your staff named JACK? "}
+{'C': "SARAH (CONT'D)", 'D': "Senator, don't you have a young man on   your staff named JACK? "}
 {'N': '(covering) '}
 
 
@@ -2531,9 +2301,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Jack?I believe we did have a young man  named Jack.Not a reliable man, as I  recall.Constantly late or behind in his  work. '}
+{'C': 'ETHAN ', 'D': 'Jack?I believe we did have a young man   named Jack.Not a reliable man, as I   recall.Constantly late or behind in his   work. '}
 
 
 
@@ -2554,9 +2322,7 @@
 
 
 
-{'C': 'GUARD '}
-
-{'D': 'Excuse me, let me see that ID again! '}
+{'C': 'GUARD ', 'D': 'Excuse me, let me see that ID again! '}
 
 
 
@@ -2577,9 +2343,7 @@
 
 
 
-{'C': 'PHELPS (O.S.) '}
-
-{'D': "Jack's pinned down Sarah.Should be a  second.Keep dancing."}
+{'C': 'PHELPS (O.S.) ', 'D': "Jack's pinned down Sarah.Should be a   second.Keep dancing."}
 
 
 
@@ -2588,9 +2352,7 @@
 
 
 
-{'C': 'ETHAN (O.S.) '}
-
-{'D': 'We were forced to tie him to my best  stallion and drag him around the barn a  few times.'}
+{'C': 'ETHAN (O.S.) ', 'D': 'We were forced to tie him to my best   stallion and drag him around the barn a   few times.'}
 {'N': "(with the Senator's southern accent) "}
 
 
@@ -2609,9 +2371,7 @@
 
 
 
-{'C': 'JACK '}
-
-{'D': "Relax your crack, Foghorn, I'm workin' on it. "}
+{'C': 'JACK ', 'D': "Relax your crack, Foghorn, I'm workin' on  it. "}
 
 
 
@@ -2660,9 +2420,7 @@
 
 
 
-{'C': 'IDENTITY CONFIRMED '}
-
-{'D': ''}
+{'C': 'IDENTITY CONFIRMED ', 'D': ''}
 
 
 
@@ -2679,9 +2437,7 @@
 
 
 
-{'C': 'GUARD '}
-
-{'D': 'Oh. Sorry, sir. '}
+{'C': 'GUARD ', 'D': 'Oh. Sorry, sir. '}
 
 
 
@@ -2710,9 +2466,7 @@
 
 
 
-{'C': 'JACK '}
-
-{'D': 'The drink (date) with Sarah is definitely off. '}
+{'C': 'JACK ', 'D': 'The drink (date) with Sarah is definitely  off. '}
 
 
 
@@ -2735,9 +2489,7 @@
 
 
 
-{'C': 'PHELPS '}
-
-{'D': "Hannah -- I'm blind again.Hannah. "}
+{'C': 'PHELPS ', 'D': "Hannah -- I'm blind again.Hannah. "}
 {'N': '(a touch of impatience) '}
 
 
@@ -2762,9 +2514,7 @@
 
 
 
-{'C': 'HANNAH '}
-
-{'D': "He's heading to the denied area. "}
+{'C': 'HANNAH ', 'D': "He's heading to the denied area. "}
 
 
 
@@ -2797,9 +2547,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Higher.Higher.'}
+{'C': 'ETHAN ', 'D': 'Higher.Higher.'}
 {'N': '(to Sarah) '}
 
 
@@ -2808,18 +2556,14 @@
 
 
 
-{'C': 'SARAH '}
-
-{'D': 'Higher. '}
+{'C': 'SARAH ', 'D': 'Higher. '}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Right, right.Good. '}
+{'C': 'ETHAN ', 'D': 'Right, right.Good. '}
 
 
 
@@ -2862,9 +2606,7 @@
 
 
 
-{'C': 'PHELPS '}
-
-{'D': "Get moving, Ethan.He's rolling to you. "}
+{'C': 'PHELPS ', 'D': "Get moving, Ethan.He's rolling to you. "}
 
 
 
@@ -2885,9 +2627,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "Jack we're in position. "}
+{'C': 'ETHAN ', 'D': "Jack we're in position. "}
 
 
 
@@ -2912,18 +2652,14 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Jack.Jack. '}
+{'C': 'ETHAN ', 'D': 'Jack.Jack. '}
 
 
 
 
 
 
-{'C': 'JACK '}
-
-{'D': "I didn't touch it. "}
+{'C': 'JACK ', 'D': "I didn't touch it. "}
 
 
 
@@ -2958,9 +2694,7 @@
 
 
 
-{'C': 'PHELPS '}
-
-{'D': "He's in the box, Ethan, he's in the box! "}
+{'C': 'PHELPS ', 'D': "He's in the box, Ethan, he's in the box! "}
 {'N': '(tension rising) '}
 
 
@@ -2985,9 +2719,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "OK.Taking Golitsyn's exit.Jack, open the doors. "}
+{'C': 'ETHAN ', 'D': "OK.Taking Golitsyn's exit.Jack, open  the doors. "}
 
 
 
@@ -2996,18 +2728,14 @@
 
 
 
-{'C': 'SARAH '}
-
-{'D': "What about my coat?I'll freeze. "}
+{'C': 'SARAH ', 'D': "What about my coat?I'll freeze. "}
 
 
 
 
 
 
-{'C': 'JACK (O.S.) '}
-
-{'D': "I don't have it. "}
+{'C': 'JACK (O.S.) ', 'D': "I don't have it. "}
 
 
 
@@ -3026,9 +2754,7 @@
 
 
 
-{'C': 'PHELPS '}
-
-{'D': 'Opening the doors.Go under. '}
+{'C': 'PHELPS ', 'D': 'Opening the doors.Go under. '}
 
 
 
@@ -3109,45 +2835,35 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "He's got it.Saved your ass again Jack. "}
+{'C': 'ETHAN ', 'D': "He's got it.Saved your ass again Jack. "}
 
 
 
 
 
 
-{'C': 'JACK (O.S.) '}
-
-{'D': 'Give me a break, Pops. '}
+{'C': 'JACK (O.S.) ', 'D': 'Give me a break, Pops. '}
 
 
 
 
 
 
-{'C': 'SARAH '}
-
-{'D': 'Such a nice ass. '}
+{'C': 'SARAH ', 'D': 'Such a nice ass. '}
 
 
 
 
 
 
-{'C': 'JACK (O.S.) '}
-
-{'D': 'And a lonely ass. '}
+{'C': 'JACK (O.S.) ', 'D': 'And a lonely ass. '}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "Sarah's reconsidering.Claire, transport  in five minutes. "}
+{'C': 'ETHAN ', 'D': "Sarah's reconsidering.Claire, transport   in five minutes. "}
 
 
 
@@ -3156,9 +2872,7 @@
 
 
 
-{'C': 'CLAIRE (O.S.) '}
-
-{'D': 'Roger that. '}
+{'C': 'CLAIRE (O.S.) ', 'D': 'Roger that. '}
 
 
 
@@ -3213,9 +2927,7 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'In position.Jack open the door, let the package roll.'}
+{'C': 'ETHAN', 'D': 'In position.Jack open the door, let the  package roll.'}
 
 
 
@@ -3224,18 +2936,14 @@
 
 
 
-{'C': 'JACK (O.S.)'}
-
-{'D': 'Roger that.Opening doors now.'}
+{'C': 'JACK (O.S.)', 'D': 'Roger that.Opening doors now.'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Stairway, youÃ\xadre wrapped, go to transport.'}
+{'C': 'ETHAN', 'D': 'Stairway, youÃ\xadre wrapped, go to  transport.'}
 
 
 
@@ -3250,9 +2958,7 @@
 
 
 
-{'C': 'HANNAH'}
-
-{'D': 'En route.'}
+{'C': 'HANNAH', 'D': 'En route.'}
 
 
 
@@ -3289,9 +2995,7 @@
 
 
 
-{'C': 'JACK'}
-
-{'D': 'Hey.'}
+{'C': 'JACK', 'D': 'Hey.'}
 
 
 
@@ -3320,9 +3024,7 @@
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'Jack, what are you doing?!'}
+{'C': 'PHELPS', 'D': 'Jack, what are you doing?!'}
 
 
 
@@ -3335,9 +3037,7 @@
 
 
 
-{'C': 'JACK'}
-
-{'D': 'IÃ\xadm not doing anything!(I donÃ\xadt have it either).'}
+{'C': 'JACK', 'D': 'IÃ\xadm not doing anything!(I donÃ\xadt have it  either).'}
 
 
 
@@ -3360,9 +3060,7 @@
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'I donÃ\xadt have it -- I donÃ\xadt have control!'}
+{'C': 'PHELPS', 'D': 'I donÃ\xadt have it -- I donÃ\xadt have  control!'}
 
 
 
@@ -3385,9 +3083,7 @@
 
 
 
-{'C': 'JACK'}
-
-{'D': 'Uh -- then I have a problem.'}
+{'C': 'JACK', 'D': 'Uh -- then I have a problem.'}
 
 
 
@@ -3436,9 +3132,7 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Cut the power.Cut the power Jack.Do you hear me.'}
+{'C': 'ETHAN', 'D': 'Cut the power.Cut the power Jack.Do  you hear me.'}
 
 
 
@@ -3469,9 +3163,7 @@
 
 {'M': ''}
 
-{'C': 'ETHAN (O.S.)'}
-
-{'D': 'Come on, Jack, come on.'}
+{'C': 'ETHAN (O.S.)', 'D': 'Come on, Jack, come on.'}
 
 
 
@@ -3506,9 +3198,7 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Jack.Jack.'}
+{'C': 'ETHAN', 'D': 'Jack.Jack.'}
 
 
 
@@ -3533,9 +3223,7 @@
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'Man down.Stay where you are.IÃ\xadm on my way.'}
+{'C': 'PHELPS', 'D': 'Man down.Stay where you are.IÃ\xadm on my  way.'}
 
 
 
@@ -3588,9 +3276,7 @@
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'En route.'}
+{'C': 'PHELPS', 'D': 'En route.'}
 
 
 
@@ -3653,45 +3339,35 @@
 
 
 
-{'C': 'SARAH'}
-
-{'D': 'The package is in the open.'}
+{'C': 'SARAH', 'D': 'The package is in the open.'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Jim.Jim.HeÃ\xads in the open.'}
+{'C': 'ETHAN', 'D': 'Jim.Jim.HeÃ\xads in the open.'}
 
 
 
 
 
 
-{'C': 'PHELPS (O.S.)'}
-
-{'D': 'IÃ\xadve got a shadow.'}
+{'C': 'PHELPS (O.S.)', 'D': 'IÃ\xadve got a shadow.'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Can you lose him?'}
+{'C': 'ETHAN', 'D': 'Can you lose him?'}
 
 
 
 
 
 
-{'C': 'PHELPS (O.S.)'}
-
-{'D': 'No.Abort.'}
+{'C': 'PHELPS (O.S.)', 'D': 'No.Abort.'}
 
 
 
@@ -3706,18 +3382,14 @@
 
 
 
-{'C': 'SARAH'}
-
-{'D': 'Ethan.HeÃ\xads out of pocket.'}
+{'C': 'SARAH', 'D': 'Ethan.HeÃ\xads out of pocket.'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Jim we canÃ\xadt.'}
+{'C': 'ETHAN', 'D': 'Jim we canÃ\xadt.'}
 {'N': '(to Phelps) '}
 
 
@@ -3726,18 +3398,14 @@
 
 
 
-{'C': 'PHELPS (O.S.)'}
-
-{'D': 'Abort.ThatÃ\xads an order.'}
+{'C': 'PHELPS (O.S.)', 'D': 'Abort.ThatÃ\xads an order.'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Negative, GolitsynÃ\xads on the move.'}
+{'C': 'ETHAN', 'D': 'Negative, GolitsynÃ\xads on the move.'}
 
 
 
@@ -3758,9 +3426,7 @@
 
 
 
-{'C': 'PHELPS (O.S.)'}
-
-{'D': 'No, damn it, no, I said ABORT!'}
+{'C': 'PHELPS (O.S.)', 'D': 'No, damn it, no, I said ABORT!'}
 
 
 
@@ -3779,9 +3445,7 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Sarah eye on the package.Jim, IÃ\xadm coming to you.'}
+{'C': 'ETHAN', 'D': 'Sarah eye on the package.Jim, IÃ\xadm  coming to you.'}
 
 
 
@@ -3790,9 +3454,7 @@
 
 
 
-{'C': 'SARAH'}
-
-{'D': 'Jim gave an abort, we should walk away.'}
+{'C': 'SARAH', 'D': 'Jim gave an abort, we should walk  away.'}
 
 
 
@@ -3801,9 +3463,7 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'No, weÃ\xadre going to recover the disk, understand?!Now move!'}
+{'C': 'ETHAN', 'D': 'No, weÃ\xadre going to recover the disk,  understand?!Now move!'}
 
 
 
@@ -3844,27 +3504,21 @@
 
 
 
-{'C': 'PHELPS (O.S.)'}
-
-{'D': 'Where are you?'}
+{'C': 'PHELPS (O.S.)', 'D': 'Where are you?'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'About two hundred yards from the bridge.'}
+{'C': 'ETHAN', 'D': 'About two hundred yards from the bridge.'}
 
 
 
 
 
 
-{'C': 'PHELPS (O.S.)'}
-
-{'D': 'TheyÃ\xadre covering this frequency, Ethan. Cut all radio communications.Repeat. Cut all radio communications.'}
+{'C': 'PHELPS (O.S.)', 'D': 'TheyÃ\xadre covering this frequency, Ethan.  Cut all radio communications.Repeat.  Cut all radio communications.'}
 
 
 
@@ -3961,9 +3615,7 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'JIM!'}
+{'C': 'ETHAN', 'D': 'JIM!'}
 
 
 
@@ -4032,9 +3684,7 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'CLAIRE!'}
+{'C': 'ETHAN', 'D': 'CLAIRE!'}
 
 
 
@@ -4257,45 +3907,35 @@
 
 
 
-{'C': 'FLAT VOICE (O.S.)'}
-
-{'D': 'Satcom seven.'}
+{'C': 'FLAT VOICE (O.S.)', 'D': 'Satcom seven.'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Central Europe.Unsecured.'}
+{'C': 'ETHAN', 'D': 'Central Europe.Unsecured.'}
 
 
 
 
 
 
-{'C': 'FLAT VOICE (O.S.)'}
-
-{'D': 'Designator?'}
+{'C': 'FLAT VOICE (O.S.)', 'D': 'Designator?'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Bravo Echo one one.'}
+{'C': 'ETHAN', 'D': 'Bravo Echo one one.'}
 
 
 
 
 
 
-{'C': 'FLAT VOICE (O.S.)'}
-
-{'D': 'Switching.'}
+{'C': 'FLAT VOICE (O.S.)', 'D': 'Switching.'}
 
 
 
@@ -4310,18 +3950,14 @@
 
 
 
-{'C': 'KITTRIDGE (O.S.)'}
-
-{'D': 'This is Kittridge.'}
+{'C': 'KITTRIDGE (O.S.)', 'D': 'This is Kittridge.'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Go secure.'}
+{'C': 'ETHAN', 'D': 'Go secure.'}
 
 
 
@@ -4332,54 +3968,42 @@
 
 {'M': ''}
 
-{'C': 'KITTRIDGE (O.S.)'}
-
-{'D': 'Go ahead.'}
+{'C': 'KITTRIDGE (O.S.)', 'D': 'Go ahead.'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'TheyÃ\xadre dead.'}
+{'C': 'ETHAN', 'D': 'TheyÃ\xadre dead.'}
 
 
 
 
 
 
-{'C': 'KITTRIDGE (O.S.)'}
-
-{'D': 'WhoÃ\xads dead?'}
+{'C': 'KITTRIDGE (O.S.)', 'D': 'WhoÃ\xads dead?'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'My team.Claire, Jack, even Jim - - Hannah, maybe, I -- donÃ\xadt know'}
+{'C': 'ETHAN', 'D': 'My team.Claire, Jack, even Jim -  - Hannah, maybe, I -- donÃ\xadt know'}
 
 
 
 
 {'M': ''}
 
-{'C': 'KITTRIDGE (O.S.)'}
-
-{'D': 'Are you damaged?'}
+{'C': 'KITTRIDGE (O.S.)', 'D': 'Are you damaged?'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'They knew we were coming.GolitsynÃ\xads dead too.The disk is gone.'}
+{'C': 'ETHAN', 'D': 'They knew we were coming.GolitsynÃ\xads  dead too.The disk is gone.'}
 
 
 
@@ -4388,27 +4012,21 @@
 
 
 
-{'C': 'KITTRIDGE (O.S.)'}
-
-{'D': 'Are you intact?'}
+{'C': 'KITTRIDGE (O.S.)', 'D': 'Are you intact?'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Do you read me?The list is in the open!'}
+{'C': 'ETHAN', 'D': 'Do you read me?The list is in the open!'}
 
 
 
 
 
 
-{'C': 'KITTRIDGE (O.S.)'}
-
-{'D': "Let's just bring you in safely, and then we'll worry about that, okay?Were you followed?"}
+{'C': 'KITTRIDGE (O.S.)', 'D': "Let's just bring you in safely, and then  we'll worry about that, okay?Were you  followed?"}
 
 
 
@@ -4427,36 +4045,28 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'I donÃ\xadt think so.'}
+{'C': 'ETHAN', 'D': 'I donÃ\xadt think so.'}
 
 
 
 
 
 
-{'C': 'KITTRIDGE (O.S.)'}
-
-{'D': 'DonÃ\xadt think, be sure.Are you clean?'}
+{'C': 'KITTRIDGE (O.S.)', 'D': 'DonÃ\xadt think, be sure.Are you clean?'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Yes.'}
+{'C': 'ETHAN', 'D': 'Yes.'}
 
 
 
 
 
 
-{'C': 'KITTRIDGE (O.S.)'}
-
-{'D': 'Location green.One hour.IÃ\xadll be there myself.'}
+{'C': 'KITTRIDGE (O.S.)', 'D': 'Location green.One hour.IÃ\xadll be there  myself.'}
 
 
 
@@ -4465,18 +4075,14 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'YouÃ\xadre in Prague?'}
+{'C': 'ETHAN', 'D': 'YouÃ\xadre in Prague?'}
 
 
 
 
 
 
-{'C': 'KITTRIDGE (O.S.)'}
-
-{'D': 'Heard a lot about you, Hunt.DonÃ\xadt disappoint me.'}
+{'C': 'KITTRIDGE (O.S.)', 'D': 'Heard a lot about you, Hunt.DonÃ\xadt  disappoint me.'}
 
 
 
@@ -4485,18 +4091,14 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'No sir.'}
+{'C': 'ETHAN', 'D': 'No sir.'}
 
 
 
 
 
 
-{'C': 'KITTRIDGE (O.S.)'}
-
-{'D': 'One hour.'}
+{'C': 'KITTRIDGE (O.S.)', 'D': 'One hour.'}
 
 
 
@@ -4603,9 +4205,7 @@
 
 {'M': ''}
 
-{'C': 'KITTRIDGE '}
-
-{'D': "I can't tell you how sorry I am.I know  how much Jim in particular meant to you,  Ethan.Personally as well as professionally. "}
+{'C': 'KITTRIDGE ', 'D': "I can't tell you how sorry I am.I know   how much Jim in particular meant to you,   Ethan.Personally as well as professionally. "}
 
 
 
@@ -4616,9 +4216,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Yeah. '}
+{'C': 'ETHAN ', 'D': 'Yeah. '}
 
 
 
@@ -4641,9 +4239,7 @@
 
 
 
-{'C': 'KITTRIDGE'}
-
-{'D': "Passport, visas - you know the drill.  We'll work the exfiltration thru Canada,  debrief you at Langley.Throw the Prague  police a bone, you know toss them a few  suspects.Follow me? "}
+{'C': 'KITTRIDGE', 'D': "Passport, visas - you know the drill.   We'll work the exfiltration thru Canada,   debrief you at Langley.Throw the Prague   police a bone, you know toss them a few   suspects.Follow me? "}
 
 
 
@@ -4658,27 +4254,21 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Yeah.I follow you. '}
+{'C': 'ETHAN ', 'D': 'Yeah.I follow you. '}
 
 
 
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': "We've lost enough agents for one night. "}
+{'C': 'KITTRIDGE ', 'D': "We've lost enough agents for one night. "}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "You mean I've lost enough agents for one  night. "}
+{'C': 'ETHAN ', 'D': "You mean I've lost enough agents for one   night. "}
 
 
 
@@ -4693,9 +4283,7 @@
 
 {'M': ''}
 
-{'C': 'KITTRIDGE '}
-
-{'D': 'You seem hell bent on blaming yourself,  Ethan. '}
+{'C': 'KITTRIDGE ', 'D': 'You seem hell bent on blaming yourself,   Ethan. '}
 
 
 
@@ -4704,63 +4292,49 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Who else is left? '}
+{'C': 'ETHAN ', 'D': 'Who else is left? '}
 
 
 
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': 'Yes.I see your point. '}
+{'C': 'KITTRIDGE ', 'D': 'Yes.I see your point. '}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Why was there another team? '}
+{'C': 'ETHAN ', 'D': 'Why was there another team? '}
 
 
 
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': 'What? '}
+{'C': 'KITTRIDGE ', 'D': 'What? '}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Of IMF agents.At the Embassy.Tonight. '}
+{'C': 'ETHAN ', 'D': 'Of IMF agents.At the Embassy.Tonight. '}
 
 
 
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': "I don't quite follow you. "}
+{'C': 'KITTRIDGE ', 'D': "I don't quite follow you. "}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': "Let's see if you can follow me around  this room.  The drunk Russians on the embankment at 7  and 8 o'clock...The couple waltzing  around me at the Embassy at 9 and 11.  The waiter behind Hannah at the top of  the staircase - Bowtie, 12 o'clock. The  other IMF team.You're worried about me.  Why?"}
+{'C': 'ETHAN', 'D': "Let's see if you can follow me around   this room.   The drunk Russians on the embankment at 7   and 8 o'clock...The couple waltzing   around me at the Embassy at 9 and 11.   The waiter behind Hannah at the top of   the staircase - Bowtie, 12 o'clock. The   other IMF team.You're worried about me.   Why?"}
 
 
 
@@ -4785,9 +4359,7 @@
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': "You're right.Maybe this'll save some  time. "}
+{'C': 'KITTRIDGE ', 'D': "You're right.Maybe this'll save some   time. "}
 {'N': '(a tight little smile) '}
 
 
@@ -4808,9 +4380,8 @@
 
 
 
-{'C': "KITTRIDGE (CONT'D) "}
+{'C': "KITTRIDGE (CONT'D) ", 'D': 'For a little over two years now we\'ve   been spotting serious blowback in IMF   operations.We have a penetration.The   other day we decoded a message on the   Internet from a Czech we know as "Max."'}
 
-{'D': 'For a little over two years now we\'ve  been spotting serious blowback in IMF  operations.We have a penetration.The  other day we decoded a message on the  Internet from a Czech we know as "Max."'}
 
 
 
@@ -4824,19 +4395,17 @@
 
 
 
+{'C': 'ETHAN ', 'D': 'The arms dealer. '}
 
-{'C': 'ETHAN '}
 
-{'D': 'The arms dealer. '}
 
 
 
 
+{'C': 'KITTRIDGE ', 'D': 'That\'s right.Max, it seems, has two   unique gifts -- a capacity for anonymity  and for corrupting susceptible agents.   This time he\'s gotten to someone on the   inside - he\'s put himself in a position   to buy our NOC list. An operation he   referred to as "Job 314".The job he   thought Golitsyn was doing tonight. '}
 
 
-{'C': 'KITTRIDGE '}
 
-{'D': 'That\'s right.Max, it seems, has two  unique gifts -- a capacity for anonymity and for corrupting susceptible agents.  This time he\'s gotten to someone on the  inside - he\'s put himself in a position  to buy our NOC list. An operation he  referred to as "Job 314".The job he  thought Golitsyn was doing tonight. '}
 
 
 
@@ -4854,43 +4423,32 @@
 
 
 
+{'C': 'ETHAN ', 'D': 'But the list Golitsyn stole was a decoy. '}
 
 
 
-{'C': 'ETHAN '}
 
-{'D': 'But the list Golitsyn stole was a decoy. '}
 
 
+{'C': 'KITTRIDGE ', 'D': 'Correct the actual list is safe at   Langley."Golitsyn" was a lightning rod,   one of ours. '}
 
 
 
 
-{'C': 'KITTRIDGE '}
 
-{'D': 'Correct the actual list is safe at  Langley."Golitsyn" was a lightning rod,  one of ours. '}
 
 
 
 
 
+{'C': 'ETHAN ', 'D': 'This whole operation was a molehunt. '}
 
 
 
 
 
-{'C': 'ETHAN '}
 
-{'D': 'This whole operation was a molehunt. '}
-
-
-
-
-
-
-{'C': 'KITTRIDGE '}
-
-{'D': "Yes, the mole's deep inside. And -- like  you said.You survived. "}
+{'C': 'KITTRIDGE ', 'D': "Yes, the mole's deep inside. And -- like   you said.You survived. "}
 
 
 
@@ -4905,9 +4463,7 @@
 
 
 
-{'C': "KITTRIDGE (CONT'D)"}
-
-{'D': 'I want to show you something, Ethan. '}
+{'C': "KITTRIDGE (CONT'D)", 'D': 'I want to show you something, Ethan. '}
 
 
 
@@ -4924,9 +4480,7 @@
 
 
 
-{'C': "KITTRIDGE (CONT'D) "}
-
-{'D': "Since your father's death, your family's  farm has been in sub-chapter S and now,  suddenly, they're flush with over a  hundred and twenty grand in the bank.  Dad's illness was supposed to have wiped  out the bank account -- dying slowly in  America after all, can be a very  expensive proposition Ethan.So, why  don't we go quietly out of here onto the  plane... "}
+{'C': "KITTRIDGE (CONT'D) ", 'D': "Since your father's death, your family's   farm has been in sub-chapter S and now,   suddenly, they're flush with over a   hundred and twenty grand in the bank.   Dad's illness was supposed to have wiped   out the bank account -- dying slowly in   America after all, can be a very   expensive proposition Ethan.So, why   don't we go quietly out of here onto the   plane... "}
 
 
 
@@ -4951,9 +4505,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'How about if we just go quietly into the  bathroom and I wash your mouth out with  soap - you pathetic button down  bureaucratic asshole. '}
+{'C': 'ETHAN ', 'D': 'How about if we just go quietly into the   bathroom and I wash your mouth out with   soap - you pathetic button down   bureaucratic asshole. '}
 
 
 
@@ -4966,9 +4518,7 @@
 
 
 
-{'C': "KITTRIDGE (CONT'D) "}
-
-{'D': "Ethan, I can understand you're very  upset. "}
+{'C': "KITTRIDGE (CONT'D) ", 'D': "Ethan, I can understand you're very   upset. "}
 
 
 
@@ -4977,9 +4527,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "Kitteridge, you've never seen me very  upset. "}
+{'C': 'ETHAN ', 'D': "Kitteridge, you've never seen me very   upset. "}
 
 
 
@@ -4996,9 +4544,7 @@
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': "All right, enough isenough Hunt. You've  bribed, cajoled, killed - and relied on  intimate loyalties to get away with it.  You're determined to shake hands with the  devil and I'm going to make sure you do  it in hell. "}
+{'C': 'KITTRIDGE ', 'D': "All right, enough isenough Hunt. You've   bribed, cajoled, killed - and relied on   intimate loyalties to get away with it.   You're determined to shake hands with the   devil and I'm going to make sure you do   it in hell. "}
 
 
 
@@ -5257,9 +4803,7 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Job.Job 3:14.March fourteen.Job 31  March.  SEARCHING STRING NOT FOUND max.com SEARCH STRING NOT FOUND'}
+{'C': 'ETHAN', 'D': 'Job.Job 3:14.March fourteen.Job 31   March.   SEARCHING STRING NOT FOUND  max.com  SEARCH STRING NOT FOUND'}
 
 
 
@@ -5332,9 +4876,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Job three fourteen.Job --'}
+{'C': 'ETHAN ', 'D': 'Job three fourteen.Job --'}
 
 
 {'M': '(a realization, '}
@@ -5423,9 +4965,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Max -- Goods tainted.Consider extremely  hazardous.DO NOT USE.Fate will be  that of kings and counsellors who built  for themselves palaces now lying in  ruins.Must meet to discuss a.s.a.p. '}
+{'C': 'ETHAN ', 'D': 'Max -- Goods tainted.Consider extremely   hazardous.DO NOT USE.Fate will be   that of kings and counsellors who built   for themselves palaces now lying in   ruins.Must meet to discuss a.s.a.p. '}
 
 
 
@@ -5458,9 +4998,7 @@
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'Ethan, what are you doing? '}
+{'C': 'PHELPS', 'D': 'Ethan, what are you doing? '}
 
 
 
@@ -5473,9 +5011,7 @@
 
 
 
-{'C': "PHELPS (CONT'D) "}
-
-{'D': "I needed you, Ethan. 1 needed you on the  bridge, and -- you weren't there.Ethan?  Ethan? "}
+{'C': "PHELPS (CONT'D) ", 'D': "I needed you, Ethan. 1 needed you on the   bridge, and -- you weren't there.Ethan?   Ethan? "}
 
 
 
@@ -5510,9 +5046,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'What are you doing here?! '}
+{'C': 'ETHAN ', 'D': 'What are you doing here?! '}
 
 
 
@@ -5525,9 +5059,7 @@
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': "Ethan -- Ethan, it's okay.It's Claire.  Ethan what's wrong with you? "}
+{'C': 'CLAIRE ', 'D': "Ethan -- Ethan, it's okay.It's Claire.   Ethan what's wrong with you? "}
 {'N': '(carefully) '}
 
 
@@ -5538,9 +5070,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "Don't move. "}
+{'C': 'ETHAN ', 'D': "Don't move. "}
 
 
 
@@ -5553,18 +5083,14 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'You were in the car! '}
+{'C': 'ETHAN ', 'D': 'You were in the car! '}
 
 
 
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': "I wasn't.I heard that Jim was in  trouble on the radio.He said someone  was... "}
+{'C': 'CLAIRE ', 'D': "I wasn't.I heard that Jim was in   trouble on the radio.He said someone   was... "}
 
 
 
@@ -5575,9 +5101,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Shut up!I saw you.You were in the  car. '}
+{'C': 'ETHAN ', 'D': 'Shut up!I saw you.You were in the   car. '}
 
 
 
@@ -5586,9 +5110,7 @@
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': 'No, I got out of the car and I ran to the bridge. '}
+{'C': 'CLAIRE ', 'D': 'No, I got out of the car and I ran to the  bridge. '}
 
 
 
@@ -5597,36 +5119,28 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "Don't give me that!I was on the bridge. "}
+{'C': 'ETHAN ', 'D': "Don't give me that!I was on the bridge. "}
 
 
 
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': 'What happened to Jim? '}
+{'C': 'CLAIRE ', 'D': 'What happened to Jim? '}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'There was nobody on the bridge. '}
+{'C': 'ETHAN ', 'D': 'There was nobody on the bridge. '}
 
 
 
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': 'What happened to Jim? '}
+{'C': 'CLAIRE ', 'D': 'What happened to Jim? '}
 
 
 
@@ -5639,9 +5153,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "Dead.Dead.Dead!Wake up, Claire!  Jim's dead, they're dead.They're all  dead! "}
+{'C': 'ETHAN ', 'D': "Dead.Dead.Dead!Wake up, Claire!   Jim's dead, they're dead.They're all   dead! "}
 
 
 
@@ -5658,9 +5170,7 @@
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': "They're dead.Jim's dead. "}
+{'C': 'CLAIRE ', 'D': "They're dead.Jim's dead. "}
 {'N': '(mumbling) '}
 
 
@@ -5669,27 +5179,21 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Take off your coat. '}
+{'C': 'ETHAN', 'D': 'Take off your coat. '}
 
 
 
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': 'What? '}
+{'C': 'CLAIRE ', 'D': 'What? '}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Take off your God damn coat! '}
+{'C': 'ETHAN ', 'D': 'Take off your God damn coat! '}
 
 
 
@@ -5716,18 +5220,14 @@
 
 
 
-{'C': "ETHAN (CONT'D) "}
-
-{'D': 'Where were you? '}
+{'C': "ETHAN (CONT'D) ", 'D': 'Where were you? '}
 
 
 
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': 'I walked away.He said abort.He was  gone so I walked away. '}
+{'C': 'CLAIRE ', 'D': 'I walked away.He said abort.He was   gone so I walked away. '}
 
 
 
@@ -5736,9 +5236,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'That was four hours ago!Who sent you?  Did they send you here? '}
+{'C': 'ETHAN ', 'D': 'That was four hours ago!Who sent you?   Did they send you here? '}
 
 
 
@@ -5747,9 +5245,7 @@
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': 'Who is "they?" '}
+{'C': 'CLAIRE ', 'D': 'Who is "they?" '}
 {'N': '(slowly) '}
 
 
@@ -5758,18 +5254,14 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Did they send you...Did they send you? '}
+{'C': 'ETHAN ', 'D': 'Did they send you...Did they send you? '}
 
 
 
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': 'Who is they, who is they? '}
+{'C': 'CLAIRE ', 'D': 'Who is they, who is they? '}
 
 
 
@@ -5782,18 +5274,14 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Who sent you?!Who sent you? '}
+{'C': 'ETHAN ', 'D': 'Who sent you?!Who sent you? '}
 
 
 
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': "No one sent me!We're supposed to be  back here at four o'clock, four o'clock,  if we abort, we don't return here until  four o'clock, 0-four hundred, four am,  four o'clock --! "}
+{'C': 'CLAIRE ', 'D': "No one sent me!We're supposed to be   back here at four o'clock, four o'clock,   if we abort, we don't return here until   four o'clock, 0-four hundred, four am,   four o'clock --! "}
 {'N': '(screaming) '}
 
 
@@ -5836,18 +5324,14 @@
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': "Why haven't they brought us in yet? "}
+{'C': 'CLAIRE ', 'D': "Why haven't they brought us in yet? "}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': "I've been disavowed.They think I killed  Jim and everyone else.Somehow a hundred  thousand dollars found its way into my  parents' bank account.Kittridge assumes  I'm a mole they've been tracing and I've  been in the employ of an arms dealer,  Max, for the last two years, to get him  our NOC list. "}
+{'C': 'ETHAN', 'D': "I've been disavowed.They think I killed   Jim and everyone else.Somehow a hundred   thousand dollars found its way into my   parents' bank account.Kittridge assumes   I'm a mole they've been tracing and I've   been in the employ of an arms dealer,   Max, for the last two years, to get him   our NOC list. "}
 
 
 
@@ -5874,18 +5358,14 @@
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': 'What are you going to do? '}
+{'C': 'CLAIRE ', 'D': 'What are you going to do? '}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "I'm going to get it for him.Whoever the  mole is, I think goes by the name of Job,  at least part of the time. 1 can't find  him, but if he knows 1 have the NOC list,  he'll find me. "}
+{'C': 'ETHAN ', 'D': "I'm going to get it for him.Whoever the   mole is, I think goes by the name of Job,   at least part of the time. 1 can't find   him, but if he knows 1 have the NOC list,   he'll find me. "}
 
 
 
@@ -5898,9 +5378,7 @@
 
 {'M': ''}
 
-{'C': 'CLAIRE '}
-
-{'D': "Ethan, you're not making sense. Let me  go in and talk to Kittridge. I'm going  to tell him you had nothing to do... "}
+{'C': 'CLAIRE ', 'D': "Ethan, you're not making sense. Let me   go in and talk to Kittridge. I'm going   to tell him you had nothing to do... "}
 
 
 
@@ -5911,9 +5389,7 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': "Claire, Claire, Claire, if you're not  dead, he's going to assume you're with  me. "}
+{'C': 'ETHAN', 'D': "Claire, Claire, Claire, if you're not   dead, he's going to assume you're with   me. "}
 
 
 
@@ -5976,18 +5452,14 @@
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': 'The message is for Job. '}
+{'C': 'CLAIRE ', 'D': 'The message is for Job. '}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': "I'm going to answer it. "}
+{'C': 'ETHAN', 'D': "I'm going to answer it. "}
 
 
 
@@ -6010,9 +5482,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Excuse me, could I trouble you for a  match? '}
+{'C': 'ETHAN ', 'D': 'Excuse me, could I trouble you for a   match? '}
 
 
 
@@ -6047,27 +5517,21 @@
 
 
 
-{'C': 'MATTHIAS'}
-
-{'D': 'Would you remove your hat please? '}
+{'C': 'MATTHIAS', 'D': 'Would you remove your hat please? '}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Why? '}
+{'C': 'ETHAN ', 'D': 'Why? '}
 
 
 
 
 
 
-{'C': 'MATTHIAS '}
-
-{'D': 'You wish to meet Max?This is the price  of admission. '}
+{'C': 'MATTHIAS ', 'D': 'You wish to meet Max?This is the price   of admission. '}
 
 
 
@@ -6114,36 +5578,28 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'I thought I was going to see Max. '}
+{'C': 'ETHAN', 'D': 'I thought I was going to see Max. '}
 
 
 
 
 
 
-{'C': 'MATTHIAS '}
-
-{'D': 'You misunderstood.No one sees Max. '}
+{'C': 'MATTHIAS ', 'D': 'You misunderstood.No one sees Max. '}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Then what am I doing here? '}
+{'C': 'ETHAN ', 'D': 'Then what am I doing here? '}
 
 
 
 
 
 
-{'C': 'MATTHIAS '}
-
-{'D': "Allowing Max to see you and hear what  you've got to say. "}
+{'C': 'MATTHIAS ', 'D': "Allowing Max to see you and hear what   you've got to say. "}
 
 
 
@@ -6152,9 +5608,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "I don't communicate very well through a  shroud. "}
+{'C': 'ETHAN ', 'D': "I don't communicate very well through a   shroud. "}
 
 
 
@@ -6163,9 +5617,7 @@
 
 
 
-{'C': 'MATTHIAS '}
-
-{'D': "If Max doesn't like what you have to say,  you'll be wearing that shroud  indefinitely. "}
+{'C': 'MATTHIAS ', 'D': "If Max doesn't like what you have to say,   you'll be wearing that shroud   indefinitely. "}
 
 
 
@@ -6176,18 +5628,14 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "I'm willing to take the chance. "}
+{'C': 'ETHAN ', 'D': "I'm willing to take the chance. "}
 
 
 
 
 
 
-{'C': 'MATTHIAS '}
-
-{'D': 'Very well. '}
+{'C': 'MATTHIAS ', 'D': 'Very well. '}
 
 
 
@@ -6206,47 +5654,41 @@
 
 
 
-{'C': 'MAX '}
-
-{'D': 'Who are you and what are you doing here? '}
+{'C': 'MAX ', 'D': 'Who are you and what are you doing here? '}
 
 
 {'M': ''}
 
-{'C': 'ETHAN '}
+{'C': 'ETHAN ', 'D': 'I need one hundred thousand dollars. '}
 
-{'D': 'I need one hundred thousand dollars. '}
 
 
 
 
 
+{'C': 'MAX', 'D': 'Really?And you thought if you simply   showed up I might give it to you? '}
 
-{'C': 'MAX'}
 
-{'D': 'Really?And you thought if you simply  showed up I might give it to you? '}
 
 
 
 
 
 
+{'C': 'ETHAN ', 'D': 'Why not?You gave Job a hundred and   twenty five thousand. '}
 
 
-{'C': 'ETHAN '}
 
-{'D': 'Why not?You gave Job a hundred and  twenty five thousand. '}
 
 
 
 
 
+{'C': 'MAX ', 'D': "The penny drops.You are not Job.Yes,   Job is not given to quoting Scripture in   his communications. And there was its   tone -- aggressive but playful.Job is   not playful.So you're something of a   paradox. "}
 
 
 
-{'C': 'MAX '}
 
-{'D': "The penny drops.You are not Job.Yes,  Job is not given to quoting Scripture in  his communications. And there was its  tone -- aggressive but playful.Job is  not playful.So you're something of a  paradox. "}
 
 
 
@@ -6259,51 +5701,47 @@
 
 
 
+{'C': 'ETHAN ', 'D': 'That depends. '}
 
 
 
 
-{'C': 'ETHAN '}
 
-{'D': 'That depends. '}
 
+{'C': 'MAX', 'D': 'On what? '}
 
 
 
 
 
-{'C': 'MAX'}
 
-{'D': 'On what? '}
+{'C': 'ETHAN ', 'D': 'Whether you like a paradox.I want a   hundred and fifty thousand dollars. '}
 
 
 
 
 
 
-{'C': 'ETHAN '}
 
-{'D': 'Whether you like a paradox.I want a  hundred and fifty thousand dollars. '}
 
+{'C': 'MAX', 'D': "It's quite out of the question. "}
 
 
 
 
 
 
+{'C': 'ETHAN ', 'D': "The disk Job sold you is worthless.It's   bait, part of an internal molehunt. "}
 
-{'C': 'MAX'}
 
-{'D': "It's quite out of the question. "}
 
 
 
 
 
 
-{'C': 'ETHAN '}
+{'C': 'MAX', 'D': 'And how might you know that?Are you   another Company man? '}
 
-{'D': "The disk Job sold you is worthless.It's  bait, part of an internal molehunt. "}
 
 
 
@@ -6311,77 +5749,70 @@
 
 
 
+{'C': 'ETHAN ', 'D': 'Like Job? '}
 
-{'C': 'MAX'}
 
-{'D': 'And how might you know that?Are you  another Company man? '}
 
 
 
 
+{'C': 'MAX ', 'D': "Ah, but, we're asking about you. "}
 
 
 
 
-{'C': 'ETHAN '}
 
-{'D': 'Like Job? '}
 
+{'C': 'ETHAN', 'D': "I'm NOC.Was.Now disavowed. "}
 
 
 
 
 
-{'C': 'MAX '}
 
-{'D': "Ah, but, we're asking about you. "}
+{'C': 'MAX ', 'D': 'Why, may I ask? '}
 
 
 
 
 
 
-{'C': 'ETHAN'}
+{'C': 'ETHAN', 'D': "That's the question I want to ask Job. "}
 
-{'D': "I'm NOC.Was.Now disavowed. "}
 
 
 
 
 
+{'C': 'MAX ', 'D': "I don't know Job any more than he knows   me. "}
 
-{'C': 'MAX '}
 
-{'D': 'Why, may I ask? '}
 
 
 
 
 
 
-{'C': 'ETHAN'}
+{'C': 'ETHAN ', 'D': "Even so, I'm sure you could arrange an   introduction. "}
 
-{'D': "That's the question I want to ask Job. "}
 
 
 
 
 
 
-{'C': 'MAX '}
 
-{'D': "I don't know Job any more than he knows  me. "}
+{'C': 'MAX ', 'D': 'Why should I? '}
 
 
 
 
 
 
+{'C': 'ETHAN ', 'D': "Because I can deliver the actual NOC   list.The one you have is not only   worthless, it's certain to be equipped   with a homing device to pinpoint your   exact location. "}
 
 
-{'C': 'ETHAN '}
 
-{'D': "Even so, I'm sure you could arrange an  introduction. "}
 
 
 
@@ -6390,18 +5821,15 @@
 
 
 
-{'C': 'MAX '}
 
-{'D': 'Why should I? '}
 
 
+{'C': 'MAX ', 'D': "It's easy to say the disk is worthless   when you say I can't look at the   information and see if it's worthless.   Not a tenable position, sir. "}
 
 
 
 
-{'C': 'ETHAN '}
 
-{'D': "Because I can deliver the actual NOC  list.The one you have is not only  worthless, it's certain to be equipped  with a homing device to pinpoint your  exact location. "}
 
 
 
@@ -6409,6 +5837,7 @@
 
 
 
+{'C': 'ETHAN ', 'D': "Okay, boot it up and in anywhere from   thirty seconds to ten minutes you're   gonna have Virginia farm boys hopping   around you like jackrabbits. "}
 
 
 
@@ -6416,39 +5845,12 @@
 
 
 
-{'C': 'MAX '}
 
-{'D': "It's easy to say the disk is worthless  when you say I can't look at the  information and see if it's worthless.  Not a tenable position, sir. "}
 
 
 
 
-
-
-
-
-
-
-
-
-{'C': 'ETHAN '}
-
-{'D': "Okay, boot it up and in anywhere from  thirty seconds to ten minutes you're  gonna have Virginia farm boys hopping  around you like jackrabbits. "}
-
-
-
-
-
-
-
-
-
-
-
-
-{'C': 'MAX '}
-
-{'D': 'Mm - Hmmm... '}
+{'C': 'MAX ', 'D': 'Mm - Hmmm... '}
 {'N': '(Pause.) '}
 
 
@@ -6457,9 +5859,7 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': "Tell you what.How good's the RF scanner  you used in the car? "}
+{'C': 'ETHAN', 'D': "Tell you what.How good's the RF scanner   you used in the car? "}
 
 
 
@@ -6468,18 +5868,14 @@
 
 
 
-{'C': 'MAX '}
-
-{'D': 'Very good. '}
+{'C': 'MAX ', 'D': 'Very good. '}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Okay, use it.But I suggest pack up  first. '}
+{'C': 'ETHAN ', 'D': 'Okay, use it.But I suggest pack up   first. '}
 
 
 
@@ -6508,9 +5904,7 @@
 
 
 
-{'C': 'MATTHIAS '}
-
-{'D': 'Twenty-six, twenty-seven.So far so  good. '}
+{'C': 'MATTHIAS ', 'D': 'Twenty-six, twenty-seven.So far so   good. '}
 
 
 
@@ -6519,9 +5913,7 @@
 
 
 
-{'C': 'MAX '}
-
-{'D': "That's not so good for you, my friend. "}
+{'C': 'MAX ', 'D': "That's not so good for you, my friend. "}
 
 
 
@@ -6534,18 +5926,14 @@
 
 
 
-{'C': 'MATTHIAS '}
-
-{'D': 'Thirty-two and change. '}
+{'C': 'MATTHIAS ', 'D': 'Thirty-two and change. '}
 
 
 
 
 
 
-{'C': 'MAX '}
-
-{'D': "Doesn't mean it's a signal.Could just  be the hard drive heating up. "}
+{'C': 'MAX ', 'D': "Doesn't mean it's a signal.Could just   be the hard drive heating up. "}
 {'N': '(to Ethan) '}
 
 
@@ -6564,18 +5952,14 @@
 
 
 
-{'C': 'MATTHIAS '}
-
-{'D': 'Forty-four.Forty-five. '}
+{'C': 'MATTHIAS ', 'D': 'Forty-four.Forty-five. '}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "I'd say you've got about two minutes. "}
+{'C': 'ETHAN ', 'D': "I'd say you've got about two minutes. "}
 
 
 
@@ -6632,9 +6016,7 @@
 
 
 
-{'C': 'MATTHIAS'}
-
-{'D': 'Fifty-seven. Fifty-nine. '}
+{'C': 'MATTHIAS', 'D': 'Fifty-seven. Fifty-nine. '}
 
 
 
@@ -6691,9 +6073,7 @@
 
 
 
-{'C': 'FEMALE IMF '}
-
-{'D': 'Switch it on.Keep cleaning. '}
+{'C': 'FEMALE IMF ', 'D': 'Switch it on.Keep cleaning. '}
 {'N': '(in czech) '}
 
 
@@ -6764,9 +6144,7 @@
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': 'GOD D- '}
+{'C': 'KITTRIDGE ', 'D': 'GOD D- '}
 
 
 
@@ -6779,9 +6157,7 @@
 
 
 
-{'C': 'MAX '}
-
-{'D': "Oh dear, Gunther will never let me use  one of his apartments again.  Phew, sorry I doubted you, dear boy.  You're a good sport.Do accept the  compliment. "}
+{'C': 'MAX ', 'D': "Oh dear, Gunther will never let me use   one of his apartments again.   Phew, sorry I doubted you, dear boy.   You're a good sport.Do accept the   compliment. "}
 
 
 
@@ -6798,9 +6174,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Thanks, Max.Or is it Maxine? '}
+{'C': 'ETHAN ', 'D': 'Thanks, Max.Or is it Maxine? '}
 
 
 
@@ -6813,9 +6187,7 @@
 
 
 
-{'C': 'MAX'}
-
-{'D': "I don't have to tell you what a comfort  anonymity can be in my profession -- like  a warm blanket.  My deal with Job was subject to a  successful boot scan.Obviously it  didn't pass muster.Deal's off. "}
+{'C': 'MAX', 'D': "I don't have to tell you what a comfort   anonymity can be in my profession -- like   a warm blanket.   My deal with Job was subject to a   successful boot scan.Obviously it   didn't pass muster.Deal's off. "}
 
 
 
@@ -6834,18 +6206,16 @@
 
 
 
-{'C': 'ETHAN '}
+{'C': 'ETHAN ', 'D': 'What was your deal with Job? '}
 
-{'D': 'What was your deal with Job? '}
 
 
 
 
 
+{'C': 'MAX ', 'D': "Six million dollars.I'll give you the   same.But I want the complete list now,   not just Eastern Europe.I won't do this   piecemeal, it's too dangerous.I want   the entire list, the true name of every   non-official cover agent throughout the   world. "}
 
-{'C': 'MAX '}
 
-{'D': "Six million dollars.I'll give you the  same.But I want the complete list now,  not just Eastern Europe.I won't do this  piecemeal, it's too dangerous.I want  the entire list, the true name of every  non-official cover agent throughout the  world. "}
 
 
 
@@ -6862,11 +6232,10 @@
 
 
 
+{'C': 'ETHAN ', 'D': 'Ten million.Ten million in negotiable   U.S. Treasury certificates, in bearer   form, coupons attached.And one more   thing -- your personal assurance that Job   will be at the exchange. '}
 
 
-{'C': 'ETHAN '}
 
-{'D': 'Ten million.Ten million in negotiable  U.S. Treasury certificates, in bearer  form, coupons attached.And one more  thing -- your personal assurance that Job  will be at the exchange. '}
 
 
 
@@ -6878,45 +6247,34 @@
 
 
 
+{'C': 'MAX ', 'D': 'Done.Bring it to me in London.I want   it by the end of the week. '}
 
 
 
-{'C': 'MAX '}
 
-{'D': 'Done.Bring it to me in London.I want  it by the end of the week. '}
 
 
 
 
+{'C': 'ETHAN', 'D': 'How will you make sure Job will be there? '}
 
 
 
 
-{'C': 'ETHAN'}
 
-{'D': 'How will you make sure Job will be there? '}
 
+{'C': 'MAX', 'D': "How will you make sure I'll have the list   in three days?It's been a delight.Now   where can I drop you dear boy? "}
 
 
 
 
 
-{'C': 'MAX'}
 
-{'D': "How will you make sure I'll have the list  in three days?It's been a delight.Now  where can I drop you dear boy? "}
 
 
 
 
-
-
-
-
-
-
-{'C': 'ETHAN '}
-
-{'D': "I'm not being dropped anywhere without my  money. "}
+{'C': 'ETHAN ', 'D': "I'm not being dropped anywhere without my   money. "}
 
 
 
@@ -6933,9 +6291,7 @@
 
 
 
-{'C': 'MAX '}
-
-{'D': "I'm going to have to front you  personally.Don't lose that money  without losing your life. "}
+{'C': 'MAX ', 'D': "I'm going to have to front you   personally.Don't lose that money   without losing your life. "}
 
 
 
@@ -6946,9 +6302,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "I wouldn't dream of it. "}
+{'C': 'ETHAN ', 'D': "I wouldn't dream of it. "}
 
 
 
@@ -6985,9 +6339,7 @@
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': "The man's gone black, Barnes.He's under  until he decides to surface. "}
+{'C': 'KITTRIDGE ', 'D': "The man's gone black, Barnes.He's under   until he decides to surface. "}
 
 
 
@@ -6996,9 +6348,7 @@
 
 
 
-{'C': 'BARNES '}
-
-{'D': 'Look we can use someone from the Embassy  and we can get the local authorities  involved. Close off his transportation. '}
+{'C': 'BARNES ', 'D': 'Look we can use someone from the Embassy   and we can get the local authorities   involved. Close off his transportation. '}
 
 
 
@@ -7009,9 +6359,7 @@
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': "What can we do, Barnes?Put a guy at the  airport?How many identities do you  think Hunt has?How many times has he  slipped past custom, in how many  countries?These guys are trained to be  ghosts.We taught them how to do it, for  Christ's sake! "}
+{'C': 'KITTRIDGE ', 'D': "What can we do, Barnes?Put a guy at the   airport?How many identities do you   think Hunt has?How many times has he   slipped past custom, in how many   countries?These guys are trained to be   ghosts.We taught them how to do it, for   Christ's sake! "}
 
 
 
@@ -7030,18 +6378,14 @@
 
 
 
-{'C': 'BARNES '}
-
-{'D': 'So what do you suggest? '}
+{'C': 'BARNES ', 'D': 'So what do you suggest? '}
 
 
 
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': "Let's not waste time chasing him.Make  him come to us.EverybodyÃ\xads got pressure  points.Find out something that's  important to him personally and you  squeeze. "}
+{'C': 'KITTRIDGE ', 'D': "Let's not waste time chasing him.Make   him come to us.EverybodyÃ\xads got pressure   points.Find out something that's   important to him personally and you   squeeze. "}
 
 
 
@@ -7084,27 +6428,21 @@
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': 'Max made a deal with you? '}
+{'C': 'CLAIRE ', 'D': 'Max made a deal with you? '}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'I deliver the NOC list, Max delivers Job. '}
+{'C': 'ETHAN', 'D': 'I deliver the NOC list, Max delivers Job. '}
 
 
 
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': "We've got seventy-five rounds for your  Glock 9, but only twenty for the Sig  Sauer, one pair of Visco glasses with  monitor, plenty of passports. You said  it yourself -- if I'm not dead, I'm with  you. "}
+{'C': 'CLAIRE ', 'D': "We've got seventy-five rounds for your   Glock 9, but only twenty for the Sig   Sauer, one pair of Visco glasses with   monitor, plenty of passports. You said   it yourself -- if I'm not dead, I'm with   you. "}
 
 
 
@@ -7121,18 +6459,14 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "You're sure about this? "}
+{'C': 'ETHAN ', 'D': "You're sure about this? "}
 
 
 
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': 'Jim was my husband. I want to know who  killed him. ( ALT ) I want to get the son  of a bitch who did this. '}
+{'C': 'CLAIRE ', 'D': 'Jim was my husband. I want to know who   killed him. ( ALT ) I want to get the son   of a bitch who did this. '}
 
 
 
@@ -7143,9 +6477,7 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': "We need help, and we don't have time.  They have to be local. "}
+{'C': 'ETHAN', 'D': "We need help, and we don't have time.   They have to be local. "}
 
 
 
@@ -7154,9 +6486,7 @@
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': 'What kind of help? '}
+{'C': 'CLAIRE ', 'D': 'What kind of help? '}
 
 
 
@@ -7251,9 +6581,7 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Simple game.Four players.  Exfil opens the pocket --  -- cyber ops lifts the wallet. '}
+{'C': 'ETHAN', 'D': 'Simple game.Four players.   Exfil opens the pocket --   -- cyber ops lifts the wallet. '}
 
 
 {'N': '(points to Krieger) '}
@@ -7268,27 +6596,21 @@
 
 
 
-{'C': 'KRIEGER '}
-
-{'D': 'Bank? '}
+{'C': 'KRIEGER ', 'D': 'Bank? '}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'IMF mainframe. '}
+{'C': 'ETHAN ', 'D': 'IMF mainframe. '}
 
 
 
 
 
 
-{'C': 'KRIEGER '}
-
-{'D': 'Where exactly is it? '}
+{'C': 'KRIEGER ', 'D': 'Where exactly is it? '}
 {'N': '(after a moment) '}
 
 
@@ -7297,27 +6619,21 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'In Langley. '}
+{'C': 'ETHAN ', 'D': 'In Langley. '}
 
 
 
 
 
 
-{'C': 'LUTHER '}
-
-{'D': 'In Langley?The one in Virginia, Langley? '}
+{'C': 'LUTHER ', 'D': 'In Langley?The one in Virginia, Langley? '}
 
 
 
 
 
 
-{'C': 'KRIEGER '}
-
-{'D': 'Inside CIA headquarters at Langley. '}
+{'C': 'KRIEGER ', 'D': 'Inside CIA headquarters at Langley. '}
 
 
 
@@ -7330,27 +6646,24 @@
 
 
 
-{'C': "KRIEGER (CONT'D) "}
+{'C': "KRIEGER (CONT'D) ", 'D': 'Is he serious? '}
 
-{'D': 'Is he serious? '}
 
 
 
 
 
+{'C': 'CLAIRE ', 'D': 'Always. '}
 
-{'C': 'CLAIRE '}
 
-{'D': 'Always. '}
 
 
 
 
+{'C': 'KRIEGER ', 'D': "If we're going to Virginia, why don't we   drop by Fort Knox?I can fly a   helicopter right in through the lobby and  set it down inside the vault and it will   be a hell of a lot easier than breaking   into the God damn CIA. "}
 
 
-{'C': 'KRIEGER '}
 
-{'D': "If we're going to Virginia, why don't we  drop by Fort Knox?I can fly a  helicopter right in through the lobby and set it down inside the vault and it will  be a hell of a lot easier than breaking  into the God damn CIA. "}
 
 
 
@@ -7364,83 +6677,64 @@
 
 
 
+{'C': 'LUTHER ', 'D': 'What are we downloading? '}
 
 
 
-{'C': 'LUTHER '}
 
-{'D': 'What are we downloading? '}
 
 
+{'C': 'ETHAN ', 'D': 'Information. '}
 
 
 
 
-{'C': 'ETHAN '}
 
-{'D': 'Information. '}
 
+{'C': 'LUTHER ', 'D': 'What kind? '}
 
 
 
 
 
-{'C': 'LUTHER '}
 
-{'D': 'What kind? '}
+{'C': 'ETHAN ', 'D': 'Profitable. '}
 
 
 
 
 
 
-{'C': 'ETHAN '}
+{'C': 'CLAIRE ', 'D': 'Payment on delivery. '}
 
-{'D': 'Profitable. '}
 
 
 
 
 
+{'C': 'LUTHER ', 'D': "I don't know.This I don't know. "}
 
-{'C': 'CLAIRE '}
 
-{'D': 'Payment on delivery. '}
 
 
 
 
+{'C': 'ETHAN', 'D': "This doesn't sound like the Luther   Stickell I've heard of.What'd they used   to call you?The Net Ranger?Phineas   Phreak?The only man alive who actually   hacked NATO Ghostcom. "}
 
 
-{'C': 'LUTHER '}
 
-{'D': "I don't know.This I don't know. "}
 
 
 
 
 
 
-{'C': 'ETHAN'}
 
-{'D': "This doesn't sound like the Luther  Stickell I've heard of.What'd they used  to call you?The Net Ranger?Phineas  Phreak?The only man alive who actually  hacked NATO Ghostcom. "}
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-{'C': 'LUTHER '}
-
-{'D': 'There was never any physical evidence  that I had anything to do with that..  that..  With that exceptional piece of work. '}
+{'C': 'LUTHER ', 'D': 'There was never any physical evidence   that I had anything to do with that..   that..   With that exceptional piece of work. '}
 
 
 
@@ -7455,9 +6749,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "You don't know what you're missing. This  is the Mt. Everest of hacks. "}
+{'C': 'ETHAN ', 'D': "You don't know what you're missing. This   is the Mt. Everest of hacks. "}
 
 
 
@@ -7466,9 +6758,7 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': "You're all kidding yourselves. Even with  top of the line crypto.Cray access.  STU 3's -- "}
+{'C': 'LUTHER ', 'D': "You're all kidding yourselves. Even with   top of the line crypto.Cray access.   STU 3's -- "}
 
 
 
@@ -7479,9 +6769,7 @@
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': 'Krieger can get it.  Right? '}
+{'C': 'CLAIRE ', 'D': 'Krieger can get it.   Right? '}
 
 
 {'N': '(to Krieger) '}
@@ -7492,18 +6780,14 @@
 
 
 
-{'C': 'KRIEGER '}
-
-{'D': 'May take a little time. '}
+{'C': 'KRIEGER ', 'D': 'May take a little time. '}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': "May take a little time. That's not what  Claire tells me about you. "}
+{'C': 'ETHAN', 'D': "May take a little time. That's not what   Claire tells me about you. "}
 
 
 
@@ -7512,9 +6796,7 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': "Thinking Machine laptops, I'm talking  about the 686 prototypes -- with the  artificial intelligence Risk chip -- "}
+{'C': 'LUTHER ', 'D': "Thinking Machine laptops, I'm talking   about the 686 prototypes -- with the   artificial intelligence Risk chip -- "}
 
 
 
@@ -7531,9 +6813,7 @@
 
 
 
-{'C': 'KRIEGER '}
-
-{'D': 'Twenty-four hours. '}
+{'C': 'KRIEGER ', 'D': 'Twenty-four hours. '}
 
 
 
@@ -7546,9 +6826,7 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': "And I get to keep the equipment when  we're done. "}
+{'C': 'LUTHER ', 'D': "And I get to keep the equipment when   we're done. "}
 
 
 
@@ -7557,9 +6835,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "Luther, I guess you're all out of  excuses."}
+{'C': 'ETHAN ', 'D': "Luther, I guess you're all out of   excuses."}
 
 
 
@@ -7568,9 +6844,7 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': "I can't just hack my way inside.There's  no modem access to the mainframe, it's in  a stand-alone.I'd have to be physically  at the terminal. "}
+{'C': 'LUTHER ', 'D': "I can't just hack my way inside.There's   no modem access to the mainframe, it's in   a stand-alone.I'd have to be physically   at the terminal. "}
 
 
 
@@ -7583,9 +6857,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "Luther, relax, it's worse than you think.  The terminal's in black vault lock-down. "}
+{'C': 'ETHAN ', 'D': "Luther, relax, it's worse than you think.   The terminal's in black vault lock-down. "}
 
 
 
@@ -7618,9 +6890,7 @@
 
 
 
-{'C': 'ETHAN (V.O.) '}
-
-{'D': 'They missed nothing in that room.Even  the vents have laser nets over them.'}
+{'C': 'ETHAN (V.O.) ', 'D': 'They missed nothing in that room.Even   the vents have laser nets over them.'}
 
 
 
@@ -7655,9 +6925,7 @@
 
 
 
-{'C': 'ETHAN (V.O.)'}
-
-{'D': "Inside, there are three countermeasure  systems that can only be deactivated by  authorized entry.Which we won't have. "}
+{'C': 'ETHAN (V.O.)', 'D': "Inside, there are three countermeasure   systems that can only be deactivated by   authorized entry.Which we won't have. "}
 
 
 
@@ -7696,9 +6964,7 @@
 
 
 
-{'C': 'ETHAN (V.O.) '}
-
-{'D': 'The first system is sound-sensitive,  anything above a whisper sets it off.  The second system is on the floor and  pressure-sensitive --'}
+{'C': 'ETHAN (V.O.) ', 'D': 'The first system is sound-sensitive,   anything above a whisper sets it off.   The second system is on the floor and   pressure-sensitive --'}
 
 
 
@@ -7721,9 +6987,7 @@
 
 
 
-{'C': 'ETHAN (V.O.) '}
-
-{'D': '--and the third detects any increase in  temperature.Even the body heat of an  unauthorized person in the room will  trigger it. '}
+{'C': 'ETHAN (V.O.) ', 'D': '--and the third detects any increase in   temperature.Even the body heat of an   unauthorized person in the room will   trigger it. '}
 
 
 
@@ -7746,9 +7010,7 @@
 
 
 
-{'C': 'ETHAN (V.O.) '}
-
-{'D': 'All three systems are state of the art. '}
+{'C': 'ETHAN (V.O.) ', 'D': 'All three systems are state of the art. '}
 
 
 {'M': ''}
@@ -7777,9 +7039,7 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': 'And you really think we can do this. '}
+{'C': 'LUTHER ', 'D': 'And you really think we can do this. '}
 
 
 
@@ -7848,18 +7108,14 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'May I come in? '}
+{'C': 'ETHAN ', 'D': 'May I come in? '}
 
 
 
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': 'Sure... '}
+{'C': 'CLAIRE ', 'D': 'Sure... '}
 {'N': '(wary but interested) '}
 
 
@@ -7884,9 +7140,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "It's cash. And a second passport. If  anything goes wrong when we're inside, if  you sense even the slightest deviation  don't look over your shoulder, you walk  away - you hear me? Just walk away. "}
+{'C': 'ETHAN ', 'D': "It's cash. And a second passport. If   anything goes wrong when we're inside, if   you sense even the slightest deviation   don't look over your shoulder, you walk   away - you hear me? Just walk away. "}
 
 
 
@@ -7901,54 +7155,42 @@
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': "You don't think we're going to make it. "}
+{'C': 'CLAIRE ', 'D': "You don't think we're going to make it. "}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "I didn't say that. "}
+{'C': 'ETHAN ', 'D': "I didn't say that. "}
 
 
 
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': "You didn't have to......... "}
+{'C': 'CLAIRE ', 'D': "You didn't have to......... "}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'I just need you to be safe. '}
+{'C': 'ETHAN', 'D': 'I just need you to be safe. '}
 
 
 
 
 
 
-{'C': 'CLAIRE'}
-
-{'D': 'What about you? '}
+{'C': 'CLAIRE', 'D': 'What about you? '}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': "What about me - Jim called an abort - I  didn't comply.I lost the team. I just  need you to be safe. "}
+{'C': 'ETHAN', 'D': "What about me - Jim called an abort - I   didn't comply.I lost the team. I just   need you to be safe. "}
 
 
 
@@ -7967,9 +7209,7 @@
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': "I wish I'd never laid eyes on you.. "}
+{'C': 'CLAIRE ', 'D': "I wish I'd never laid eyes on you.. "}
 
 
 
@@ -7986,9 +7226,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Sorry. '}
+{'C': 'ETHAN ', 'D': 'Sorry. '}
 
 
 
@@ -8029,9 +7267,7 @@
 
 
 
-{'C': 'LANGLEY'}
-
-{'D': ''}
+{'C': 'LANGLEY', 'D': ''}
 
 
 
@@ -8054,9 +7290,7 @@
 
 
 
-{'C': 'BARNES '}
-
-{'D': 'What I want to know is how Hunt accessed  the disavowed file, even after we cut off  his authorization code. '}
+{'C': 'BARNES ', 'D': 'What I want to know is how Hunt accessed   the disavowed file, even after we cut off   his authorization code. '}
 
 
 
@@ -8067,12 +7301,8 @@
 
 
 
-{'C': 'AGENT LOWDEN/AGENT '}
-
-{'D': ''}
-{'C': 'MAREK '}
-
-{'D': "He may have used Phelps' code. They were  friends, and Phelps, was still valid for  twenty-four hours."}
+{'C': 'AGENT LOWDEN/AGENT ', 'D': ''}
+{'C': 'MAREK ', 'D': "He may have used Phelps' code. They were   friends, and Phelps, was still valid for   twenty-four hours."}
 
 
 
@@ -8083,9 +7313,7 @@
 
 
 
-{'C': 'BARNES '}
-
-{'D': "If that's the case, we need to implement  a system to immediately deactivate an  agent's code immediately... "}
+{'C': 'BARNES ', 'D': "If that's the case, we need to implement   a system to immediately deactivate an   agent's code immediately... "}
 
 
 
@@ -8104,9 +7332,7 @@
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': "I can't believe what I'm listening to.  Hunt just kicked us in the ass, you guys  are standing here trying to figure out  what kind of shoes he had on!I don't care how he did it, I want to know why he  did it!Is he recruiting?For what  purpose? "}
+{'C': 'KITTRIDGE ', 'D': "I can't believe what I'm listening to.   Hunt just kicked us in the ass, you guys   are standing here trying to figure out   what kind of shoes he had on!I don't  care how he did it, I want to know why he   did it!Is he recruiting?For what   purpose? "}
 
 
 
@@ -8133,12 +7359,8 @@
 
 
 
-{'C': 'AGENT PAT/AGENT '}
-
-{'D': ''}
-{'C': 'LOWDEN '}
-
-{'D': 'Survival. '}
+{'C': 'AGENT PAT/AGENT ', 'D': ''}
+{'C': 'LOWDEN ', 'D': 'Survival. '}
 
 
 
@@ -8153,9 +7375,7 @@
 
 
 
-{'C': 'KITTRIDGE'}
-
-{'D': "Too short sighted.This guy's proactive, he initiates.The question is what does  he want now and where does he need to get  it and Barnes what the hell is that noise?! "}
+{'C': 'KITTRIDGE', 'D': "Too short sighted.This guy's proactive,  he initiates.The question is what does   he want now and where does he need to get   it and Barnes what the hell is that  noise?! "}
 
 
 
@@ -8176,36 +7396,28 @@
 
 
 
-{'C': 'AGENT '}
-
-{'D': 'Fire alarm, Gene. '}
+{'C': 'AGENT ', 'D': 'Fire alarm, Gene. '}
 
 
 
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': 'Oh, for -- do we have to evacuate? '}
+{'C': 'KITTRIDGE ', 'D': 'Oh, for -- do we have to evacuate? '}
 
 
 
 
 
 
-{'C': 'BARNES'}
-
-{'D': "That's S.O.P.. "}
+{'C': 'BARNES', 'D': "That's S.O.P.. "}
 
 
 
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': 'S.O.P.. '}
+{'C': 'KITTRIDGE ', 'D': 'S.O.P.. '}
 
 
 
@@ -8272,9 +7484,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'We picked up alarms in sectors three,  seven, and twelve. '}
+{'C': 'ETHAN ', 'D': 'We picked up alarms in sectors three,   seven, and twelve. '}
 {'N': '(to the Guard) '}
 
 
@@ -8291,9 +7501,7 @@
 
 
 
-{'C': 'GUARD RICHARD '}
-
-{'D': "Yeah.That's what I've got too. "}
+{'C': 'GUARD RICHARD ', 'D': "Yeah.That's what I've got too. "}
 
 
 
@@ -8308,9 +7516,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "What sector's the air conditioning? "}
+{'C': 'ETHAN ', 'D': "What sector's the air conditioning? "}
 {'N': '(to the Guard) '}
 
 
@@ -8319,9 +7525,7 @@
 
 
 
-{'C': 'GUARD RANDALL '}
-
-{'D': "Uh -- twenty-one, but there's no alarm in  sector twenty-one. "}
+{'C': 'GUARD RANDALL ', 'D': "Uh -- twenty-one, but there's no alarm in   sector twenty-one. "}
 
 
 
@@ -8330,18 +7534,14 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'I gotta go in there and shut it down! '}
+{'C': 'ETHAN ', 'D': 'I gotta go in there and shut it down! '}
 
 
 
 
 
 
-{'C': 'GUARD RANDALL '}
-
-{'D': "Nobody goes into any sector where the  alarm didn't go off. "}
+{'C': 'GUARD RANDALL ', 'D': "Nobody goes into any sector where the   alarm didn't go off. "}
 
 
 
@@ -8350,9 +7550,7 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Do you want to blow the fire through the  whole building? '}
+{'C': 'ETHAN', 'D': 'Do you want to blow the fire through the   whole building? '}
 
 
 
@@ -8361,9 +7559,7 @@
 
 
 
-{'C': 'GUARD RICHARD '}
-
-{'D': 'Nobody goes into any sector where the  alarm did not go off --'}
+{'C': 'GUARD RICHARD ', 'D': 'Nobody goes into any sector where the   alarm did not go off --'}
 {'N': '(reciting policy) '}
 
 
@@ -8418,9 +7614,7 @@
 
 {'M': ''}
 
-{'C': 'GUARD '}
-
-{'D': '--and it did not go off in twenty-one! '}
+{'C': 'GUARD ', 'D': '--and it did not go off in twenty-one! '}
 {'N': '(on screen) '}
 
 
@@ -8437,9 +7631,7 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': 'Twenty-one, twenty-one --'}
+{'C': 'LUTHER ', 'D': 'Twenty-one, twenty-one --'}
 {'N': '(mouths) '}
 
 
@@ -8470,18 +7662,14 @@
 
 
 
-{'C': 'GUARD RANDALL '}
-
-{'D': "Wait!Hold it - it's on. Let's go. "}
+{'C': 'GUARD RANDALL ', 'D': "Wait!Hold it - it's on. Let's go. "}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': "Let's move! "}
+{'C': 'ETHAN', 'D': "Let's move! "}
 
 
 
@@ -8614,9 +7802,7 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': 'Hi there. '}
+{'C': 'LUTHER ', 'D': 'Hi there. '}
 
 
 
@@ -8637,9 +7823,7 @@
 
 
 
-{'C': 'GUARD '}
-
-{'D': "Air conditioning's through here! "}
+{'C': 'GUARD ', 'D': "Air conditioning's through here! "}
 
 
 
@@ -8674,9 +7858,7 @@
 
 
 
-{'C': 'CIA ANALYST'}
-
-{'D': 'William Donloe. '}
+{'C': 'CIA ANALYST', 'D': 'William Donloe. '}
 
 
 
@@ -8715,9 +7897,7 @@
 
 
 
-{'C': 'GUARD '}
-
-{'D': "Where's the other guy? "}
+{'C': 'GUARD ', 'D': "Where's the other guy? "}
 
 
 
@@ -8756,18 +7936,14 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Zero body count. '}
+{'C': 'ETHAN ', 'D': 'Zero body count. '}
 
 
 
 
 
 
-{'C': 'KRIEGER '}
-
-{'D': "We'll see."}
+{'C': 'KRIEGER ', 'D': "We'll see."}
 {'N': '(a threat) '}
 
 
@@ -8776,9 +7952,7 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Time up. '}
+{'C': 'ETHAN', 'D': 'Time up. '}
 
 
 
@@ -8831,9 +8005,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "1 - 2 - 3 - Toast, toast.Luther, I'm  going in.Don't disappoint me...Krieger,  from here on in, absolute silence. "}
+{'C': 'ETHAN ', 'D': "1 - 2 - 3 - Toast, toast.Luther, I'm   going in.Don't disappoint me...Krieger,   from here on in, absolute silence. "}
 
 
 
@@ -9064,9 +8236,7 @@
 
 
 
-{'C': 'TECHNICIAN '}
-
-{'D': 'Oh, God. '}
+{'C': 'TECHNICIAN ', 'D': 'Oh, God. '}
 
 
 
@@ -9233,9 +8403,7 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': 'Type this password: AW96B6.Return.Go  to the files menu, find the NOC list  file.Open "NOC List."Put your  diskette in.Double click on the NOC  list. '}
+{'C': 'LUTHER ', 'D': 'Type this password: AW96B6.Return.Go   to the files menu, find the NOC list   file.Open "NOC List."Put your   diskette in.Double click on the NOC   list. '}
 
 
 
@@ -9306,9 +8474,7 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': "Ok, good!It's scrolling.0K, now we're  going to download.Edit menu.Select "}
+{'C': 'LUTHER ', 'D': "Ok, good!It's scrolling.0K, now we're   going to download.Edit menu.Select "}
 
 
 
@@ -9357,9 +8523,7 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': 'Holy mother of God. '}
+{'C': 'LUTHER ', 'D': 'Holy mother of God. '}
 
 
 
@@ -9412,9 +8576,7 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': "You've done it.Eject it. "}
+{'C': 'LUTHER ', 'D': "You've done it.Eject it. "}
 
 
 
@@ -9517,9 +8679,7 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': "He's rolling.Get moving! "}
+{'C': 'LUTHER ', 'D': "He's rolling.Get moving! "}
 
 
 
@@ -9560,9 +8720,7 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': 'Get out of there -- get out of there --'}
+{'C': 'LUTHER ', 'D': 'Get out of there -- get out of there --'}
 
 
 
@@ -9611,9 +8769,7 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': "He's at the vault - get moving!1  yellow, 2 yellows...Toast! "}
+{'C': 'LUTHER ', 'D': "He's at the vault - get moving!1   yellow, 2 yellows...Toast! "}
 
 
 
@@ -9654,9 +8810,7 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': "You're not moving!"}
+{'C': 'LUTHER ', 'D': "You're not moving!"}
 
 
 
@@ -9681,9 +8835,7 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': 'Phew! (to himself) NOC list. '}
+{'C': 'LUTHER ', 'D': 'Phew! (to himself) NOC list. '}
 
 
 
@@ -9704,18 +8856,14 @@
 
 
 
-{'C': 'KRIEGER '}
-
-{'D': 'Merci. '}
+{'C': 'KRIEGER ', 'D': 'Merci. '}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "We're not outta here yet. "}
+{'C': 'ETHAN ', 'D': "We're not outta here yet. "}
 
 
 
@@ -9830,9 +8978,7 @@
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': "Think, for Christ's sake, you guys are  mired in detail, open your minds, it's  gotta be staring us in the face!What  does Ethan Hunt want?! "}
+{'C': 'KITTRIDGE ', 'D': "Think, for Christ's sake, you guys are   mired in detail, open your minds, it's   gotta be staring us in the face!What   does Ethan Hunt want?! "}
 
 
 
@@ -9845,9 +8991,7 @@
 
 
 
-{'C': 'BARNES '}
-
-{'D': "Same thing he wanted in Prague!Same  thing he's always wanted!The NOC list! "}
+{'C': 'BARNES ', 'D': "Same thing he wanted in Prague!Same   thing he's always wanted!The NOC list! "}
 
 
 
@@ -9856,9 +9000,7 @@
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': 'Okay! '}
+{'C': 'KITTRIDGE ', 'D': 'Okay! '}
 
 
 
@@ -9873,9 +9015,7 @@
 
 
 
-{'C': "KITTRIDGE (CONT'D) "}
-
-{'D': 'And where is the list vulnerable? '}
+{'C': "KITTRIDGE (CONT'D) ", 'D': 'And where is the list vulnerable? '}
 
 
 
@@ -9898,9 +9038,7 @@
 
 
 
-{'C': "KITTRIDGE (CONT'D) "}
-
-{'D': 'Other than here. '}
+{'C': "KITTRIDGE (CONT'D) ", 'D': 'Other than here. '}
 {'N': '(joking) '}
 
 
@@ -9935,18 +9073,14 @@
 
 
 
-{'C': 'AGENT '}
-
-{'D': "It's for you. "}
+{'C': 'AGENT ', 'D': "It's for you. "}
 
 
 
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': 'Kittridge, yup? '}
+{'C': 'KITTRIDGE ', 'D': 'Kittridge, yup? '}
 
 
 
@@ -10045,9 +9179,7 @@
 
 
 
-{'C': "KITTRIDGE (CONT'D) "}
-
-{'D': "You and I know about this -- and that's  where it stops.Understand?It never happened. "}
+{'C': "KITTRIDGE (CONT'D) ", 'D': "You and I know about this -- and that's   where it stops.Understand?It never happened. "}
 {'N': '(to Barnes) '}
 
 
@@ -10058,9 +9190,7 @@
 
 
 
-{'C': 'BARNES '}
-
-{'D': 'What about him...? '}
+{'C': 'BARNES ', 'D': 'What about him...? '}
 
 
 
@@ -10073,9 +9203,7 @@
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': 'I want him manning a radar tower in  Alaska by the end of the day.Just mail  him his clothes. '}
+{'C': 'KITTRIDGE ', 'D': 'I want him manning a radar tower in   Alaska by the end of the day.Just mail   him his clothes. '}
 
 
 
@@ -10116,9 +9244,7 @@
 
 
 
-{'C': 'LONDON '}
-
-{'D': ''}
+{'C': 'LONDON ', 'D': ''}
 
 
 
@@ -10167,9 +9293,7 @@
 
 
 
-{'C': 'KRIEGER '}
-
-{'D': 'You contacting your buyer?  Ethan? '}
+{'C': 'KRIEGER ', 'D': 'You contacting your buyer?   Ethan? '}
 
 
 {'N': '(no answer) '}
@@ -10188,9 +9312,7 @@
 
 
 
-{'C': "KRIEGER (CONT'D) "}
-
-{'D': "Ethan?Oh, 'scuse me Mr. Hunt?  MAX -- Now might be an excellent time  to interpret Scripture face to face.  Meet on TGV, noon tomorrow.Take  seat 27.Bring our mutual friend  Job."}
+{'C': "KRIEGER (CONT'D) ", 'D': "Ethan?Oh, 'scuse me Mr. Hunt?   MAX -- Now might be an excellent time   to interpret Scripture face to face.   Meet on TGV, noon tomorrow.Take   seat 27.Bring our mutual friend   Job."}
 
 
 
@@ -10235,18 +9357,14 @@
 
 
 
-{'C': 'KRIEGER '}
-
-{'D': "You're not going to any meeting without me. "}
+{'C': 'KRIEGER ', 'D': "You're not going to any meeting without me. "}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'My contact is extremely shy. '}
+{'C': 'ETHAN ', 'D': 'My contact is extremely shy. '}
 
 
 
@@ -10271,9 +9389,7 @@
 
 
 
-{'C': 'KRIEGER '}
-
-{'D': "I don't think you're in any position to  give orders, do you?Not while I'm  holding this. "}
+{'C': 'KRIEGER ', 'D': "I don't think you're in any position to   give orders, do you?Not while I'm   holding this. "}
 
 
 
@@ -10284,18 +9400,14 @@
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': 'Krieger. '}
+{'C': 'CLAIRE ', 'D': 'Krieger. '}
 
 
 
 
 
 
-{'C': 'KRIEGER '}
-
-{'D': "Stay out of this.  OR  Lachez - moi  OR T'agueue "}
+{'C': 'KRIEGER ', 'D': "Stay out of this.   OR   Lachez - moi   OR  T'agueue "}
 
 
 
@@ -10310,9 +9422,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "Don't you mean this? "}
+{'C': 'ETHAN ', 'D': "Don't you mean this? "}
 
 
 
@@ -10333,18 +9443,14 @@
 
 
 
-{'C': 'KRIEGER'}
-
-{'D': "That's not it.That's not the list. "}
+{'C': 'KRIEGER', 'D': "That's not it.That's not the list. "}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "What's the matter, you don't know this  trick? "}
+{'C': 'ETHAN ', 'D': "What's the matter, you don't know this   trick? "}
 
 
 
@@ -10361,9 +9467,7 @@
 
 
 
-{'C': "ETHAN (CONT'D) "}
-
-{'D': "Where did it go?!It's GONE! "}
+{'C': "ETHAN (CONT'D) ", 'D': "Where did it go?!It's GONE! "}
 {'N': '(mock surprise) '}
 
 
@@ -10380,9 +9484,7 @@
 
 
 
-{'C': "ETHAN (CONT'D) "}
-
-{'D': 'But not too far! '}
+{'C': "ETHAN (CONT'D) ", 'D': 'But not too far! '}
 
 
 
@@ -10395,9 +9497,7 @@
 
 
 
-{'C': "ETHAN (CONT'D) "}
-
-{'D': "I know what you're thinking, Krieger.  You're thinking, back in the computer  room -- I was up here -- he was down  there -- .He was carrying two discs. "}
+{'C': "ETHAN (CONT'D) ", 'D': "I know what you're thinking, Krieger.   You're thinking, back in the computer   room -- I was up here -- he was down   there -- .He was carrying two discs. "}
 
 
 
@@ -10420,9 +9520,7 @@
 
 
 
-{'C': "ETHAN (CONT'D) "}
-
-{'D': 'So hard to keep track of these things. '}
+{'C': "ETHAN (CONT'D) ", 'D': 'So hard to keep track of these things. '}
 
 
 
@@ -10435,9 +9533,7 @@
 
 
 
-{'C': 'KRIEGER '}
-
-{'D': 'Where is it? '}
+{'C': 'KRIEGER ', 'D': 'Where is it? '}
 {'N': '(fuming) '}
 
 
@@ -10452,9 +9548,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "I thought you had it!Do you actually  think I'd let you have the NOC list? "}
+{'C': 'ETHAN ', 'D': "I thought you had it!Do you actually   think I'd let you have the NOC list? "}
 
 
 
@@ -10473,9 +9567,7 @@
 
 
 
-{'C': 'KRIEGER '}
-
-{'D': 'Try any sleight-of-hand with my money and  IÃ\xadll cut your throat. '}
+{'C': 'KRIEGER ', 'D': 'Try any sleight-of-hand with my money and   IÃ\xadll cut your throat. '}
 
 
 
@@ -10494,9 +9586,7 @@
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': "I'm so sorry.Krieger was my call.I've  never worked with him.I'm sorry, Ethan. "}
+{'C': 'CLAIRE ', 'D': "I'm so sorry.Krieger was my call.I've   never worked with him.I'm sorry, Ethan. "}
 
 
 
@@ -10505,18 +9595,14 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'We did what we had to do. '}
+{'C': 'ETHAN ', 'D': 'We did what we had to do. '}
 
 
 
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': "I'm going to try and get some sleep. "}
+{'C': 'CLAIRE ', 'D': "I'm going to try and get some sleep. "}
 
 
 
@@ -10555,36 +9641,28 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': 'Krieger did have the NOC list. '}
+{'C': 'LUTHER ', 'D': 'Krieger did have the NOC list. '}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Now I want you to hold onto it. '}
+{'C': 'ETHAN ', 'D': 'Now I want you to hold onto it. '}
 
 
 
 
 
 
-{'C': 'LUTHER '}
-
-{'D': 'What makes you trust me? '}
+{'C': 'LUTHER ', 'D': 'What makes you trust me? '}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Because if you knew what you were getting  into, you never would have done it. '}
+{'C': 'ETHAN ', 'D': 'Because if you knew what you were getting   into, you never would have done it. '}
 
 
 
@@ -10593,9 +9671,7 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': "I'm not letting this list get out in the  open. "}
+{'C': 'LUTHER ', 'D': "I'm not letting this list get out in the   open. "}
 
 
 
@@ -10604,9 +9680,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "Exactly, that's your job.Tomorrow on  the train, you can't let this list get  out into the open.What's the range of  this thing? "}
+{'C': 'ETHAN ', 'D': "Exactly, that's your job.Tomorrow on   the train, you can't let this list get   out into the open.What's the range of   this thing? "}
 
 
 
@@ -10619,9 +9693,7 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': "It's hard to tell.I'm gonna have to be  close. "}
+{'C': 'LUTHER ', 'D': "It's hard to tell.I'm gonna have to be   close. "}
 
 
 
@@ -10630,9 +9702,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "I'll get you close. "}
+{'C': 'ETHAN ', 'D': "I'll get you close. "}
 
 
 
@@ -10645,9 +9715,7 @@
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': 'Ethan I need to talk to you. '}
+{'C': 'CLAIRE ', 'D': 'Ethan I need to talk to you. '}
 
 
 
@@ -10674,9 +9742,7 @@
 
 
 
-{'C': 'ANCHOR '}
-
-{'D': 'The unlikely setting...a farm in the  heartland of America...the State of  Wisconsin, where federal agents claim to  have broken the brain trust behind an  international drug ring.For a report we  go live now to CNN correspondent (Joe  Jones) in the state capitol, Madison. '}
+{'C': 'ANCHOR ', 'D': 'The unlikely setting...a farm in the   heartland of America...the State of   Wisconsin, where federal agents claim to   have broken the brain trust behind an   international drug ring.For a report we   go live now to CNN correspondent (Joe   Jones) in the state capitol, Madison. '}
 
 
 
@@ -10703,9 +9769,7 @@
 
 
 
-{'C': 'REPORTER '}
-
-{'D': 'Authorities have identified the couple as  Margaret Ethan Hunt and Donald Hunt. '}
+{'C': 'REPORTER ', 'D': 'Authorities have identified the couple as   Margaret Ethan Hunt and Donald Hunt. '}
 
 
 
@@ -10742,9 +9806,7 @@
 
 
 
-{'C': 'REPORTER '}
-
-{'D': 'Here they are now. '}
+{'C': 'REPORTER ', 'D': 'Here they are now. '}
 
 
 
@@ -10771,9 +9833,7 @@
 
 
 
-{'C': 'REPORTER '}
-
-{'D': 'They were apprehended this morning by the  DEA in a major sting operation for the  illegal manufacture of the drug  methcathinone, known on the street as '}
+{'C': 'REPORTER ', 'D': 'They were apprehended this morning by the   DEA in a major sting operation for the   illegal manufacture of the drug   methcathinone, known on the street as '}
 
 
 
@@ -10806,9 +9866,7 @@
 
 
 
-{'C': 'VOICE (O.S.) '}
-
-{'D': 'Similar to methamphetamines, cat is seen  by officials as one of the most powerful  and dangerous drugs in the world.Some  thirty-four cat labs have been seized so  far, but the recently widowed Mrs. Hunt  and her brother-in-law are believed to be  involved in a global drug distribution  network. '}
+{'C': 'VOICE (O.S.) ', 'D': 'Similar to methamphetamines, cat is seen   by officials as one of the most powerful   and dangerous drugs in the world.Some   thirty-four cat labs have been seized so   far, but the recently widowed Mrs. Hunt   and her brother-in-law are believed to be   involved in a global drug distribution   network. '}
 
 
 
@@ -10837,9 +9895,7 @@
 
 
 
-{'C': 'REPORTER '}
-
-{'D': 'Mr. Fairchild, agent Fairchild, a comment  please. '}
+{'C': 'REPORTER ', 'D': 'Mr. Fairchild, agent Fairchild, a comment   please. '}
 
 
 
@@ -10856,9 +9912,7 @@
 
 
 
-{'C': 'PUBLIC OFFICIAL '}
-
-{'D': "I think it's sad, really.Farmers,  unless they're a conglomerate, are always  operating on a paper-thin margin.I'm  afraid what we have here is a case of a  naive and lonely widow with a lot of  financial problems who chose to make  money through illegal means. "}
+{'C': 'PUBLIC OFFICIAL ', 'D': "I think it's sad, really.Farmers,   unless they're a conglomerate, are always   operating on a paper-thin margin.I'm   afraid what we have here is a case of a   naive and lonely widow with a lot of   financial problems who chose to make   money through illegal means. "}
 
 
 
@@ -10877,9 +9931,7 @@
 
 
 
-{'C': 'REPORTER '}
-
-{'D': 'That was John Fairchild, the DEA agent in  charge of this investigation.Officials  tell me that international law  enforcement agents are expected to arrive  here later today to question the Hunts.  This is Joe Jones, CNN, Love in Madison,  Wisconsin. '}
+{'C': 'REPORTER ', 'D': 'That was John Fairchild, the DEA agent in   charge of this investigation.Officials   tell me that international law   enforcement agents are expected to arrive   here later today to question the Hunts.   This is Joe Jones, CNN, Love in Madison,   Wisconsin. '}
 
 
 
@@ -10904,18 +9956,14 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Kittridge... '}
+{'C': 'ETHAN ', 'D': 'Kittridge... '}
 
 
 
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': 'Bastard! '}
+{'C': 'CLAIRE ', 'D': 'Bastard! '}
 
 
 
@@ -10936,9 +9984,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "Don't...don't touch me... "}
+{'C': 'ETHAN ', 'D': "Don't...don't touch me... "}
 
 
 
@@ -10951,18 +9997,14 @@
 
 
 
-{'C': 'CLAIRE '}
-
-{'D': 'What are you going to do? '}
+{'C': 'CLAIRE ', 'D': 'What are you going to do? '}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "He's expecting my call.  I'm going to the station...  And I'm going to call him. "}
+{'C': 'ETHAN ', 'D': "He's expecting my call.   I'm going to the station...   And I'm going to call him. "}
 {'N': '(turns to her and gestures at TV) '}
 
 
@@ -11033,9 +10075,7 @@
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': 'Kittridge. '}
+{'C': 'KITTRIDGE ', 'D': 'Kittridge. '}
 {'N': '(picking up) '}
 
 
@@ -11044,18 +10084,14 @@
 
 
 
-{'C': 'ETHAN (O.S.) '}
-
-{'D': "I see you've been out visiting the folks. "}
+{'C': 'ETHAN (O.S.) ', 'D': "I see you've been out visiting the folks. "}
 
 
 
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': "It's Hunt.What do you need for a  pinpoint?  Been watching a little T.V., have you? "}
+{'C': 'KITTRIDGE ', 'D': "It's Hunt.What do you need for a   pinpoint?   Been watching a little T.V., have you? "}
 {'N': '(covers receiver) '}
 
 
@@ -11090,9 +10126,7 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Hauling Mom off to jail in shackles was  an especially nice touch. '}
+{'C': 'ETHAN', 'D': 'Hauling Mom off to jail in shackles was   an especially nice touch. '}
 
 
 
@@ -11115,9 +10149,7 @@
 
 
 
-{'C': 'TECHNICIAN '}
-
-{'D': "He's in England. "}
+{'C': 'TECHNICIAN ', 'D': "He's in England. "}
 
 
 
@@ -11132,9 +10164,7 @@
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': 'Get MI5. '}
+{'C': 'KITTRIDGE ', 'D': 'Get MI5. '}
 {'N': '(covering receiver) '}
 
 
@@ -11151,9 +10181,7 @@
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': 'Ethan, I want to reassure you that my  first order of business after you come in  is to get these ridiculous charges  against your family dropped and  eliminated completely from their files.  Come in now, we can plea down the charges  against you as well. '}
+{'C': 'KITTRIDGE ', 'D': 'Ethan, I want to reassure you that my   first order of business after you come in   is to get these ridiculous charges   against your family dropped and   eliminated completely from their files.   Come in now, we can plea down the charges   against you as well. '}
 
 
 
@@ -11182,16 +10210,12 @@
 
 
 
-{'C': 'ETHAN (O.S.) '}
-
-{'D': 'Can I ask you something, Kittridge? '}
+{'C': 'ETHAN (O.S.) ', 'D': 'Can I ask you something, Kittridge? '}
 
 
 {'M': ''}
 
-{'C': 'KITTRIDGE '}
-
-{'D': 'Certainly Ethan. '}
+{'C': 'KITTRIDGE ', 'D': 'Certainly Ethan. '}
 
 
 
@@ -11204,9 +10228,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "If you're dealing with someone who's  crushed, stabbed, shot and detonated five  members of his own IMF team, how  devastated do you think you're going to  make him by marching Ma and Uncle Donald  down to the county courthouse? "}
+{'C': 'ETHAN ', 'D': "If you're dealing with someone who's   crushed, stabbed, shot and detonated five   members of his own IMF team, how   devastated do you think you're going to   make him by marching Ma and Uncle Donald   down to the county courthouse? "}
 
 
 
@@ -11229,9 +10251,7 @@
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': "I don't know, Ethan. Suppose you tell me? "}
+{'C': 'KITTRIDGE ', 'D': "I don't know, Ethan. Suppose you tell me? "}
 
 
 
@@ -11246,9 +10266,7 @@
 
 
 
-{'C': 'BARNES '}
-
-{'D': 'Lost him.We needed three more seconds. '}
+{'C': 'BARNES ', 'D': 'Lost him.We needed three more seconds. '}
 
 
 
@@ -11261,9 +10279,7 @@
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': 'He wanted us to know he was in London. '}
+{'C': 'KITTRIDGE ', 'D': 'He wanted us to know he was in London. '}
 
 
 
@@ -11324,9 +10340,7 @@
 
 
 
-{'C': 'PHELPS '}
-
-{'D': "You're a hard man to catch up with. "}
+{'C': 'PHELPS ', 'D': "You're a hard man to catch up with. "}
 
 
 {'M': ''}
@@ -11359,9 +10373,7 @@
 
 
 
-{'C': 'PHELPS'}
-
-{'D': "..the next day I managed to drag myself  to the safe house, must've just missed  you..anyway, I checked our aliases."}
+{'C': 'PHELPS', 'D': "..the next day I managed to drag myself   to the safe house, must've just missed   you..anyway, I checked our aliases."}
 
 
 
@@ -11372,18 +10384,14 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': '- and picked us up in the States -'}
+{'C': 'ETHAN', 'D': '- and picked us up in the States -'}
 
 
 
 
 
 
-{'C': 'PHELPS '}
-
-{'D': '- but you left before I could get there  and I could check just so many places.. '}
+{'C': 'PHELPS ', 'D': '- but you left before I could get there   and I could check just so many places.. '}
 
 
 
@@ -11392,9 +10400,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "Yeah, smaller countries don't computerize  customs records - "}
+{'C': 'ETHAN ', 'D': "Yeah, smaller countries don't computerize   customs records - "}
 
 
 
@@ -11403,9 +10409,7 @@
 
 
 
-{'C': 'PHELPS '}
-
-{'D': '- so I watched Europe. Once you showed  up in England..it was easy. '}
+{'C': 'PHELPS ', 'D': '- so I watched Europe. Once you showed   up in England..it was easy. '}
 
 
 
@@ -11414,9 +10418,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'You knew I liked the rentals at Liverpool  Street. '}
+{'C': 'ETHAN ', 'D': 'You knew I liked the rentals at Liverpool   Street. '}
 
 
 
@@ -11425,18 +10427,14 @@
 
 
 
-{'C': 'PHELPS '}
-
-{'D': "Hey, I showed 'em to you! "}
+{'C': 'PHELPS ', 'D': "Hey, I showed 'em to you! "}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'I remember.. '}
+{'C': 'ETHAN ', 'D': 'I remember.. '}
 
 
 
@@ -11453,9 +10451,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "Jim, who do you think you're kidding?A  doctor's gotta look at that.You can't  sit up straight. "}
+{'C': 'ETHAN ', 'D': "Jim, who do you think you're kidding?A   doctor's gotta look at that.You can't   sit up straight. "}
 
 
 
@@ -11466,9 +10462,7 @@
 
 
 
-{'C': 'PHELPS '}
-
-{'D': "I can sit up straight.I just can't..sit  up straight very well.It's not  important!I saw who shot me.Ethan, I  saw the mole.It was Kittridge.  Kittridge! "}
+{'C': 'PHELPS ', 'D': "I can sit up straight.I just can't..sit   up straight very well.It's not   important!I saw who shot me.Ethan, I   saw the mole.It was Kittridge.   Kittridge! "}
 
 
 
@@ -11491,9 +10485,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Kitteridge.Oh my god!Kittridge is the  mole? '}
+{'C': 'ETHAN ', 'D': 'Kitteridge.Oh my god!Kittridge is the   mole? '}
 
 
 
@@ -11502,18 +10494,14 @@
 
 
 
-{'C': 'PHELPS '}
-
-{'D': 'Yeah. '}
+{'C': 'PHELPS ', 'D': 'Yeah. '}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'How did Kittridge do it?.. '}
+{'C': 'ETHAN ', 'D': 'How did Kittridge do it?.. '}
 
 
 
@@ -11536,9 +10524,7 @@
 
 
 
-{'C': 'ETHAN VO '}
-
-{'D': '- first he took care of Jack in the  elevator - '}
+{'C': 'ETHAN VO ', 'D': '- first he took care of Jack in the   elevator - '}
 
 
 
@@ -11553,9 +10539,7 @@
 
 
 
-{'C': 'ETHAN VO '}
-
-{'D': '- he shot you on the bridge - '}
+{'C': 'ETHAN VO ', 'D': '- he shot you on the bridge - '}
 
 
 
@@ -11572,9 +10556,7 @@
 
 
 
-{'C': 'ETHAN VO '}
-
-{'D': '- he must have had back up take out  Golitsyn and Sarah at the fence.. '}
+{'C': 'ETHAN VO ', 'D': '- he must have had back up take out   Golitsyn and Sarah at the fence.. '}
 
 
 
@@ -11591,9 +10573,7 @@
 
 
 
-{'C': 'ETHAN VO '}
-
-{'D': 'How did he do Hannah? '}
+{'C': 'ETHAN VO ', 'D': 'How did he do Hannah? '}
 
 
 
@@ -11610,9 +10590,7 @@
 
 
 
-{'C': 'ETHAN VO '}
-
-{'D': "No.No.He could've taken out Hannah  himself. "}
+{'C': 'ETHAN VO ', 'D': "No.No.He could've taken out Hannah   himself. "}
 
 
 
@@ -11639,9 +10617,7 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Why, Jim?Why?'}
+{'C': 'ETHAN', 'D': 'Why, Jim?Why?'}
 
 
 
@@ -11654,9 +10630,8 @@
 
 
 
-{'C': 'PHELPS'}
+{'C': 'PHELPS', 'D': '..when you think about it, Ethan, it was  inevitable..no more Cold War.No more  secrets you keep from everyone but  yourself, operations you answer to no one  but yourself.Then one morning you wake  up and find out the President of the  United States is running the country -  without your permission.The son-of-a-  bitch!How dare he?You realize itÃ\xads  over, youÃ\xadre an obsolete piece of  hardware not worth upgrading, youÃ\xadve got  a lousy marriage and sixty-two grand a   year.Kittridge, weÃ\xadll go after that no  good son-of-a-bitch, big time!'}
 
-{'D': '..when you think about it, Ethan, it was inevitable..no more Cold War.No more secrets you keep from everyone but yourself, operations you answer to no one but yourself.Then one morning you wake up and find out the President of the United States is running the country - without your permission.The son-of-a- bitch!How dare he?You realize itÃ\xads over, youÃ\xadre an obsolete piece of hardware not worth upgrading, youÃ\xadve got a lousy marriage and sixty-two grand a  year.Kittridge, weÃ\xadll go after that no good son-of-a-bitch, big time!'}
 
 
 
@@ -11688,70 +10663,55 @@
 
 
 
+{'C': 'ETHAN', 'D': 'We donÃ\xadt have to, Jim.HeÃ\xadll come after  us.'}
 
-{'C': 'ETHAN'}
 
-{'D': 'We donÃ\xadt have to, Jim.HeÃ\xadll come after us.'}
 
 
 
 
 
 
+{'C': 'PHELPS', 'D': 'WhatÃ\xads going to make him do that?'}
 
 
-{'C': 'PHELPS'}
 
-{'D': 'WhatÃ\xads going to make him do that?'}
 
 
 
+{'C': 'ETHAN', 'D': 'What he didnÃ\xadt get in Prague.The NOC  list.'}
 
 
 
-{'C': 'ETHAN'}
 
-{'D': 'What he didnÃ\xadt get in Prague.The NOC list.'}
 
 
 
 
+{'C': 'PHELPS', 'D': 'Jesus, Ethan.Good for you.'}
 
 
 
 
-{'C': 'PHELPS'}
 
-{'D': 'Jesus, Ethan.Good for you.'}
 
+{'C': 'ETHAN', 'D': 'A meeting tomorrow on the TGV, enroute to  Paris.'}
 
 
 
 
 
-{'C': 'ETHAN'}
 
-{'D': 'A meeting tomorrow on the TGV, enroute to Paris.'}
 
 
+{'C': 'PHELPS', 'D': 'Tight security.No guns.Real plus.'}
 
 
 
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'Tight security.No guns.Real plus.'}
-
-
-
-
-
-
-{'C': 'ETHAN'}
-
-{'D': 'If I supposedly deliver the NOC list to Max, Max has agreed to deliver Job to me. IÃ\xadll have Claire and Luther Stickell with me on the train.Marcel Krieger will have helicopter transport waiting in Paris.'}
+{'C': 'ETHAN', 'D': 'If I supposedly deliver the NOC list to  Max, Max has agreed to deliver Job to me.  IÃ\xadll have Claire and Luther Stickell with  me on the train.Marcel Krieger will  have helicopter transport waiting in  Paris.'}
 
 
 
@@ -11774,18 +10734,14 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Jim...?'}
+{'C': 'ETHAN', 'D': 'Jim...?'}
 
 
 
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'I was sitting in a cafe waiting for you and suddenly there she was, standing in the rain just outside the safe house..alive and beautiful..and thinking IÃ\xadm dead and gone.God knows what sheÃ\xads had to do forget about me to keep going and get the job done, I..'}
+{'C': 'PHELPS', 'D': 'I was sitting in a cafe waiting for you  and suddenly there she was, standing in  the rain just outside the safe  house..alive and beautiful..and thinking  IÃ\xadm dead and gone.God knows what sheÃ\xads  had to do forget about me to keep going  and get the job done, I..'}
 
 
 
@@ -11812,9 +10768,7 @@
 
 
 
-{'C': 'PHELPS'}
-
-{'D': '- no.She canÃ\xadt know about me.No one can.Not til this is over.ThereÃ\xads too much at stake, Ethan.'}
+{'C': 'PHELPS', 'D': '- no.She canÃ\xadt know about me.No one  can.Not til this is over.ThereÃ\xads too  much at stake, Ethan.'}
 
 
 
@@ -11825,27 +10779,21 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'YouÃ\xadre probably right.'}
+{'C': 'ETHAN', 'D': 'YouÃ\xadre probably right.'}
 
 
 
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'I usually am.'}
+{'C': 'PHELPS', 'D': 'I usually am.'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Once we leave the safehouse, get in there and crash.IÃ\xadll call you from Paris.'}
+{'C': 'ETHAN', 'D': 'Once we leave the safehouse, get in there  and crash.IÃ\xadll call you from Paris.'}
 
 
 
@@ -11854,27 +10802,21 @@
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'You got it.'}
+{'C': 'PHELPS', 'D': 'You got it.'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'And get a doctor.'}
+{'C': 'ETHAN', 'D': 'And get a doctor.'}
 
 
 
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'Good luck.'}
+{'C': 'PHELPS', 'D': 'Good luck.'}
 
 
 
@@ -11905,18 +10847,14 @@
 
 
 
-{'C': 'CLAIRE'}
-
-{'D': 'What happened?'}
+{'C': 'CLAIRE', 'D': 'What happened?'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'I sent the message to Max.WeÃ\xadre on for tomorrow.'}
+{'C': 'ETHAN', 'D': 'I sent the message to Max.WeÃ\xadre on for  tomorrow.'}
 {'N': '(walks towards her)'}
 
 
@@ -11927,18 +10865,14 @@
 
 
 
-{'C': 'CLAIRE'}
-
-{'D': 'Okay...'}
+{'C': 'CLAIRE', 'D': 'Okay...'}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Is this the only way?'}
+{'C': 'ETHAN ', 'D': 'Is this the only way?'}
 {'N': '(he steps towards her, stops)'}
 
 
@@ -11947,9 +10881,7 @@
 
 
 
-{'C': 'CLAIRE'}
-
-{'D': 'Yes.......come here....viens pres moi...'}
+{'C': 'CLAIRE', 'D': 'Yes.......come here....viens pres moi...'}
 
 
 
@@ -12056,9 +10988,7 @@
 
 
 
-{'C': 'KITTRIDGE'}
-
-{'D': 'How long to the London Terminus?'}
+{'C': 'KITTRIDGE', 'D': 'How long to the London Terminus?'}
 {'N': '(to the Agent) '}
 
 
@@ -12067,18 +10997,14 @@
 
 
 
-{'C': 'AGENT'}
-
-{'D': 'Twenty, twenty-five minutes.'}
+{'C': 'AGENT', 'D': 'Twenty, twenty-five minutes.'}
 
 
 
 
 
 
-{'C': 'KITTRIDGE'}
-
-{'D': 'YouÃ\xadve got ten.Move!'}
+{'C': 'KITTRIDGE', 'D': 'YouÃ\xadve got ten.Move!'}
 
 
 
@@ -12141,18 +11067,14 @@
 
 
 
-{'C': 'MAX'}
-
-{'D': 'How long until we reach the Chunnel?'}
+{'C': 'MAX', 'D': 'How long until we reach the Chunnel?'}
 
 
 
 
 
 
-{'C': 'MATTHIAS'}
-
-{'D': 'Twenty minutes.'}
+{'C': 'MATTHIAS', 'D': 'Twenty minutes.'}
 
 
 
@@ -12195,9 +11117,7 @@
 
 
 
-{'C': 'MATTHIAS'}
-
-{'D': 'Yes... ItÃ\xads him.'}
+{'C': 'MATTHIAS', 'D': 'Yes...  ItÃ\xads him.'}
 
 
 {'N': '(holds phone out for Max)'}
@@ -12208,9 +11128,7 @@
 
 
 
-{'C': 'MAX'}
-
-{'D': 'This wasnÃ\xadt what we discussed.'}
+{'C': 'MAX', 'D': 'This wasnÃ\xadt what we discussed.'}
 {'N': '(into phone) '}
 
 
@@ -12219,9 +11137,7 @@
 
 
 
-{'C': 'ETHAN (O.S.)'}
-
-{'D': 'My apologies Max.CouldnÃ\xadt be helped. ThereÃ\xads a piece of black cloth under your seat.Tear it away and youÃ\xadll find the disk. IDENTITY MATCH'}
+{'C': 'ETHAN (O.S.)', 'D': 'My apologies Max.CouldnÃ\xadt be helped.  ThereÃ\xads a piece of black cloth under your  seat.Tear it away and youÃ\xadll find the  disk.  IDENTITY MATCH'}
 {'N': '(on phone) '}
 
 
@@ -12278,9 +11194,7 @@
 
 
 
-{'C': 'MAX'}
-
-{'D': 'Ha, dear boy!I do hope this doesnÃ\xadt prelude a meeting in private.'}
+{'C': 'MAX', 'D': 'Ha, dear boy!I do hope this doesnÃ\xadt  prelude a meeting in private.'}
 {'N': '(back into phone) '}
 
 
@@ -12291,9 +11205,7 @@
 
 
 
-{'C': 'ETHAN (O.S.)'}
-
-{'D': 'It doesnÃ\xadt, dear girl.as long as you tell me where the money is.'}
+{'C': 'ETHAN (O.S.)', 'D': 'It doesnÃ\xadt, dear girl.as long as you  tell me where the money is.'}
 
 
 
@@ -12302,9 +11214,7 @@
 
 
 
-{'C': 'MAX'}
-
-{'D': 'The possibility alone is worth ten million.Baggage car, rack 3.Silver briefcase.Combination 314.'}
+{'C': 'MAX', 'D': 'The possibility alone is worth ten  million.Baggage car, rack 3.Silver  briefcase.Combination 314.'}
 
 
 
@@ -12315,18 +11225,14 @@
 
 
 
-{'C': 'ETHAN (O.S.)'}
-
-{'D': 'What about Job?'}
+{'C': 'ETHAN (O.S.)', 'D': 'What about Job?'}
 
 
 
 
 
 
-{'C': 'MAX'}
-
-{'D': 'I wouldnÃ\xadt worry about him.Once youÃ\xadve got the money -- heÃ\xadll find you.'}
+{'C': 'MAX', 'D': 'I wouldnÃ\xadt worry about him.Once youÃ\xadve  got the money -- heÃ\xadll find you.'}
 
 
 
@@ -12401,18 +11307,14 @@
 
 
 
-{'C': 'BARNES'}
-
-{'D': 'Only four more cars.'}
+{'C': 'BARNES', 'D': 'Only four more cars.'}
 
 
 
 
 
 
-{'C': 'KITTRIDGE'}
-
-{'D': 'And if we donÃ\xadt find him - weÃ\xadll search the whole train again.'}
+{'C': 'KITTRIDGE', 'D': 'And if we donÃ\xadt find him - weÃ\xadll search  the whole train again.'}
 
 
 
@@ -12421,18 +11323,14 @@
 
 
 
-{'C': 'BARNES'}
-
-{'D': 'WhatÃ\xads Hunt doing on the TGV?'}
+{'C': 'BARNES', 'D': 'WhatÃ\xads Hunt doing on the TGV?'}
 
 
 
 
 
 
-{'C': 'KITTRIDGE'}
-
-{'D': 'High speed train.No-one gets on.No- one gets off.High security.Good place for a pass off to Max.'}
+{'C': 'KITTRIDGE', 'D': 'High speed train.No-one gets on.No-  one gets off.High security.Good place  for a pass off to Max.'}
 
 
 
@@ -12443,36 +11341,28 @@
 
 
 
-{'C': 'BARNES'}
-
-{'D': 'But why tell us?'}
+{'C': 'BARNES', 'D': 'But why tell us?'}
 
 
 
 
 
 
-{'C': 'KITTRIDGE'}
-
-{'D': 'HeÃ\xads putting on a show, Barnes.'}
+{'C': 'KITTRIDGE', 'D': 'HeÃ\xads putting on a show, Barnes.'}
 
 
 
 
 
 
-{'C': 'BARNES'}
-
-{'D': 'What kind of show.'}
+{'C': 'BARNES', 'D': 'What kind of show.'}
 
 
 
 
 
 
-{'C': 'KITTRIDGE'}
-
-{'D': 'I donÃ\xadt know. It didnÃ\xadt say on the tickets.'}
+{'C': 'KITTRIDGE', 'D': 'I donÃ\xadt know.  It didnÃ\xadt say on the tickets.'}
 
 
 {'N': '(looks at his wrist monitor)'}
@@ -12493,18 +11383,14 @@
 
 
 
-{'C': 'CLAIRE'}
-
-{'D': 'Ethan...Kittridge is on the train.'}
+{'C': 'CLAIRE', 'D': 'Ethan...Kittridge is on the train.'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Kittridge is Job.Max delivered.How far is he from Luther?'}
+{'C': 'ETHAN', 'D': 'Kittridge is Job.Max delivered.How  far is he from Luther?'}
 
 
 
@@ -12513,18 +11399,14 @@
 
 
 
-{'C': 'CLAIRE'}
-
-{'D': 'Two cars.Where are you?'}
+{'C': 'CLAIRE', 'D': 'Two cars.Where are you?'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'You are my eyes.Stay with him.'}
+{'C': 'ETHAN', 'D': 'You are my eyes.Stay with him.'}
 
 
 
@@ -12565,9 +11447,7 @@
 
 
 
-{'C': 'MAX'}
-
-{'D': 'HeÃ\xads in the baggage car.'}
+{'C': 'MAX', 'D': 'HeÃ\xads in the baggage car.'}
 {'N': '(into phone)'}
 
 
@@ -12576,9 +11456,7 @@
 
 
 
-{'C': 'PHELPS (O/S)'}
-
-{'D': ''}
+{'C': 'PHELPS (O/S)', 'D': ''}
 {'M': '(assembling gun in sleeping'}
 
 {'M': 'compartment)'}
@@ -12607,45 +11485,35 @@
 
 
 
-{'C': 'MAX'}
-
-{'D': 'WhatÃ\xads the problem.'}
+{'C': 'MAX', 'D': 'WhatÃ\xads the problem.'}
 
 
 
 
 
 
-{'C': 'MATTHIAS'}
-
-{'D': 'Connection denied.'}
+{'C': 'MATTHIAS', 'D': 'Connection denied.'}
 
 
 
 
 
 
-{'C': 'MAX'}
-
-{'D': 'Try it again.'}
+{'C': 'MAX', 'D': 'Try it again.'}
 
 
 
 
 
 
-{'C': 'MATTHIAS'}
-
-{'D': 'ItÃ\xads not working.'}
+{'C': 'MATTHIAS', 'D': 'ItÃ\xads not working.'}
 
 
 
 
 
 
-{'C': 'MAX'}
-
-{'D': 'Is something wrong with the phone? Well is something wrong with the batteries?'}
+{'C': 'MAX', 'D': 'Is something wrong with the phone?  Well is something wrong with the  batteries?'}
 
 
 {'N': '(Pause as he tries the phone)'}
@@ -12658,18 +11526,14 @@
 
 
 
-{'C': 'MATTHIAS'}
-
-{'D': 'I always check the batteries.'}
+{'C': 'MATTHIAS', 'D': 'I always check the batteries.'}
 
 
 
 
 
 
-{'C': 'MAX'}
-
-{'D': 'Run it through from the top.'}
+{'C': 'MAX', 'D': 'Run it through from the top.'}
 
 
 
@@ -12702,18 +11566,14 @@
 
 
 
-{'C': 'BARNES'}
-
-{'D': 'Nothing but civilians, Gene.'}
+{'C': 'BARNES', 'D': 'Nothing but civilians, Gene.'}
 
 
 
 
 
 
-{'C': 'KITTRIDGE'}
-
-{'D': 'This is bullshit - we donÃ\xadt even know what Max looks like.'}
+{'C': 'KITTRIDGE', 'D': 'This is bullshit - we donÃ\xadt even know  what Max looks like.'}
 
 
 
@@ -12722,9 +11582,7 @@
 
 
 
-{'C': 'BARNES'}
-
-{'D': 'Maybe we donÃ\xadt have to know what he looks like.If heÃ\xads got that list, heÃ\xads going to want to check it.We should be looking for laptops.'}
+{'C': 'BARNES', 'D': 'Maybe we donÃ\xadt have to know what he looks  like.If heÃ\xads got that list, heÃ\xads going  to want to check it.We should be  looking for laptops.'}
 
 
 
@@ -12737,9 +11595,7 @@
 
 
 
-{'C': 'KITTRIDGE'}
-
-{'D': 'Good idea.'}
+{'C': 'KITTRIDGE', 'D': 'Good idea.'}
 
 
 
@@ -12766,9 +11622,7 @@
 
 
 
-{'C': 'WAITER'}
-
-{'D': 'Excuse me, Sir, your telephone...'}
+{'C': 'WAITER', 'D': 'Excuse me, Sir, your telephone...'}
 
 
 
@@ -12803,18 +11657,14 @@
 
 
 
-{'C': 'MATTHIAS'}
-
-{'D': 'ItÃ\xads working.'}
+{'C': 'MATTHIAS', 'D': 'ItÃ\xads working.'}
 
 
 
 
 
 
-{'C': 'MAX'}
-
-{'D': 'Phew!WeÃ\xadve got five minutes...'}
+{'C': 'MAX', 'D': 'Phew!WeÃ\xadve got five minutes...'}
 
 
 
@@ -12853,9 +11703,7 @@
 
 
 
-{'C': 'ETHAN (O/S)'}
-
-{'D': 'IÃ\xadve got the money.Meet me in the baggage car.'}
+{'C': 'ETHAN (O/S)', 'D': 'IÃ\xadve got the money.Meet me in the  baggage car.'}
 
 
 
@@ -12888,9 +11736,7 @@
 
 
 
-{'C': 'KITTRIDGE'}
-
-{'D': 'Get this door open.'}
+{'C': 'KITTRIDGE', 'D': 'Get this door open.'}
 
 
 
@@ -12925,18 +11771,14 @@
 
 
 
-{'C': 'KITTRIDGE'}
-
-{'D': 'Hello, Luther.WhereÃ\xads Hunt?'}
+{'C': 'KITTRIDGE', 'D': 'Hello, Luther.WhereÃ\xads Hunt?'}
 
 
 
 
 
 
-{'C': 'LUTHER'}
-
-{'D': 'Mr. Kittridge, the NOC list is being modemed off the train.'}
+{'C': 'LUTHER', 'D': 'Mr. Kittridge, the NOC list is being  modemed off the train.'}
 
 
 
@@ -12945,9 +11787,7 @@
 
 
 
-{'C': 'KITTRIDGE'}
-
-{'D': 'Where?'}
+{'C': 'KITTRIDGE', 'D': 'Where?'}
 
 
 
@@ -12968,9 +11808,7 @@
 
 
 
-{'C': 'CLAIRE'}
-
-{'D': 'EthanÃ\xads right behind me.Listen to me Jim.Is it such a good idea to kill him? We take the money.Ethan takes the blame.No-one else has seen you alive. No-one will believe him.'}
+{'C': 'CLAIRE', 'D': 'EthanÃ\xads right behind me.Listen to me  Jim.Is it such a good idea to kill him?  We take the money.Ethan takes the  blame.No-one else has seen you alive.  No-one will believe him.'}
 
 
 
@@ -12985,9 +11823,7 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Of course - IÃ\xadm sorry to hear you say that Claire.'}
+{'C': 'ETHAN', 'D': 'Of course - IÃ\xadm sorry to hear you say  that Claire.'}
 
 
 
@@ -12996,18 +11832,14 @@
 
 
 
-{'C': 'CLAIRE'}
-
-{'D': 'Ethan?'}
+{'C': 'CLAIRE', 'D': 'Ethan?'}
 
 
 
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'Yes.Ethan Hunt, darling.Remember him?'}
+{'C': 'PHELPS', 'D': 'Yes.Ethan Hunt, darling.Remember him?'}
 
 
 
@@ -13020,18 +11852,14 @@
 
 
 
-{'C': 'CLAIRE'}
-
-{'D': 'You knew about Jim?'}
+{'C': 'CLAIRE', 'D': 'You knew about Jim?'}
 
 
 
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'Course he did.Just exactly when he knew is something of a question.Before or after I showed in London, mind telling me, Ethan?'}
+{'C': 'PHELPS', 'D': 'Course he did.Just exactly when he knew  is something of a question.Before or  after I showed in London, mind telling  me, Ethan?'}
 
 
 
@@ -13044,9 +11872,7 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Before London.But after you took the Bible out of the Drake Hotel in Chicago.'}
+{'C': 'ETHAN', 'D': 'Before London.But after you took the  Bible out of the Drake Hotel in Chicago.'}
 
 
 
@@ -13055,9 +11881,7 @@
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'They stamped it, didnÃ\xadt they?Those damn Gideons.'}
+{'C': 'PHELPS', 'D': 'They stamped it, didnÃ\xadt they?Those damn  Gideons.'}
 
 
 
@@ -13072,9 +11896,7 @@
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'Two minutes til Krieger shows.ThisÃ\xadll have to be quicker than IÃ\xadd like. Certainly quicker than youÃ\xadd like.'}
+{'C': 'PHELPS', 'D': 'Two minutes til Krieger shows.ThisÃ\xadll  have to be quicker than IÃ\xadd like.  Certainly quicker than youÃ\xadd like.'}
 
 
 
@@ -13085,18 +11907,14 @@
 
 
 
-{'C': 'CLAIRE'}
-
-{'D': 'Ethan, if you knew about Jim?..Why..'}
+{'C': 'CLAIRE', 'D': 'Ethan, if you knew about Jim?..Why..'}
 
 
 
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'Why the masquerade?Why take the risk? Well, Claire, youÃ\xadve asked the question and you are the answer.'}
+{'C': 'PHELPS', 'D': 'Why the masquerade?Why take the risk?  Well, Claire, youÃ\xadve asked the question  and you are the answer.'}
 
 
 
@@ -13107,18 +11925,14 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'I knew about Jim.'}
+{'C': 'ETHAN', 'D': 'I knew about Jim.'}
 
 
 
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'But, he didnÃ\xadt know about you.In all fairness, Ethan, Claire was never convinced her charms would work with you. But I was supremely confident - having tastes the goods."Thou shall not covet thy NeighbourÃ\xads wife", Ethan.Oh, Ethan is in love with you, Claire, make no mistake about it.And like all the  worldÃ\xads lovers, heÃ\xads tortured by the same, one pathetic question - "does she feel the same way I do?"'}
+{'C': 'PHELPS', 'D': 'But, he didnÃ\xadt know about you.In all  fairness, Ethan, Claire was never  convinced her charms would work with you.  But I was supremely confident - having  tastes the goods."Thou shall not covet  thy NeighbourÃ\xads wife", Ethan.Oh, Ethan  is in love with you, Claire, make no  mistake about it.And like all the   worldÃ\xads lovers, heÃ\xads tortured by the  same, one pathetic question - "does she  feel the same way I do?"'}
 
 
 
@@ -13151,9 +11965,7 @@
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'Well Claire do you?Have you been exploiting his feelings or returning them?'}
+{'C': 'PHELPS', 'D': 'Well Claire do you?Have you been  exploiting his feelings or returning  them?'}
 
 
 
@@ -13164,9 +11976,7 @@
 
 
 
-{'C': 'CLAIRE'}
-
-{'D': 'Jim - lets just get the money and get out of here.'}
+{'C': 'CLAIRE', 'D': 'Jim - lets just get the money and get out  of here.'}
 
 
 
@@ -13181,9 +11991,7 @@
 
 
 
-{'C': "CLAIRE (CONT'D)"}
-
-{'D': 'The money Ethan.'}
+{'C': "CLAIRE (CONT'D)", 'D': 'The money Ethan.'}
 
 
 
@@ -13196,9 +12004,7 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'YouÃ\xadve earned it.'}
+{'C': 'ETHAN', 'D': 'YouÃ\xadve earned it.'}
 
 
 
@@ -13211,9 +12017,7 @@
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'Count it.'}
+{'C': 'PHELPS', 'D': 'Count it.'}
 
 
 
@@ -13226,9 +12030,7 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Tell me something Claire, that night in Prague, was it you or Jim that blew up the car and scattered Hannah all over town?'}
+{'C': 'ETHAN', 'D': 'Tell me something Claire, that night in  Prague, was it you or Jim that blew up  the car and scattered Hannah all over  town?'}
 
 
 
@@ -13241,18 +12043,14 @@
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'Keep counting Claire.'}
+{'C': 'PHELPS', 'D': 'Keep counting Claire.'}
 
 
 
 
 
 
-{'C': 'CLAIRE'}
-
-{'D': 'It was me.I did it.'}
+{'C': 'CLAIRE', 'D': 'It was me.I did it.'}
 
 
 
@@ -13269,36 +12067,28 @@
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'Satisfied?'}
+{'C': 'PHELPS', 'D': 'Satisfied?'}
 
 
 
 
 
 
-{'C': 'CLAIRE'}
-
-{'D': 'All ten million.'}
+{'C': 'CLAIRE', 'D': 'All ten million.'}
 
 
 
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'Fold it.Fold it tight.'}
+{'C': 'PHELPS', 'D': 'Fold it.Fold it tight.'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'ArenÃ\xadt you going to thank me Jim.Ten million is better than six.'}
+{'C': 'ETHAN', 'D': 'ArenÃ\xadt you going to thank me Jim.Ten  million is better than six.'}
 
 
 
@@ -13307,9 +12097,7 @@
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'DonÃ\xadt flatter yourself - six was for Eastern Europe.You made a lousy deal - ten for the world?What is that?But I needed you for the transfer with Max.I got a little extra change;and you got a little extra too.'}
+{'C': 'PHELPS', 'D': 'DonÃ\xadt flatter yourself - six was for  Eastern Europe.You made a lousy deal -  ten for the world?What is that?But I  needed you for the transfer with Max.I  got a little extra change;and you got a  little extra too.'}
 
 
 
@@ -13332,18 +12120,14 @@
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'Sorry Ethan.Times up.Say goodbye.'}
+{'C': 'PHELPS', 'D': 'Sorry Ethan.Times up.Say goodbye.'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'YouÃ\xadre wrong about one thing.IÃ\xadm not the only one whoÃ\xads seen you alive.'}
+{'C': 'ETHAN', 'D': 'YouÃ\xadre wrong about one thing.IÃ\xadm not  the only one whoÃ\xads seen you alive.'}
 
 
 
@@ -13358,9 +12142,7 @@
 
 
 
-{'C': 'KITTRIDGE'}
-
-{'D': 'Good morning, Mr Phelps.'}
+{'C': 'KITTRIDGE', 'D': 'Good morning, Mr Phelps.'}
 
 
 
@@ -13373,9 +12155,7 @@
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'You son of a bitch.'}
+{'C': 'PHELPS', 'D': 'You son of a bitch.'}
 
 
 
@@ -13388,18 +12168,14 @@
 
 
 
-{'C': 'CLAIRE'}
-
-{'D': 'DonÃ\xadt Jim.'}
+{'C': 'CLAIRE', 'D': 'DonÃ\xadt Jim.'}
 
 
 
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'Now we donÃ\xadt have to eliminate him?You like that, donÃ\xadt you Claire?DonÃ\xadt you?'}
+{'C': 'PHELPS', 'D': 'Now we donÃ\xadt have to eliminate him?You  like that, donÃ\xadt you Claire?DonÃ\xadt you?'}
 
 
 
@@ -13408,27 +12184,21 @@
 
 
 
-{'C': 'CLAIRE'}
-
-{'D': 'Yes.'}
+{'C': 'CLAIRE', 'D': 'Yes.'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Jim, itÃ\xads over.'}
+{'C': 'ETHAN', 'D': 'Jim, itÃ\xads over.'}
 
 
 
 
 
 
-{'C': 'PHELPS'}
-
-{'D': 'Ethan - IÃ\xadve always taught you, nothing can be more dangerous than the truth.It can kill you.'}
+{'C': 'PHELPS', 'D': 'Ethan - IÃ\xadve always taught you, nothing  can be more dangerous than the truth.It  can kill you.'}
 
 
 
@@ -13455,36 +12225,28 @@
 
 {'M': ''}
 
-{'C': 'ETHAN'}
-
-{'D': 'Claire...Hey...'}
+{'C': 'ETHAN', 'D': 'Claire...Hey...'}
 
 
 
 
 
 
-{'C': 'CLAIRE'}
-
-{'D': 'This stuff is so sticky.'}
+{'C': 'CLAIRE', 'D': 'This stuff is so sticky.'}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'Claire.'}
+{'C': 'ETHAN', 'D': 'Claire.'}
 
 
 
 
 
 
-{'C': 'CLAIRE'}
-
-{'D': 'ItÃ\xads all right, Ethan..youÃ\xadll bring me back...wonÃ\xadt you...'}
+{'C': 'CLAIRE', 'D': 'ItÃ\xads all right, Ethan..youÃ\xadll bring me  back...wonÃ\xadt you...'}
 
 
 
@@ -13493,9 +12255,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'I always have, Claire.. '}
+{'C': 'ETHAN ', 'D': 'I always have, Claire.. '}
 
 
 
@@ -13784,9 +12544,7 @@
 
 
 
-{'C': 'MAX'}
-
-{'D': 'Damn!'}
+{'C': 'MAX', 'D': 'Damn!'}
 
 
 
@@ -13809,27 +12567,21 @@
 
 
 
-{'C': 'CONDUCTOR '}
-
-{'D': "No, no, it's IN the tunnel! "}
+{'C': 'CONDUCTOR ', 'D': "No, no, it's IN the tunnel! "}
 
 
 
 
 
 
-{'C': 'VOICE (O.S.) '}
-
-{'D': 'Stop the train! '}
+{'C': 'VOICE (O.S.) ', 'D': 'Stop the train! '}
 
 
 
 
 
 
-{'C': 'CONDUCTOR '}
-
-{'D': "It'll crash into us!Accelerate,  accelerate. "}
+{'C': 'CONDUCTOR ', 'D': "It'll crash into us!Accelerate,   accelerate. "}
 
 
 
@@ -13982,9 +12734,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Red light, green light.Asta Lasagna  mother fucker. '}
+{'C': 'ETHAN ', 'D': 'Red light, green light.Asta Lasagna   mother fucker. '}
 
 
 
@@ -14061,9 +12811,7 @@
 
 
 
-{'C': 'LUTHER'}
-
-{'D': "I think this is what you're looking for. "}
+{'C': 'LUTHER', 'D': "I think this is what you're looking for. "}
 
 
 
@@ -14086,9 +12834,7 @@
 
 
 
-{'C': 'MAX '}
-
-{'D': 'My lawyers will have a field day with  this.Entrapment, jurisdictional  conflicts -- '}
+{'C': 'MAX ', 'D': 'My lawyers will have a field day with   this.Entrapment, jurisdictional   conflicts -- '}
 
 
 
@@ -14107,9 +12853,7 @@
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': "Maybe we'll just keep the courts out of  this one. "}
+{'C': 'KITTRIDGE ', 'D': "Maybe we'll just keep the courts out of   this one. "}
 
 
 
@@ -14118,9 +12862,7 @@
 
 
 
-{'C': 'MAX '}
-
-{'D': "I'm sure we can find something I have  that you need. "}
+{'C': 'MAX ', 'D': "I'm sure we can find something I have   that you need. "}
 
 
 
@@ -14129,9 +12871,7 @@
 
 
 
-{'C': 'KITTRIDGE '}
-
-{'D': 'You know, I would love to try. '}
+{'C': 'KITTRIDGE ', 'D': 'You know, I would love to try. '}
 
 
 
@@ -14168,9 +12908,7 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': 'Reach your folks?  How they feeling? '}
+{'C': 'LUTHER ', 'D': 'Reach your folks?   How they feeling? '}
 
 
 {'N': '(ETHAN nods) '}
@@ -14181,18 +12919,14 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'About what? '}
+{'C': 'ETHAN', 'D': 'About what? '}
 
 
 
 
 
 
-{'C': 'LUTHER '}
-
-{'D': 'The official apology from the Justice  Department, the VIP treatment, you know,  the whole nine yards. '}
+{'C': 'LUTHER ', 'D': 'The official apology from the Justice   Department, the VIP treatment, you know,   the whole nine yards. '}
 
 
 
@@ -14203,9 +12937,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': 'Well my Mother was a little confused  about how the DEA could mistake her and  Uncle Donald for a couple of dope smugglers  in the Florida keys. '}
+{'C': 'ETHAN ', 'D': 'Well my Mother was a little confused   about how the DEA could mistake her and   Uncle Donald for a couple of dope smugglers   in the Florida keys. '}
 
 
 
@@ -14224,9 +12956,7 @@
 
 
 
-{'C': 'LUTHER'}
-
-{'D': 'Cheers. '}
+{'C': 'LUTHER', 'D': 'Cheers. '}
 {'N': '(Laughs and with a British accent) '}
 
 
@@ -14241,9 +12971,7 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': "Here's toyou, Luther. (clink glasses)To  being off the disavowed list. "}
+{'C': 'ETHAN', 'D': "Here's toyou, Luther. (clink glasses)To   being off the disavowed list. "}
 
 
 
@@ -14252,18 +12980,14 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': "Hey, I'm the flavour of the month! "}
+{'C': 'LUTHER ', 'D': "Hey, I'm the flavour of the month! "}
 
 
 
 
 
 
-{'C': 'ETHAN'}
-
-{'D': "You're more than that, Luther.They were  mistaken about you and they're trying to  show you they know it.They want you  back in. "}
+{'C': 'ETHAN', 'D': "You're more than that, Luther.They were   mistaken about you and they're trying to   show you they know it.They want you   back in. "}
 
 
 
@@ -14276,9 +13000,7 @@
 
 
 
-{'C': 'LUTHER'}
-
-{'D': "Sure.They want me back in so I won't  break in!They still can't figure out  how we did it. "}
+{'C': 'LUTHER', 'D': "Sure.They want me back in so I won't   break in!They still can't figure out   how we did it. "}
 
 
 
@@ -14289,18 +13011,14 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "You didn't tell 'em at the debriefing? "}
+{'C': 'ETHAN ', 'D': "You didn't tell 'em at the debriefing? "}
 
 
 
 
 
 
-{'C': 'LUTHER '}
-
-{'D': "I figured I'd let 'em reinstate my back  pay, give me a promotion, check out my  office at Langley and then, maybe, talk  about it. "}
+{'C': 'LUTHER ', 'D': "I figured I'd let 'em reinstate my back   pay, give me a promotion, check out my   office at Langley and then, maybe, talk   about it. "}
 
 
 
@@ -14313,9 +13031,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "It's all one big negotiation, isn't it? "}
+{'C': 'ETHAN ', 'D': "It's all one big negotiation, isn't it? "}
 {'N': '(laughing) '}
 
 
@@ -14324,36 +13040,28 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': "Why don't you come back with me? "}
+{'C': 'LUTHER ', 'D': "Why don't you come back with me? "}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "Just don't know why I'd be doing it. "}
+{'C': 'ETHAN ', 'D': "Just don't know why I'd be doing it. "}
 
 
 
 
 
 
-{'C': 'LUTHER '}
-
-{'D': "You really liked Phelps, didn't you? "}
+{'C': 'LUTHER ', 'D': "You really liked Phelps, didn't you? "}
 
 
 
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "He was a good guy for a long, long time.  Just - not long enough. (looks up) Gotta  catch my flight..(rising)  So.How's it feel being a solid citizen  again? "}
+{'C': 'ETHAN ', 'D': "He was a good guy for a long, long time.   Just - not long enough. (looks up) Gotta   catch my flight..(rising)   So.How's it feel being a solid citizen   again? "}
 
 
 
@@ -14368,9 +13076,7 @@
 
 
 
-{'C': 'LUTHER '}
-
-{'D': "Oh man...I don't know.I'm gonna miss  being disreputable. "}
+{'C': 'LUTHER ', 'D': "Oh man...I don't know.I'm gonna miss   being disreputable. "}
 
 
 
@@ -14379,9 +13085,7 @@
 
 
 
-{'C': 'ETHAN '}
-
-{'D': "Well, Luther - if it makes you feel any  better I'll always think of you that way. "}
+{'C': 'ETHAN ', 'D': "Well, Luther - if it makes you feel any   better I'll always think of you that way. "}
 
 
 
@@ -14418,9 +13122,7 @@
 
 
 
-{'C': 'FLIGHT ATTENDANT '}
-
-{'D': 'Would you like to watch a movie, Miss  Clarke? '}
+{'C': 'FLIGHT ATTENDANT ', 'D': 'Would you like to watch a movie, Miss   Clarke? '}
 
 
 
@@ -14435,9 +13137,7 @@
 
 
 
-{'C': 'FLIGHT ATTENDANT '}
-
-{'D': 'Excuse me, Mr. Hunt.Would you like to watch a movie.'}
+{'C': 'FLIGHT ATTENDANT ', 'D': 'Excuse me, Mr. Hunt.Would you like to  watch a movie.'}
 
 
 
@@ -14446,18 +13146,14 @@
 
 
 
-{'C': 'ETHAN'}
-
-{'D': 'No, thank you.'}
+{'C': 'ETHAN', 'D': 'No, thank you.'}
 
 
 
 
 
 
-{'C': 'FLIGHT ATTENDANT '}
-
-{'D': 'Would you consider the cinema of the  Caribbean? '}
+{'C': 'FLIGHT ATTENDANT ', 'D': 'Would you consider the cinema of the   Caribbean? '}
 
 
 
@@ -14474,9 +13170,7 @@
 
 
 
-{'C': 'FLIGHT ATTENDANT '}
-
-{'D': 'Aruba, perhaps? '}
+{'C': 'FLIGHT ATTENDANT ', 'D': 'Aruba, perhaps? '}
 
 
 
