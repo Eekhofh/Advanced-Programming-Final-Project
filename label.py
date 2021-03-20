@@ -14,8 +14,7 @@ def label_line(line):
 		print(line_dict)
 	elif re.match(r'^                [a-zA-Z0-9-.,\']+', line):
 		line = re.sub(' [ ]+', r'', line)
-		line_dict = {'D': line[:-1]}
-		print(line_dict)
+		print('D \t' + line)
 	elif re.match(r'^     [A-Z]+[^a-z]+\n', line):
 		if len(line) > 60 or line[-2] in ".?!":
 			line = re.sub(' [ ]+', r'', line)
@@ -37,6 +36,7 @@ def label_line(line):
 		line = re.sub(' [ ]+', r'', line)
 		line_dict = {'M': line[:-1]}
 		print(line_dict)
+		
 
 def label_file(script):
 	with open(script, 'r', encoding='utf8') as infile:
