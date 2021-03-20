@@ -3,7 +3,7 @@ import json
 
 
 def convert_to_csv(dict):
-    with open('outputs/csv_output.csv', 'w') as csv_file:
+    with open('csv_output.csv', 'w') as csv_file:
         fieldnames = ['line', 'actor', 'dialogue', 'time']
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames, delimiter=',')
 
@@ -20,7 +20,7 @@ def convert_to_csv(dict):
 
 
 def convert_to_json(dict):
-    with open('outputs/json_output.json', 'w') as json_file:
+    with open('json_output.json', 'w') as json_file:
         json_output = json.dump(dict, json_file)
 
     return json_file
