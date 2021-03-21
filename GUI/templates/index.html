@@ -3,50 +3,55 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='css/main.css') }}">
 </head>
 <body>
-    <h1>
-        Test
-    </h1>
-    {% if not file_exist_srt and not file_exist_out %}
-        <h2>UPLOAD SRT FILE</h2>
-    <form action = "http://localhost:5000/upload_srt" method = "POST" enctype = "multipart/form-data">
-         <input type = "file" name = "file" />
-         <input type = "submit" value = "Submit" />
-    </form>
-    {% elif file_exist_out %}
-        <!-- Dummy -->
-    {% else %}
-        <h2>SRT UPLOADED</h2>
-    {% endif %}
+    <div class="body-wrapper">
+        <p class="title">Subs Script Combiner</p>
+        {% if not file_exist_srt and not file_exist_out %}
+            <div class="upload-wrapper">
+                <h2>UPLOAD SRT FILE</h2>
+                <form class="upload" action = "http://localhost:5000/upload_srt" method="POST" enctype="multipart/form-data">
+                     <input type="file" name="file" />
+                     <input type="submit" value="Submit" />
+                </form>
+            </div>
+        {% elif file_exist_out %}
+            <!-- Dummy -->
+        {% else %}
+            <h2>SRT UPLOADED</h2>
+        {% endif %}
 
-    {% if not file_exist_script and not file_exist_out %}
-        <h2>UPLOAD SCRIPT FILE</h2>
-    <form action = "http://localhost:5000/upload_script" method = "POST" enctype = "multipart/form-data">
-         <input type = "file" name = "file" />
-         <input type = "submit" value = "Submit" />
-    </form>
-    {% elif file_exist_out %}
-        <!-- Dummy -->
-    {% else %}
-        <h2>SCRIPT UPLOADED</h2>
-    {% endif %}
+        {% if not file_exist_script and not file_exist_out %}
+            <div class="upload-wrapper">
+                <h2>UPLOAD SCRIPT FILE</h2>
+                <form class="upload" action="http://localhost:5000/upload_script" method="POST" enctype="multipart/form-data">
+                     <input type="file" name="file" />
+                     <input type="submit" value="Submit" />
+                </form>
+            </div>
+        {% elif file_exist_out %}
+            <!-- Dummy -->
+        {% else %}
+            <h2>SCRIPT UPLOADED</h2>
+        {% endif %}
 
-    {% if total_upload == 2 %}
-    <a href="/process" target="blank">PROCESS FILES</a>
-    {% endif %}
+        {% if total_upload == 2 %}
+            <a class="process-button" href="/process" target="blank"><button type="button">PROCESS FILES</button></a>
+        {% endif %}
 
-    {% if file_exist_out %}
-    <button type="button"><a href="/downloads" target="blank">File</a></button>
-    {% endif %}
+        {% if file_exist_out %}
+            <a class="download-button" href="/downloads" target="blank"><button type="button">Download</button></a>
+        {% endif %}
 
-    {% with messages = get_flashed_messages() %}
-   {% if messages %}
-      {% for message in messages %}
-         {{ message }}
-      {% endfor %}
-   {% endif %}
-{% endwith %}
+        {% with messages = get_flashed_messages() %}
+       {% if messages %}
+          {% for message in messages %}
+             {{ message }}
+          {% endfor %}
+       {% endif %}
+        {% endwith %}
+    </div>
 
 </body>
 </html>

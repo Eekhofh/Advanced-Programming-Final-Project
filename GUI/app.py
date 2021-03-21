@@ -8,7 +8,6 @@ app = Flask(__name__)
 
 APP_ROOT = os.path.dirname(os.path.abspath(__file__))
 app.config['SECRET_KEY'] = '\xfd{H\xe5<\x95\xf9\xe3\x96.5\xd1\x01O<!\xd5\xa2\xa0\x9fR"\xa1\xa8'
-ALLOWED_EXTENSION = {'txt', 'srt'}
 app.config.update()
 files_uploaded = 0
 
@@ -27,9 +26,9 @@ def index_page():
                            total_upload=files_uploaded)
 
 
-def allowed_file(filename):
+def allowed_file(filename, extension):
     return '.' in filename and \
-           filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSION
+           filename.rsplit('.', 1)[1].lower() == extension
 
 
 @app.route('/upload_srt', methods=['GET', 'POST'])
@@ -41,14 +40,14 @@ def upload_srt():
     if request.method == 'POST':
         f = request.files['file']
         filename = f.filename
-        if allowed_file(filename):
+        if allowed_file(filename, 'srt'):
             dest = f'{upload_folder}/{filename}'
             new_file = f'{upload_folder}/subs.srt'
             f.save(dest)
             os.rename(dest, new_file)
             files_uploaded += 1
         else:
-            flash('File extension not allowed!')
+            flash('File extension not allowed! Only .srt is allowed.')
         return redirect('/')
 
 
@@ -61,14 +60,14 @@ def upload_script():
     if request.method == 'POST':
         f = request.files['file']
         filename = f.filename
-        if allowed_file(filename):
+        if allowed_file(filename, 'txt'):
             dest = f'{upload_folder}/{filename}'
             new_file = f'{upload_folder}/script.txt'
             f.save(dest)
             os.rename(dest, new_file)
             files_uploaded += 1
         else:
-            flash('File extension not allowed!')
+            flash('File extension not allowed! Only .txt is allowed.')
         return redirect('/')
 
 
