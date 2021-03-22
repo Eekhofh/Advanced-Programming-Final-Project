@@ -8,6 +8,8 @@ def one_line_dialogue(text_file):
 	with open(text_file, 'r', encoding='utf8') as infile:
 		for line in infile:
 			infile_list.append(line)
+			
+	aligned_dialogue_file = ""
 
 	i = 0
 	while i < len(infile_list):
@@ -27,10 +29,11 @@ def one_line_dialogue(text_file):
 			dialogue = [line for line in dialogue if line != '']
 			dialogue = [line for line in dialogue if not re.match(r'^{\'N\'', line)]
 			dialogue_dict['D'] = "  ".join(dialogue)
-			print(dialogue_dict)
+			aligned_dialogue_file += str(dialogue_dict)
 		elif not re.match('^D \t', infile_list[i]) and not re.match('^{\'N\': \(', infile_list[i]):
-			print(infile_list[i])
+			aligned_dialogue_file += infile_list[i]
 		i += 1
-	return infile_list
+	return aligned_dialogue_file
 
-one_line_dialogue('labeled_script.txt')
+print(one_line_dialogue('labeled_script.txt'))
+
