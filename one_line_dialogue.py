@@ -31,5 +31,6 @@ def one_line_dialogue(text_file):
 		elif not re.match('^D \t', infile_list[i]) and not re.match('^{\'N\': \(', infile_list[i]):
 			print(infile_list[i])
 		i += 1
+	return infile_list
 
 one_line_dialogue('labeled_script.txt')
