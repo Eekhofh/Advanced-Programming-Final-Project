@@ -1,6 +1,7 @@
 import sys
 import json
 import ast
+import convert_to_output
 
 def load_file(filescript):
 	# Loads a file and returns a list of the all the lines
@@ -82,9 +83,12 @@ def main():
 
 								del cleaned_srt[srt_key]
 								break
-								
-	with open('output.json', 'w') as json_file:
-		json.dump(text_script, json_file, indent = 2)
+	
+	# Convert to json						
+	convert_to_output.convert_to_json(text_script)
+
+	# Convert to csv
+	convert_to_output.convert_to_csv(text_script)
 
 if __name__ == '__main__':
 	main()
