@@ -13,11 +13,8 @@ def load_file(filescript):
 
 def clean_srt(srt_file):
 	#places srt file content in dictionary
-	clean_lines = []
 	# remove spaces around the items
-	for item in srt_file:
-		if item.strip():
-			clean_lines.append(item.strip())
+	clean_lines = [item.strip() for item in srt_file if item.strip()]
 
 	srt_dict = {}
 	empty_list = []
