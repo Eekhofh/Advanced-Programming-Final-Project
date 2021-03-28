@@ -7,9 +7,13 @@
 </head>
 <body>
     <div class="body-wrapper">
-        <p class="title">Subs Script Combiner</p>
+        <div class="title-container">
+            <h1>Subs Script Combiner</h1>
+        </div>
+        <div class="uploads-container">
         {% if not file_exist_srt and not file_exist_out %}
             <div class="upload-wrapper">
+                <!-- The SRT upload button code, is only shown if the srt file and output file do not exist -->
                 <h2>UPLOAD SRT FILE</h2>
                 <form class="upload" action = "http://localhost:5000/upload_srt" method="POST" enctype="multipart/form-data">
                      <input type="file" name="file" />
@@ -17,13 +21,14 @@
                 </form>
             </div>
         {% elif file_exist_out %}
-            <!-- Dummy -->
+            <!-- Is empty, so that the upload-wrapper is empty when the file is uploaded -->
         {% else %}
             <h2>SRT UPLOADED</h2>
         {% endif %}
 
         {% if not file_exist_script and not file_exist_out %}
             <div class="upload-wrapper">
+                <!-- The Script upload button code, is only shown if the script file and output file do not exist -->
                 <h2>UPLOAD SCRIPT FILE</h2>
                 <form class="upload" action="http://localhost:5000/upload_script" method="POST" enctype="multipart/form-data">
                      <input type="file" name="file" />
@@ -31,12 +36,13 @@
                 </form>
             </div>
         {% elif file_exist_out %}
-            <!-- Dummy -->
+            <!-- Is empty, so that the upload-wrapper is empty when the file is uploaded -->
         {% else %}
             <h2>SCRIPT UPLOADED</h2>
         {% endif %}
+        </div>
 
-        {% if total_upload == 2 %}
+        {% if file_exist_srt and file_exist_script %}
             <a class="process-button" href="/process" target="blank"><button type="button">PROCESS FILES</button></a>
         {% endif %}
 
@@ -44,6 +50,8 @@
             <a class="download-button" href="/downloads" target="blank"><button type="button">Download</button></a>
         {% endif %}
 
+        <!-- This piece of code reads if an error message has been encountered,
+         if so it will print the message on the site. -->
         {% with messages = get_flashed_messages() %}
        {% if messages %}
           {% for message in messages %}
