@@ -32,11 +32,11 @@ def convert_to_csv(dict):
                             'actor': actor, 'dialogue': line_text,
                             'time': time})
 
-        return csv_file
+        return "csv_output.csv"
 
 
 def convert_to_json(dict):
-    with open('output.json', 'w') as json_file:
+    with open('json_output.json', 'w') as json_file:
         json_file = json.dump(dict, json_file, indent = 2)
 
-    return json_file
+    return 'json_output.json'
