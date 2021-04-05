@@ -31,7 +31,7 @@ def one_line_dialogue(text_file):
 			# If they begin with D, add the lines to the dialogue list
 			for line in infile_list[i+1:]:
 				if re.match('^D \t', line) or re.match('\n', line):
-					line = re.sub(' [ ]+', r'', line[3:-1])
+					line = re.sub(' [ ]+', r' ', line[3:-1])
 					dialogue.append(line)
 				elif re.match('^{\'N\'', line):
 					dialogue.append(line)
@@ -45,6 +45,7 @@ def one_line_dialogue(text_file):
 			dialogue = [line for line in dialogue if line != '']
 			dialogue = [line for line in dialogue if not re.match('^{\'N\'', line)]
 			dialogue_dict['D'] = "  ".join(dialogue)
+			dialogue_dict['D'] = re.sub(' [ ]+', r' ', dialogue_dict['D'])
 			aligned_dialogue_file += str(dialogue_dict) + '\n'
 		
 		# Else just add the line to the string aligned_dialogue_file
