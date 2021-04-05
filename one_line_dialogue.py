@@ -43,9 +43,9 @@ def one_line_dialogue(text_file):
 			# Add the dialogue dictionary to the string aligned_dialogue_file
 			dialogue = [line for line in dialogue if line != '\n']
 			dialogue = [line for line in dialogue if line != '']
-			dialogue = [line for line in dialogue if not re.match(r'^{\'N\'', line)]
+			dialogue = [line for line in dialogue if not re.match('^{\'N\'', line)]
 			dialogue_dict['D'] = "  ".join(dialogue)
-			aligned_dialogue_file += str(dialogue_dict)
+			aligned_dialogue_file += str(dialogue_dict) + '\n'
 		
 		# Else just add the line to the string aligned_dialogue_file
 		elif not re.match('^D \t', infile_list[i]) and not re.match('^{\'N\': \(', infile_list[i]):
