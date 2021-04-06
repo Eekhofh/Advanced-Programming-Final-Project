@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 import sys
 import json
+import os
 import ast
 import convert_to_output
 
@@ -57,7 +58,8 @@ def main():
 	text_script = load_file(filescript)
 	text_script = clean_script(text_script)
 
-	file_srt = 'mi.srt'
+	root_folder = os.path.dirname(os.path.abspath(__file__))
+	file_srt = os.path.join(root_folder, 'uploads', 'subs.srt')
 	srt_file = load_file(file_srt)
 	cleaned_srt = clean_srt(srt_file)
 

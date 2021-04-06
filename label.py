@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 import re
+import os
 
 def label_line(line):
 	line_dict = {}
@@ -58,8 +59,10 @@ def label_line(line):
 		
 
 def main():
+	root_folder = os.path.dirname(os.path.abspath(__file__))
+	script_file = os.path.join(root_folder, 'uploads', 'script.txt')
 	# for every line in the .txt file, apply the label_line function
-	with open('mi.txt', 'r', encoding='utf8') as infile:
+	with open(script_file, 'r', encoding='utf8') as infile:
 		for line in infile:
 			print(label_line(line))
 

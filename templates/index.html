@@ -43,6 +43,7 @@
         </div>
 
         {% if file_exist_srt and file_exist_script %}
+            <!-- Form for user to choose between CSV and JSON -->
             <form method='post' action="{{ url_for( 'process') }}">
                 <input type="radio" id="csv_file" name="file_option" value="csv">
                 <label for="csv_file">CSV</label><br>
@@ -54,6 +55,7 @@
 
         {% if file_exist_out %}
             <a class="download-button" href="/downloads" target="blank"><button type="button">Download</button></a>
+            <p> Script-Srt Match Percentage: {{ script_match }}%</p>
         {% endif %}
 
         <!-- This piece of code reads if an error message has been encountered,
