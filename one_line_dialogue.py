@@ -1,5 +1,7 @@
+#!/usr/bin/python3
 # program puts all Dialogues on the same line 
 import re
+import sys
 
 
 def one_line_dialogue(text_file):
@@ -56,5 +58,9 @@ def one_line_dialogue(text_file):
 	# Return the string aligned_dialogue_file
 	return aligned_dialogue_file
 
-print(one_line_dialogue('labeled_script.txt'))
+def main():
+	print(one_line_dialogue('labeled_script.txt'))
+
+if __name__ == "__main__":
+	main()
 

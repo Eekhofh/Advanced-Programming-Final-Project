@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import sys
 import json
 import ast
@@ -52,11 +53,11 @@ def clean_script(text_script):
 
 def main():
 
-	filescript = sys.argv[1]
+	filescript = 'dialogue_aligned.txt'
 	text_script = load_file(filescript)
 	text_script = clean_script(text_script)
 
-	file_srt = sys.argv[2]
+	file_srt = 'mi.srt'
 	srt_file = load_file(file_srt)
 	cleaned_srt = clean_srt(srt_file)
 
