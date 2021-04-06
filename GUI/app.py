@@ -78,11 +78,13 @@ def upload_script():
         return redirect('/')
 
 
-@app.route('/process')
+@app.route('/process', methods=['POST'])
 def process():
     # When the user presses the Process button, the file path will be get and given to the process script.
     # This script will combine the two files and return one file.
 
+    file_option = request.form['file_option']
+    print(file_option)
     upload_folder = os.path.join(APP_ROOT, 'uploads')
     srt_in = os.path.join(upload_folder, 'subs.srt')
     script_in = os.path.join(upload_folder, 'script.txt')
@@ -108,4 +110,4 @@ def download():
 
 
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=True)

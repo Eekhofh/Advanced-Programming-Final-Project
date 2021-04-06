@@ -43,7 +43,13 @@
         </div>
 
         {% if file_exist_srt and file_exist_script %}
-            <a class="process-button" href="/process" target="blank"><button type="button">PROCESS FILES</button></a>
+            <form method='post' action="{{ url_for( 'process') }}">
+                <input type="radio" id="csv_file" name="file_option" value="csv">
+                <label for="csv_file">CSV</label><br>
+                <input type="radio" id="json_file" name="file_option" value="json">
+                <label for="json_file">JSON</label><br>
+                <input type="submit" value="Process">
+            </form>
         {% endif %}
 
         {% if file_exist_out %}
