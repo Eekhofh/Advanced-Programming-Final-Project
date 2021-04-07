@@ -29,8 +29,8 @@ def clean_srt(srt_file):
 				srt_dict[line_dict] = empty_list
 
 			# saves the line number
-
-			srt_dict[line_dict] = ""
+                        line_dict = item
+		        srt_dict[line_dict] = ""
 			empty_list = []
 
 		else:
