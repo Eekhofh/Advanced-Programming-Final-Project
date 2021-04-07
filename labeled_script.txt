@@ -63,14 +63,14 @@
 {'S': 'INT. KIEV APARTMENT - NIGHT'}
 
 
-{'N': "We're in a large closet.JACK KIEFER, an athletic American"}
+{'N': "We're in a large closet.  JACK KIEFER, an athletic American"}
 {'N': 'in his late thirties wearing a headset, is wedged into a'}
 {'N': 'corner, staring at a television screen.'}
 
 
 {'N': 'The television shows a surveillance view of the living room'}
-{'N': 'that lies outside the confines of the closet.The TV image'}
-{'N': 'is in black and white.JACK shifts, trying like hell to get'}
+{'N': 'that lies outside the confines of the closet.  The TV image'}
+{'N': 'is in black and white.  JACK shifts, trying like hell to get'}
 {'N': "comfortable but he's been there a while"}
 
 
@@ -78,21 +78,21 @@
 
 
 {'N': 'A bare bulb shines down on the contents of a shabby hotel'}
-{'N': 'room.Directly under the blub a man, GENNADY KASIMOV, sits'}
+{'N': 'room.  Directly under the blub a man, GENNADY KASIMOV, sits'}
 {'N': 'in a straight backed wooden chair in his blood-stained T-'}
-{'N': 'shirt.There are a couple of THUGS and a stray HOOKER in the'}
-{'N': 'room behind him.A legend:'}
+{'N': 'shirt.  There are a couple of THUGS and a stray HOOKER in the'}
+{'N': 'room behind him.  A legend:'}
 
 
 {'C': 'KIEV'}
 
 
-{'N': 'KASIMOV is sobbing.Uncontrollably.A MAN enters the room,'}
+{'N': 'KASIMOV is sobbing.  Uncontrollably.  A MAN enters the room,'}
 {'N': 'ANATOLY, an imperious Russian in his forties, a Russian'}
-{'N': 'godfather.The THUGS and HOOKERS are ushered out.ANATOLY'}
+{'N': 'godfather.  The THUGS and HOOKERS are ushered out.  ANATOLY'}
 {'N': 'looks down at KASIMOV pitiously and urges him to go and sit'}
-{'N': 'by him in a chair he picks up for him.KASIMOV does as he is'}
-{'N': 'bid, looking gratefully up at ANATOLY.They speak in Russian'}
+{'N': 'by him in a chair he picks up for him.  KASIMOV does as he is'}
+{'N': 'bid, looking gratefully up at ANATOLY.  They speak in Russian'}
 {'N': 'which is subtitled.'}
 
 
@@ -105,7 +105,7 @@ D 	us.
 
 {'C': 'KASIMOV'}
 {'N': '(sobbing)'}
-D 	I don't remember what happened!We were
+D 	I don't remember what happened!  We were
 
 D 	at the bar, drinking, laughing -- having
 
@@ -114,15 +114,15 @@ D 	fun.
 
 
 {'N': 'ANATOLY gets up out of the chair and goes to a bed across the'}
-{'N': "room.A WOMAN lies half under the sheets.She's lying in an"}
+{'N': "room.  A WOMAN lies half under the sheets.  She's lying in an"}
 {'N': 'unnatural position on the bed, and the sheets are smeared'}
-{'N': "with blood.She's dead.ANATOLY lifts her eyelid."}
+{'N': "with blood.  She's dead.  ANATOLY lifts her eyelid."}
 
 
 {'C': 'KASIMOV'}
 D 	I don't even know how I got here.
 
-D 	I swear, Anatoly, I never touched her!I
+D 	I swear, Anatoly, I never touched her!  I
 
 D 	didn't lay a finger on her.
 
@@ -132,7 +132,7 @@ D 	didn't lay a finger on her.
 
 
 {'C': 'ANATOLY'}
-D 	Kasimov.Don't flounder.
+D 	Kasimov.  Don't flounder.
 
 
 
@@ -143,7 +143,7 @@ D 	Kasimov.Don't flounder.
 
 
 {'C': 'JACK '}
-D 	Jesus, she's been under too long.Come 
+D 	Jesus, she's been under too long.  Come 
 
 D 	on, come on! 
 
@@ -157,7 +157,7 @@ D 	You're the only one who can help me.
 
 
 
-{'N': "Desperately he tugs at ANATOLY'S jacket.But ANATOLY hits "}
+{'N': "Desperately he tugs at ANATOLY'S jacket.  But ANATOLY hits "}
 {'N': 'his hand away and smacks him around the head. '}
 
 
@@ -187,7 +187,7 @@ D 	They'll kill me.
 
 
 {'C': 'ANATOLY '}
-D 	You asked for my help.You asked for my
+D 	You asked for my help.  You asked for my
 
 D 	help...come on... 
 
@@ -270,7 +270,7 @@ D 	Got him.
 
 {'N': 'JACK turns and nods to a WHOREHOUSE WAITRESS in costume in '}
 {'N': 'the closet next to him, dressed in traditional Russian tunic '}
-{'N': 'and virtually no bottom.She quickly leaves. '}
+{'N': 'and virtually no bottom.  She quickly leaves. '}
 
 
 {'S': 'INT. SHABBY ROOM - NIGHT'}
@@ -304,7 +304,7 @@ D 	Cheers.
 
 
 
-{'N': 'He drinks.He blinks.Something felt funny about that. '}
+{'N': 'He drinks.  He blinks.  Something felt funny about that. '}
 {'N': 'Dizzied, KASIMOV swoons and passes out on the floor. ANATOLY '}
 {'N': 'moves to the closet door and opens it. '}
 
@@ -315,9 +315,9 @@ D 	Cheers.
 {'N': 'ANATOLY reaches up to his face --'}
 
 
-{'N': "--and tears away a mask of flesh.He's no middle aged "}
+{'N': "--and tears away a mask of flesh.  He's no middle aged "}
 {'N': "Russian mobster, he's ETHAN HUNT, an American in his early "}
-{'N': 'thirties.He gestures to KASIMOV contemptuously.JACK hands '}
+{'N': 'thirties.  He gestures to KASIMOV contemptuously.  JACK hands '}
 {'N': 'ETHAN a hypodermic kit and he goes quickly back into the '}
 {'N': 'room. '}
 
@@ -328,15 +328,15 @@ D 	Get rid of this scum.
 
 
 
-{'N': 'Immediately, there is activity, and PEOPLE everywhere.TWO '}
+{'N': 'Immediately, there is activity, and PEOPLE everywhere.  TWO '}
 {'N': 'OTHERS come into the room and carry KASIMOV out. '}
 
 
 {'N': 'ETHAN goes quickly to the body of the dead woman. He cheeks '}
 {'N': 'the pulse in her neck, shines a penlight in her eye. He '}
 {'N': 'strips the adrenalin kit and jabs the long needle into the '}
-{'N': "dead woman's thigh.He checks her pulse again, checking a "}
-{'N': "stopwatch.In about ten seconds, the woman's eyes open. "}
+{'N': "dead woman's thigh.  He checks her pulse again, checking a "}
+{'N': "stopwatch.  In about ten seconds, the woman's eyes open. "}
 
 
 {'N': 'CLAIRE is her name, a French woman of thirty or so. She half '}
@@ -350,17 +350,17 @@ D 	Did we get it?
 
 
 {'C': 'ETHAN '}
-D 	We got it.On your feet. 
+D 	We got it.  On your feet. 
 
 
 
 {'C': 'CLAIRE '}
-D 	I want to sleep.Can I sleep here. 
+D 	I want to sleep.  Can I sleep here. 
 
 
 
 {'C': 'ETHAN '}
-D 	Walk, just walk.Start walking. 
+D 	Walk, just walk.  Start walking. 
 
 
 
@@ -379,20 +379,20 @@ D 	Sleeping's better.
 
 
 
-{'N': 'Meanwhile, MEN in overalls take apart the room.The ceiling '}
+{'N': 'Meanwhile, MEN in overalls take apart the room.  The ceiling '}
 {'N': 'lifts right off the walls, and the walls themselves start to '}
 {'N': 'come down, revealing the "hotel room" to be an elaborate set '}
 {'N': 'in the middle of an empty warehouse. '}
 
 
-{'N': 'JACK comes into the room from the closet.He hands CLAIRE '}
-{'N': 'her jewelry, including a watch and a wedding ring.ETHAN '}
-{'N': "stops what he's doing, noticing.She looks up at him "}
+{'N': 'JACK comes into the room from the closet.  He hands CLAIRE '}
+{'N': 'her jewelry, including a watch and a wedding ring.  ETHAN '}
+{'N': "stops what he's doing, noticing.  She looks up at him "}
 {'N': 'questioningly. '}
 
 
 {'C': 'CLAIRE '}
-D 	Are you all right Ethan.What's wrong
+D 	Are you all right Ethan.  What's wrong
 
 D 	with you? 
 
@@ -410,9 +410,9 @@ D 	Oh yeah?
 
 
 
-{'N': 'JACK comes into the room from the closet.He hands CLAIRE '}
-{'N': 'her jewelry, including a watch and a wedding ring.ETHAN '}
-{'N': "stops what he's doing, noticing.She looks up at him, "}
+{'N': 'JACK comes into the room from the closet.  He hands CLAIRE '}
+{'N': 'her jewelry, including a watch and a wedding ring.  ETHAN '}
+{'N': "stops what he's doing, noticing.  She looks up at him, "}
 {'N': 'questioningly. '}
 
 
@@ -427,7 +427,7 @@ D 	Jack.
 
 
 {'N': 'She almost unconsciously slips the wedding ring onto her '}
-{'N': 'finger.ETHAN notices.He turns and SHOUTS to the room at '}
+{'N': 'finger.  ETHAN notices.  He turns and SHOUTS to the room at '}
 {'N': 'large. '}
 
 
@@ -443,7 +443,7 @@ D 	Just waiting for you, tubs.
 
 
 
-{'N': 'He walks across the room and out the door.CLAIRE, worried, '}
+{'N': 'He walks across the room and out the door.  CLAIRE, worried, '}
 {'N': 'clutches her hands together, glancing down at her wedding '}
 {'N': 'ring. '}
 
@@ -459,7 +459,7 @@ D 	Just waiting for you, tubs.
 
 {'N': "-- and come out on another wedding ring, this one on a MAN's "}
 {'N': "finger. One of several he's drumming on an arm rest in the "}
-{'N': 'plush first class cabin of a commercial airliner.He shoves '}
+{'N': 'plush first class cabin of a commercial airliner.  He shoves '}
 {'N': 'some money into his wallet, and as he does so we catch a '}
 {'N': 'fleeting glimpse of a photograph of CLAIRE. '}
 
@@ -487,7 +487,7 @@ D 	Would you like to watch a movie Mr Rosen?
 
 
 
-{'N': 'A passenger takes one.The ATTENDANT continues on. '}
+{'N': 'A passenger takes one.  The ATTENDANT continues on. '}
 
 
 {'C': 'FLIGHT ATTENDANT '}
@@ -498,14 +498,14 @@ D 	Phelps?
 
 
 
-{'N': 'The MAN with the wedding ring looks up.JIM PHELPS is in his '}
-{'N': "mid-forties, good-looking, intense.He's a tired man, and "}
-{'N': "not just now, it's a profound fatigue.He looks up at the "}
+{'N': 'The MAN with the wedding ring looks up.  JIM PHELPS is in his '}
+{'N': "mid-forties, good-looking, intense.  He's a tired man, and "}
+{'N': "not just now, it's a profound fatigue.  He looks up at the "}
 {'N': 'ATTENDANT and smiles warmly. '}
 
 
 {'C': 'PHELPS '}
-D 	No, I prefer the theatre.
+D 	No, I prefer the theatre.  
 
 
 
@@ -525,7 +525,7 @@ D 	Perhaps you'd choose one for me.
 
 
 
-{'N': 'The ATTENDANT turns and walks away.PHELPS sits back, shakes '}
+{'N': 'The ATTENDANT turns and walks away.  PHELPS sits back, shakes '}
 {'N': 'a cigarette out of a pack, and taps it nervously on the '}
 {'N': 'armrest. '}
 
@@ -534,7 +534,7 @@ D 	Perhaps you'd choose one for me.
 
 
 {'N': 'The FLIGHT ATTENDANT opens a case loaded with video 8 '}
-{'N': 'cassettes of feature films.She opens a panel in the top of '}
+{'N': 'cassettes of feature films.  She opens a panel in the top of '}
 {'N': 'the case and withdraws a tape hidden back there. '}
 
 
@@ -558,23 +558,23 @@ D 	Perhaps you'd choose one for me.
 {'N': 'ON THE TAPE, '}
 
 
-{'N': 'the image of a man comes on.EUGENE KITTRIDGE is fortyish, '}
+{'N': 'the image of a man comes on.  EUGENE KITTRIDGE is fortyish, '}
 {'N': 'but seems permanently stuck in the Nixon era -- horn rimmed '}
 {'N': 'glasses, short short haircut, rather be caught dead than '}
-{'N': 'tieless.But if he catches your eye, he will never, ever '}
-{'N': "look away.He's seated at a desk, looking into the camera. "}
+{'N': 'tieless.  But if he catches your eye, he will never, ever '}
+{'N': "look away.  He's seated at a desk, looking into the camera. "}
 
 
 {'C': 'KITTRIDGE '}
 {'N': '(on the tape) '}
-D 	Good morning, Mr. Phelps.The man you're 
+D 	Good morning, Mr. Phelps.  The man you're 
 
 D 	about to see is Aleksander Golitsyn -- 
 
 
 
 {'N': 'The screen winks and shows an image of GOLITSYN, a burly man '}
-{'N': 'in his forties.The image is herky-jerky videotape, '}
+{'N': 'in his forties.  The image is herky-jerky videotape, '}
 {'N': 'presumably taken from a concealed camera as GOLITSYN walks '}
 {'N': 'down a foreign street. '}
 
@@ -584,7 +584,7 @@ D 	-- a former KGB Line X officer now
 
 D 	working the international black market 
 
-D 	selling intelligence.This morning, we 
+D 	selling intelligence.  This morning, we 
 
 D 	learned that Golitsyn has stolen one half 
 
@@ -610,7 +610,7 @@ D 	Golitsyn already has the cryptonym
 
 D 	portion, which contains agent code names 
 
-D 	and targeting areas.This portion is 
+D 	and targeting areas.  This portion is 
 
 D 	useless unless combined with the second 
 
@@ -630,7 +630,7 @@ D 	We believe Golitsyn plans to steal the
 
 D 	true name list at an Embassy function 
 
-D 	tomorrow night.Your mission, should you 
+D 	tomorrow night.  Your mission, should you 
 
 D 	decide to accept it, is to obtain 
 
@@ -638,11 +638,11 @@ D 	photographic proof of the theft, apprehend
 
 D 	those involved, and return the stolen 
 
-D 	list.I don't have to stress the 
+D 	list.  I don't have to stress the 
 
-D 	importance of this matter, Jim.We're 
+D 	importance of this matter, Jim.  We're 
 
-D 	keeping it internally black. Because of
+D 	keeping it internally black. Because of  
 
 D 	its urgency, I've already sent to Prague 
 
@@ -657,7 +657,7 @@ D 	a team selected from your usual group.
 {'C': 'KITTRIDGE (O.S.) '}
 D 	Ethan Hunt will of course be your point 
 
-D 	man, as usual.He's in Kiev; we're 
+D 	man, as usual.  He's in Kiev; we're 
 
 D 	getting word to him now. 
 
@@ -667,7 +667,7 @@ D 	getting word to him now.
 
 
 {'N': 'PHELPS sits back in his seat, closes his eyes, and rubs his '}
-{'N': 'tired brow.KITTRIDGE himself comes back on the tape. '}
+{'N': 'tired brow.  KITTRIDGE himself comes back on the tape. '}
 
 
 {'C': 'KITTRIDGE (O.S.) '}
@@ -677,9 +677,9 @@ D 	your IM force be caught or killed, the
 
 D 	Secretary will disavow all knowledge of 
 
-D 	your actions.This tape will self- 
+D 	your actions.  This tape will self- 
 
-D 	destruct in five seconds.Good luck, 
+D 	destruct in five seconds.  Good luck, 
 
 D 	Jim! 
 
@@ -719,8 +719,8 @@ D 	Jim!
 {'N': 'The IMF team is scattered around the room. Sketches, pads, '}
 {'N': 'overfilled ashtrays and equipment are strewn everywhere. '}
 {'N': 'JACK and SARAH seated next to each other - JACK demonstrating '}
-{'N': 'the VISCO glasses to her.CLAIRE is seated opposite JACK at '}
-{'N': 'the computer.JIM and ETHAN are in the kitchen.HANNAH '}
+{'N': 'the VISCO glasses to her.  CLAIRE is seated opposite JACK at '}
+{'N': 'the computer.  JIM and ETHAN are in the kitchen.  HANNAH '}
 {'N': 'taking a roll of black-out curtain through the room. '}
 
 
@@ -729,9 +729,9 @@ D 	Look to your right, then back to me.
 
 D 	There's a camera built right into the 
 
-D 	bridge.Whatever you see it sees and 
+D 	bridge.  Whatever you see it sees and 
 
-D 	transmits it back here.Can you hear me?
+D 	transmits it back here.  Can you hear me?
 
 
 
@@ -807,7 +807,7 @@ D 	than ninety days leave coming.
 {'C': 'PHELPS '}
 D 	A hundred and sixty-seven, I think it is. 
 
-D 	Take it all, if you want.After this one. 
+D 	Take it all, if you want.  After this one. 
 
 
 
@@ -827,14 +827,14 @@ D 	Claire's in a weird mood too.
 
 
 {'C': 'ETHAN '}
-D 	Oh?What's the problem? 
+D 	Oh?  What's the problem? 
 
 
 
 {'C': 'PHELPS '}
 D 	I don't know, I had to go to Chicago 
 
-D 	again.You were in Kiev.You tell me. 
+D 	again.  You were in Kiev.  You tell me. 
 
 
 
@@ -846,7 +846,7 @@ D 	Tell you what?
 {'C': 'PHELPS '}
 D 	When you started noticing your short term 
 
-D 	memory loss.What the problem was you 
+D 	memory loss.  What the problem was you 
 
 D 	and Claire had in Kiev? 
 
@@ -859,7 +859,7 @@ D 	What problem?
 
 {'C': 'PHELPS'}
 {'N': '(laughs)'}
-D 	Ah, God, forget it.What are we talking
+D 	Ah, God, forget it.  What are we talking
 
 D 	burnout here?
 
@@ -897,25 +897,25 @@ D 	How was Chicago?
 
 
 {'C': 'PHELPS '}
-D 	Wonderful.Ran into a convention of auto 
+D 	Wonderful.  Ran into a convention of auto 
 
-D 	dealers at the Drake Hotel.You hear the 
+D 	dealers at the Drake Hotel.  You hear the 
 
 D 	one about the astronaut who comes back 
 
 D 	from the first manned flight to Mars 
 
-D 	after two years?His wife's got a year 
+D 	after two years?  His wife's got a year 
 
-D 	old kid.So he says "All right.Who was 
+D 	old kid.  So he says "All right.  Who was 
 
-D 	it?My friend Harry?"She says no. "Oh,
+D 	it?  My friend Harry?"  She says no. "Oh,
 
-D 	it was my friend Sammy."She says it 
+D 	it was my friend Sammy."  She says it 
 
-D 	wasn't Sammy."Oh, I suppose it was my 
+D 	wasn't Sammy.  "Oh, I suppose it was my 
 
-D 	friend Lou.""No, what's the matter, 
+D 	friend Lou."  "No, what's the matter, 
 
 D 	don't you think I have any friends of my 
 
@@ -923,7 +923,7 @@ D 	own?!"
 
 
 
-{'N': "PHELPS laughs.ETHAN doesn't.The back of CLAIRE'S head is "}
+{'N': "PHELPS laughs.  ETHAN doesn't.  The back of CLAIRE'S head is "}
 {'N': 'in his line of sight. '}
 
 
@@ -952,13 +952,13 @@ D 	take a look.
 {'C': "PHELPS (CONT'D) "}
 D 	Beyond Charles Bridge there is our 
 
-D 	Embassy.See it?Tomorrow night, if 
+D 	Embassy.  See it?  Tomorrow night, if 
 
 D 	anything goes wrong, this guy will steal 
 
 D 	the names of our agents in every country 
 
-D 	all over Eastern Europe.Up for grabs to 
+D 	all over Eastern Europe.  Up for grabs to 
 
 D 	the highest bidders -- third world 
 
@@ -968,16 +968,16 @@ D 	any and everybody who'd love to get rid
 
 D 	of long term coverts like us, and some 
 
-D 	very dear friends among them.If they're 
+D 	very dear friends among them.  If they're 
 
-D 	exposed, they'll be executed.Come over 
+D 	exposed, they'll be executed.  Come over 
 
-D 	here.Take a lock at this. 
+D 	here.  Take a lock at this. 
 
 
 
 {'N': 'CLAIRE, who is working at a computer, has pulled up a '}
-{'N': 'quicktime video image in a box on her screen.In it, an old '}
+{'N': 'quicktime video image in a box on her screen.  In it, an old '}
 {'N': 'edition of the McLaughlin Report, the PBS news show, is '}
 {'N': 'playing. '}
 
@@ -993,23 +993,23 @@ D 	here.Take a lock at this.
 
 
 {'C': 'SENATOR WALTZER '}
-D 	I'll go you one further.I say the CIA 
+D 	I'll go you one further.  I say the CIA 
 
 D 	and all its shadow organizations have 
 
 D 	become irrelevant at best and 
 
-D 	unconstitutional at worst.It's time we 
+D 	unconstitutional at worst.  It's time we 
 
 D 	throw a little light on the whole concept 
 
-D 	of the Pentagon's "black budget."These 
+D 	of the Pentagon's "black budget."  These 
 
 D 	covert agency subgroups have confidential 
 
 D 	funding, they report to no one -- who are
 
-D 	these people?!We were living in a 
+D 	these people?!  We were living in a 
 
 D 	democracy the last time I checked. 
 
@@ -1051,14 +1051,14 @@ D 	He won't be back in a hurry?
 
 
 {'C': 'PHELPS '}
-D 	No, not in a hurry.What do you think? 
+D 	No, not in a hurry.  What do you think? 
 
 D 	You think the plot'll work? 
 
 
 
 {'C': 'ETHAN '}
-D 	Sure.If the main character does. 
+D 	Sure.  If the main character does. 
 
 
 
@@ -1073,7 +1073,7 @@ D 	trust to make him believable?
 
 
 {'C': 'JACK '}
-D 	Sorry, am I interrupting?
+D 	Sorry, am I interrupting?  
 
 
 
@@ -1096,9 +1096,9 @@ D 	lock you can't pick --
 
 
 {'C': "JACK (CONT'D) "}
-D 	Red light.Green light.Mash them 
+D 	Red light.  Green light.  Mash them 
 
-D 	together, asta lasagna.Don't get any on 
+D 	together, asta lasagna.  Don't get any on 
 
 D 	you -- you have five seconds. 
 
@@ -1138,7 +1138,7 @@ D 	Thank you.
 {'S': 'EXT. AMERICAN EMBASSY - NIGHT'}
 
 
-{'N': 'The American Embassy glitters beside the Vltava River.Party '}
+{'N': 'The American Embassy glitters beside the Vltava River.  Party '}
 {'N': 'at the Embassy tonight. '}
 
 
@@ -1147,7 +1147,7 @@ D 	Thank you.
 
 {'N': 'JACK, wearing black coveralls and slightly odd-looking '}
 {'N': "eyeglasses (they're called Visco glasses), enters an elevator "}
-{'N': 'shaft through a small door at the base of the wall.He looks '}
+{'N': 'shaft through a small door at the base of the wall.  He looks '}
 {'N': "up the shaft, shining a flashlight until he finds what he's "}
 {'N': 'looking for -- '}
 
@@ -1169,7 +1169,7 @@ D 	Thank you.
 
 
 {'C': 'PHELPS '}
-D 	Ethan.Jack's inside.Window's open by 
+D 	Ethan.  Jack's inside.  Window's open by 
 
 D 	twenty-three hundred. 
 
@@ -1183,14 +1183,14 @@ D 	twenty-three hundred.
 
 
 {'N': 'SENATOR WALTZER, the man who was on TV, walks up a grand '}
-{'N': 'staircase, headed in.An AMERICAN DIPLOMAT in a tuxedo '}
+{'N': 'staircase, headed in.  An AMERICAN DIPLOMAT in a tuxedo '}
 {'N': 'hurries up to him. '}
 
 
 {'C': 'DIPLOMAT '}
 D 	How do you do, Senator, I'm Rand Housman, 
 
-D 	the Ambassador's aide.If I could just 
+D 	the Ambassador's aide.  If I could just 
 
 D 	steer you through the reception line here
 
@@ -1222,7 +1222,7 @@ D 	I bet you don't remember me, do you, Senator?
 
 
 {'C': 'SENATOR WALTZER '}
-D 	Of course I do.How are you, Miss 
+D 	Of course I do.  How are you, Miss 
 
 D 	Norman? 
 
@@ -1233,7 +1233,7 @@ D 	Norman?
 
 
 {'C': 'SARAH '}
-D 	He's in pocket.Under the archway behind me. 
+D 	He's in pocket.  Under the archway behind me. 
 
 
 
@@ -1256,7 +1256,7 @@ D 	He's in pocket.Under the archway behind me.
 
 
 {'N': "PHELPS sees the SENATOR's point of view of GOLITSYN, through "}
-{'N': "the glasses, broadcast back to PHELPS' monitor.He speaks "}
+{'N': "the glasses, broadcast back to PHELPS' monitor.  He speaks "}
 {'N': 'into his microphone. '}
 
 
@@ -1281,10 +1281,10 @@ D 	and set that up for you --
 
 
 {'C': 'SENATOR WALTZER '}
-D 	Terrific.Let's get going. 
+D 	Terrific.  Let's get going. 
 
 {'N': '(to the Diplomat) '}
-D 	Will you excuse us?
+D 	Will you excuse us?  
 
 
 
@@ -1298,12 +1298,12 @@ D 	Uh, sir?
 
 
 
-{'S': 'INT. ELEVATOR SHAFT - NIGHT'}
+{'S': 'INT. ELEVATOR SHAFT - NIGHT                               '}
 
 
 {'N': 'JACK climbs up the elevator shaft, towards the gray metal '}
-{'N': 'box.He just begins to remove the cover when he hears a '}
-{'N': 'noise from above.He looks up and sees the elevator above '}
+{'N': 'box.  He just begins to remove the cover when he hears a '}
+{'N': 'noise from above.  He looks up and sees the elevator above '}
 {'N': 'him descending. '}
 
 
@@ -1313,7 +1313,7 @@ D 	Uh, sir?
 
 
 {'C': 'JACK '}
-D 	Great.Come on. 
+D 	Great.  Come on. 
 
 
 
@@ -1321,22 +1321,22 @@ D 	Great.Come on.
 
 
 {'N': 'As the SENATOR and SARAH pass behind the entering GOLITSYN, '}
-{'N': 'SARAH pulls a small bottle of perfume from her purse.But as '}
+{'N': 'SARAH pulls a small bottle of perfume from her purse.  But as '}
 {'N': 'she sprays, she points it slightly to the left, missing '}
-{'N': "herself and hitting the back of GOLITSYN'S head.He never "}
-{'N': 'notices.They move on and down the flight of stairs. '}
+{'N': "herself and hitting the back of GOLITSYN'S head.  He never "}
+{'N': 'notices.  They move on and down the flight of stairs. '}
 
 
-{'S': 'INT. SAFE HOUSE - NIGHT'}
+{'S': 'INT. SAFE HOUSE - NIGHT     '}
 
 
-{'N': 'JIM PHELPS monitors the Visco views of the party.He looks '}
+{'N': 'JIM PHELPS monitors the Visco views of the party.  He looks '}
 {'N': 'to the fourth monitor and checks a view of the party, a jumpy '}
 {'N': 'one, as someone hurrying up stairs. '}
 
 
 {'C': 'PHELPS '}
-D 	Hannah.He's marked.Lets go. 
+D 	Hannah.  He's marked.  Lets go. 
 
 
 
@@ -1353,7 +1353,7 @@ D 	En route.
 
 
 {'N': 'She also has a pair of Visco glasses, which she trains on the '}
-{'N': 'party below.She pushes a micro switch on the side of her '}
+{'N': 'party below.  She pushes a micro switch on the side of her '}
 {'N': 'glasses, activating an electronic filter, which tints the '}
 {'N': 'lenses. '}
 
@@ -1369,7 +1369,7 @@ D 	night vision).
 
 
 {'N': 'the party looks the same, but one head in the crowd stands '}
-{'N': "out.That head is GOLITSYN'S, his hair a fluorescent green "}
+{'N': "out.  That head is GOLITSYN'S, his hair a fluorescent green "}
 {'N': 'where SARAH sprayed it. '}
 
 
@@ -1378,20 +1378,20 @@ D 	night vision).
 
 {'N': "The SENATOR (let's just call him ETHAN) and SARAH come down "}
 {'N': 'the stairs and pass a sign that says "Denied Area -- '}
-{'N': 'Political Attaches Only."ETHAN checks his watch.23:00. '}
+{'N': 'Political Attaches Only."  ETHAN checks his watch.  23:00. '}
 
 
 {'N': 'He nods to SARAH, they round a corner, and come to an '}
-{'N': 'elevator at the end of the corridor.A sign in front of it '}
-{'N': 'says "Out of Order."They head for it anyway. '}
+{'N': 'elevator at the end of the corridor.  A sign in front of it '}
+{'N': 'says "Out of Order."  They head for it anyway. '}
 
 
 {'N': 'A MARINE GUARD appears from behind a side door, catching them '}
-{'N': 'by surprise.'}
+{'N': 'by surprise.  '}
 
 
 {'C': 'JACK '}
-D 	Governor's in position.We have the elevator. 
+D 	Governor's in position.  We have the elevator. 
 
 
 
@@ -1422,8 +1422,8 @@ D 	is strictly monitored at all times.
 
 
 {'N': 'She walks up to the thumbprint analyzer on the elevator bank '}
-{'N': 'and slides her thumb inside.The panel lights up and flashes '}
-{'N': 'a message -- "ACCESS DENIED."SARAH and ETHAN trade a look. '}
+{'N': 'and slides her thumb inside.  The panel lights up and flashes '}
+{'N': 'a message -- "ACCESS DENIED."  SARAH and ETHAN trade a look. '}
 
 
 {'C': "SARAH (CONT'D)"}
@@ -1438,11 +1438,11 @@ D 	your staff named JACK?
 
 
 {'C': 'ETHAN '}
-D 	Jack?I believe we did have a young man 
+D 	Jack?  I believe we did have a young man 
 
-D 	named Jack.Not a reliable man, as I 
+D 	named Jack.  Not a reliable man, as I 
 
-D 	recall.Constantly late or behind in his 
+D 	recall.  Constantly late or behind in his 
 
 D 	work. 
 
@@ -1465,9 +1465,9 @@ D 	Excuse me, let me see that ID again!
 
 
 {'C': 'PHELPS (O.S.) '}
-D 	Jack's pinned down Sarah.Should be a 
+D 	Jack's pinned down Sarah.  Should be a 
 
-D 	second.Keep dancing.
+D 	second.  Keep dancing.  
 
 
 
@@ -1477,7 +1477,7 @@ D 	We were forced to tie him to my best
 
 D 	stallion and drag him around the barn a 
 
-D 	few times.
+D 	few times.  
 
 
 
@@ -1492,7 +1492,7 @@ D 	it.
 
 
 {'N': 'He quickly opens the gray metal box, revealing a maze of '}
-{'N': 'circuitry.He patches in his computer, climbs on top of the '}
+{'N': 'circuitry.  He patches in his computer, climbs on top of the '}
 {'N': 'elevator, and hits the keyboard, beginning to download.'}
 
 
@@ -1500,21 +1500,21 @@ D 	it.
 
 
 {'N': "there's a split-screen of SARAH's thumbprint and the ID "}
-{'N': 'picture.JACK downloads her file into the security computer. '}
+{'N': 'picture.  JACK downloads her file into the security computer. '}
 
 
 {'S': 'INT. THE DENIED AREA/ELEVATOR BANK - NIGHT'}
 
 
 {'N': 'Ignoring the GUARD, SARAH turns and slides her thumb into the '}
-{'N': 'thumbprint analyzer once more.The panel glows, this time '}
+{'N': 'thumbprint analyzer once more.  The panel glows, this time '}
 {'N': 'the message flashes -- '}
 
 
 {'C': 'IDENTITY CONFIRMED '}
 
 
-{'N': '-- and the elevator doors slide open briskly.'}
+{'N': '-- and the elevator doors slide open briskly.  '}
 
 
 {'N': 'The GUARD, surprised, now catches sight of the SENATOR. '}
@@ -1525,14 +1525,14 @@ D 	Oh. Sorry, sir.
 
 
 
-{'N': 'He snaps a salute.ETHAN and SARAH get into the elevator and '}
+{'N': 'He snaps a salute.  ETHAN and SARAH get into the elevator and '}
 {'N': 'the doors close behind them. '}
 
 
 {'S': 'INT. ELEVATOR SHAFT - NIGHT'}
 
 
-{'N': 'JACK looks down at the elevator below.Through a grating, he '}
+{'N': 'JACK looks down at the elevator below.  Through a grating, he '}
 {'N': 'can see them inside. '}
 
 
@@ -1552,7 +1552,7 @@ D 	off.
 
 {'C': 'PHELPS '}
 {'N': '(a touch of impatience) '}
-D 	Hannah -- I'm blind again.Hannah. 
+D 	Hannah -- I'm blind again.  Hannah. 
 
 
 
@@ -1561,7 +1561,7 @@ D 	Hannah -- I'm blind again.Hannah.
 
 {'N': 'HANNAH, stationed on the second floor of the Embassy, moves '}
 {'N': "to get a better view of the party. She reacquires GOLITSYN's "}
-{'N': 'glowing head.'}
+{'N': 'glowing head.  '}
 
 
 {'C': 'HANNAH '}
@@ -1573,9 +1573,9 @@ D 	He's heading to the denied area.
 
 
 {'N': 'This work room is filled with combination lock filing '}
-{'N': 'cabinets and various computer terminals.ETHAN hands SARAH '}
+{'N': 'cabinets and various computer terminals.  ETHAN hands SARAH '}
 {'N': 'his Visco glasses and she crosses the room, placing them '}
-{'N': 'upside down on top of a filing cabinet.'}
+{'N': 'upside down on top of a filing cabinet.  '}
 
 
 {'N': 'ETHAN straps on a Visco wrist monitor and tunes it in, '}
@@ -1584,7 +1584,7 @@ D 	He's heading to the denied area.
 
 {'C': 'ETHAN '}
 {'N': '(to Sarah) '}
-D 	Higher.Higher.
+D 	Higher.  Higher.  
 
 
 
@@ -1594,7 +1594,7 @@ D 	Higher.
 
 
 {'C': 'ETHAN '}
-D 	Right, right.Good. 
+D 	Right, right.  Good. 
 
 
 
@@ -1605,19 +1605,19 @@ D 	Right, right.Good.
 
 
 {'N': 'the view of the main computer terminal is upside down, but '}
-{'N': 'clear.Anyone sitting there will be recorded. '}
+{'N': 'clear.  Anyone sitting there will be recorded. '}
 
 
 {'S': 'INT. SAFE HOUSE - NIGHT'}
 
 
 {'N': "On PHELPS' monitor, we see ETHAN, via his Visco glasses on "}
-{'N': 'the filing cabinet, standing next to the computer.PHELPS '}
-{'N': 'barks out a warning.'}
+{'N': 'the filing cabinet, standing next to the computer.  PHELPS '}
+{'N': 'barks out a warning.  '}
 
 
 {'C': 'PHELPS '}
-D 	Get moving, Ethan.He's rolling to you. 
+D 	Get moving, Ethan.  He's rolling to you. 
 
 
 
@@ -1643,7 +1643,7 @@ D 	Jack we're in position.
 
 
 {'C': 'ETHAN '}
-D 	Jack.Jack. 
+D 	Jack.  Jack. 
 
 
 
@@ -1655,7 +1655,7 @@ D 	I didn't touch it.
 {'N': 'The elevator stops, the doors open -- '}
 
 
-{'N': '-- and GOLITSYN gets on.GOLITSYN descends in the elevator '}
+{'N': '-- and GOLITSYN gets on.  GOLITSYN descends in the elevator '}
 {'N': 'with JACK on top and ETHAN and SARAH waiting down below! '}
 
 
@@ -1663,7 +1663,7 @@ D 	I didn't touch it.
 
 
 {'N': "PHELPS sees JACK's point of view of the elevator, with "}
-{'N': 'GOLITSYN inside.'}
+{'N': 'GOLITSYN inside.  '}
 
 
 {'C': 'PHELPS '}
@@ -1676,19 +1676,19 @@ D 	He's in the box, Ethan, he's in the box!
 
 
 {'N': 'ETHAN and SARAH are waiting in front of the elevator, the one '}
-{'N': 'GOLITSYN is about to step off of!ETHAN looks around, for a '}
+{'N': 'GOLITSYN is about to step off of!  ETHAN looks around, for a '}
 {'N': 'place to hide. '}
 
 
 {'C': 'ETHAN '}
-D 	OK.Taking Golitsyn's exit.Jack, open
+D 	OK.  Taking Golitsyn's exit.  Jack, open
 
 D 	the doors. 
 
 
 
 {'C': 'SARAH '}
-D 	What about my coat?I'll freeze. 
+D 	What about my coat?  I'll freeze. 
 
 
 
@@ -1704,7 +1704,7 @@ D 	I don't have it.
 
 
 {'C': 'PHELPS '}
-D 	Opening the doors.Go under. 
+D 	Opening the doors.  Go under. 
 
 
 
@@ -1715,15 +1715,15 @@ D 	Opening the doors.Go under.
 
 
 {'N': 'The elevator doors WHISK open, revealing the empty shaft '}
-{'N': 'beyond.ETHAN and SARAH jump into the shaft. '}
+{'N': 'beyond.  ETHAN and SARAH jump into the shaft. '}
 
 
 {'S': 'INT. ELEVATOR SHAFT - NIGHT'}
 
 
 {'N': 'ETHAN and SARAH jump down into the five foot empty space '}
-{'N': 'below the work room floor.Above them, the elevator '}
-{'N': 'continues its descent, with them hiding below.The elevator '}
+{'N': 'below the work room floor.  Above them, the elevator '}
+{'N': 'continues its descent, with them hiding below.  The elevator '}
 {'N': 'drops to just over their heads and stops. '}
 
 
@@ -1740,13 +1740,13 @@ D 	Opening the doors.Go under.
 
 
 {'N': 'Waiting below the elevator, ETHAN takes off his jacket, '}
-{'N': 'starting to reverse it.He checks his Visco wrist monitor as '}
-{'N': 'GOLITSYN perpetrates the theft.He smiles and speaks into a '}
-{'N': 'microphone.'}
+{'N': 'starting to reverse it.  He checks his Visco wrist monitor as '}
+{'N': 'GOLITSYN perpetrates the theft.  He smiles and speaks into a '}
+{'N': 'microphone.  '}
 
 
 {'C': 'ETHAN '}
-D 	He's got it.Saved your ass again Jack. 
+D 	He's got it.  Saved your ass again Jack. 
 
 
 
@@ -1766,7 +1766,7 @@ D 	And a lonely ass.
 
 
 {'C': 'ETHAN '}
-D 	Sarah's reconsidering.Claire, transport 
+D 	Sarah's reconsidering.  Claire, transport 
 
 D 	in five minutes. 
 
@@ -1788,7 +1788,7 @@ D 	Roger that.
 {'S': 'EXT. ELEVATOR SHAFT (ABOVE ELEVATOR) - NIGHT'}
 
 
-{'N': 'JACK rapidly disconnects his equipment.But as he pulls the '}
+{'N': 'JACK rapidly disconnects his equipment.  But as he pulls the '}
 {'N': "final electrical clip from the elevator's wiring, it flashes "}
 {'N': 'and SPARKS. '}
 
@@ -1802,14 +1802,14 @@ D 	Roger that.
 
 
 {'C': 'ETHAN'}
-D 	In position.Jack open the door, let the
+D 	In position.  Jack open the door, let the
 
 D 	package roll.
 
 
 
 {'C': 'JACK (O.S.)'}
-D 	Roger that.Opening doors now.
+D 	Roger that.  Opening doors now.
 
 
 
@@ -1848,8 +1848,8 @@ D 	Hey.
 
 
 
-{'N': '--and starts to rise.JACK looks down, into the elevator'}
-{'N': 'car, through the grate.ThereÃ\xads no one in it.'}
+{'N': '--and starts to rise.  JACK looks down, into the elevator'}
+{'N': 'car, through the grate.  ThereÃ\xads no one in it.'}
 
 
 {'S': 'INT. SAFE HOUSE - NIGHT'}
@@ -1868,7 +1868,7 @@ D 	Jack, what are you doing?!
 
 
 {'C': 'JACK'}
-D 	IÃ­m not doing anything!(I donÃ­t have it
+D 	IÃ­m not doing anything!  (I donÃ­t have it
 
 D 	either).
 
@@ -1891,7 +1891,7 @@ D 	control!
 {'S': 'INT. ELEVATOR SHAFT (ABOVE ELEVATOR) - NIGHT'}
 
 
-{'N': 'JACKÃ\xadS face pales.He looks up, above him, at the'}
+{'N': 'JACKÃ\xadS face pales.  He looks up, above him, at the'}
 {'N': 'approaching ceiling.'}
 
 
@@ -1918,11 +1918,11 @@ D 	Uh -- then I have a problem.
 
 
 {'N': 'Through the monitor, ETHAN sees JACKÃ\xadS P.O.V. of the roof of'}
-{'N': 'the building approaching.Fast.'}
+{'N': 'the building approaching.  Fast.'}
 
 
 {'C': 'ETHAN'}
-D 	Cut the power.Cut the power Jack.Do
+D 	Cut the power.  Cut the power Jack.  Do
 
 D 	you hear me.
 
@@ -1937,7 +1937,7 @@ D 	you hear me.
 
 
 {'N': 'He swears, his fingers fumble, he works faster and faster.'}
-{'N': 'He looks up.The roof of the building is nearly upon him.'}
+{'N': 'He looks up.  The roof of the building is nearly upon him.'}
 {'M': ''}
 {'C': 'ETHAN (O.S.)'}
 D 	Come on, Jack, come on.
@@ -1959,7 +1959,7 @@ D 	Come on, Jack, come on.
 
 
 {'C': 'ETHAN'}
-D 	Jack.Jack.
+D 	Jack.  Jack.
 
 
 
@@ -1973,7 +1973,7 @@ D 	Jack.Jack.
 
 
 {'C': 'PHELPS'}
-D 	Man down.Stay where you are.IÃ­m on my
+D 	Man down.  Stay where you are.  IÃ­m on my
 
 D 	way.
 
@@ -1986,7 +1986,7 @@ D 	way.
 
 
 {'N': 'GOLITSYN, who now has the disk, jabs again and again at the'}
-{'N': 'elevator button but it wonÃ\xadt even light up.He studies the'}
+{'N': 'elevator button but it wonÃ\xadt even light up.  He studies the'}
 {'N': 'elevator doors and jumps into the shaft, just as ETHAN and'}
 {'N': 'SARAH did moments before.'}
 
@@ -2010,8 +2010,8 @@ D 	En route.
 
 
 {'N': 'PHELPS dashes onto the Charles Bridge and heads across the'}
-{'N': 'river, toward the Embassy.He throws a look back, over his'}
-{'N': 'shoulder.ParanoiaÃ\xads setting in.'}
+{'N': 'river, toward the Embassy.  He throws a look back, over his'}
+{'N': 'shoulder.  ParanoiaÃ\xads setting in.'}
 
 
 {'S': 'EXT. EMBASSY (AS SEEN FROM CHARLES BRIDGE) - NIGHT'}
@@ -2023,7 +2023,7 @@ D 	En route.
 
 
 {'N': 'Pan past the embankment and onto the bridge where PHELPS is'}
-{'N': 'still racing to meet ETHAN.But he stops suddenly, as if'}
+{'N': 'still racing to meet ETHAN.  But he stops suddenly, as if'}
 {'N': 'hearing something and looks behind him, at the deepening'}
 {'N': 'gloom.'}
 
@@ -2040,7 +2040,7 @@ D 	The package is in the open.
 
 
 {'C': 'ETHAN'}
-D 	Jim.Jim.HeÃ­s in the open.
+D 	Jim.  Jim.  HeÃ­s in the open.
 
 
 
@@ -2055,16 +2055,16 @@ D 	Can you lose him?
 
 
 {'C': 'PHELPS (O.S.)'}
-D 	No.Abort.
+D 	No.  Abort.
 
 
 
-{'N': 'Over ETHANÃ\xads shoulder, SARAH sees GOLITSYN getting away.Fog'}
+{'N': 'Over ETHANÃ\xads shoulder, SARAH sees GOLITSYN getting away.  Fog'}
 {'N': 'starts to roll over the river towards the bridge.'}
 
 
 {'C': 'SARAH'}
-D 	Ethan.HeÃ­s out of pocket.
+D 	Ethan.  HeÃ­s out of pocket.                
 
 
 
@@ -2075,7 +2075,7 @@ D 	Jim we canÃ­t.
 
 
 {'C': 'PHELPS (O.S.)'}
-D 	Abort.ThatÃ­s an order.
+D 	Abort.  ThatÃ­s an order.
 
 
 
@@ -2103,7 +2103,7 @@ D 	No, damn it, no, I said ABORT!
 
 
 {'C': 'ETHAN'}
-D 	Sarah eye on the package.Jim, IÃ­m
+D 	Sarah eye on the package.  Jim, IÃ­m
 
 D 	coming to you.
 
@@ -2119,7 +2119,7 @@ D 	away.
 {'C': 'ETHAN'}
 D 	No, weÃ­re going to recover the disk,
 
-D 	understand?!Now move!
+D 	understand?!  Now move!
 
 
 
@@ -2152,23 +2152,23 @@ D 	About two hundred yards from the bridge.
 {'C': 'PHELPS (O.S.)'}
 D 	TheyÃ­re covering this frequency, Ethan.
 
-D 	Cut all radio communications.Repeat.
+D 	Cut all radio communications.  Repeat.
 
-D 	Cut all radio communications.
+D 	Cut all radio communications.  
 
 
 
-{'N': 'ETHAN continues to run toward the stairs to the bridge.Past'}
-{'N': 'CLAIRE who sits in the getaway car.He looks on his monitor'}
-{'N': 'and again sees PHELPSÃ\xad POV.Only ominous silence.Phelps is'}
-{'N': 'looking back over his shoulder.The bridge is deserted.'}
+{'N': 'ETHAN continues to run toward the stairs to the bridge.  Past'}
+{'N': 'CLAIRE who sits in the getaway car.  He looks on his monitor'}
+{'N': 'and again sees PHELPSÃ\xad POV.  Only ominous silence.  Phelps is'}
+{'N': 'looking back over his shoulder.  The bridge is deserted.'}
 
 
 {'S': 'EXT. EMBANKMENT - NIGHT'}
 
 
 {'N': 'SARAH follows GOLITSYN as he hurries toward the shore, where'}
-{'N': 'a cobblestone promenade runs along the river.He disappears'}
+{'N': 'a cobblestone promenade runs along the river.  He disappears'}
 {'N': 'into the fog at the edge of the river.'}
 
 
@@ -2182,7 +2182,7 @@ D 	Cut all radio communications.
 
 
 {'N': 'PHELPSÃ\xad point of view changes radically as his head swivels'}
-{'N': 'on the darkened bridge.He whirls again, looking over his'}
+{'N': 'on the darkened bridge.  He whirls again, looking over his'}
 {'N': 'shoulder and this time the barrel of a gun is visible,'}
 {'N': 'pointing at him and before PHELPS has a chance to react a'}
 {'N': 'GUNSHOT CRACKLES over the monitor.'}
@@ -2218,8 +2218,8 @@ D 	JIM!
 {'N': 'obscured in the gathering fog.'}
 
 
-{'N': 'He turns and looks to the embankment.He can faintly see'}
-{'N': 'GOLITSYN, hurrying along the promenade.ETHAN gives chase.'}
+{'N': 'He turns and looks to the embankment.  He can faintly see'}
+{'N': 'GOLITSYN, hurrying along the promenade.  ETHAN gives chase.'}
 
 
 {'S': 'EXT. PARKING AREA - NIGHT'}
@@ -2227,7 +2227,7 @@ D 	JIM!
 
 {'N': 'ETHAN runs towards the getaway car, reaching a vantage point'}
 {'N': 'on the top of the stairs, he can see CLAIREÃ\xadS outline,'}
-{'N': 'visible in the driverÃ\xads seat.But as he descends the stairs'}
+{'N': 'visible in the driverÃ\xads seat.  But as he descends the stairs'}
 {'N': '--'}
 
 
@@ -2254,11 +2254,11 @@ D 	CLAIRE!
 
 
 {'N': 'SARAH comes out of the fog near the riverbank and sees'}
-{'N': 'GOLITSYN again, slowing down.A MAN comes out of the fog an'}
+{'N': 'GOLITSYN again, slowing down.  A MAN comes out of the fog an'}
 {'N': 'seems to ask GOLITSYN for a light.'}
 
 
-{'N': 'SARAH draws closer.Behind her, the DRUNKEN COUPLE seems to'}
+{'N': 'SARAH draws closer.  Behind her, the DRUNKEN COUPLE seems to'}
 {'N': 'be hanging with her for some reason.'}
 
 
@@ -2271,31 +2271,31 @@ D 	CLAIRE!
 {'S': 'EXT. EMBANKMENT - NIGHT'}
 
 
-{'N': 'SARAH is almost to GOLITSYN.Suddenly, the MAN in front of'}
-{'N': 'GOLITSYN pulls him towards him.Sensing something wrong,'}
-{'N': 'SARAH quickens her pace.The MAN is now hunched over'}
+{'N': 'SARAH is almost to GOLITSYN.  Suddenly, the MAN in front of'}
+{'N': 'GOLITSYN pulls him towards him.  Sensing something wrong,'}
+{'N': 'SARAH quickens her pace.  The MAN is now hunched over'}
 {'N': 'GOLITSYN, facing away from SARAH, going through GOLITSYNÃ\xads'}
 {'N': 'pockets.'}
 
 
 {'N': 'The figure finds what itÃ\xads looking for -- the disk -- and'}
-{'N': 'takes it.SARAH comes closer --'}
+{'N': 'takes it.  SARAH comes closer --'}
 
 
-{'N': '-- and the figure whirls.It brings a knife up sharply,'}
+{'N': '-- and the figure whirls.  It brings a knife up sharply,'}
 {'N': 'plunges it into her chest and slinks away out of sight.'}
 
 
 {'N': 'ANGLE'}
 
 
-{'N': 'ETHAN races around the corner onto the embankment.He bursts'}
+{'N': 'ETHAN races around the corner onto the embankment.  He bursts'}
 {'N': 'out of the fog, just in time to see SARAH fall to her knees,'}
-{'N': 'over GOLITSYNÃ\xads body.ETHAN sees the knife in her chest and'}
+{'N': 'over GOLITSYNÃ\xads body.  ETHAN sees the knife in her chest and'}
 {'M': 'GASPS.'}
 
 
-{'N': 'He pulls the knife out of SARAH, who is close to death.He'}
+{'N': 'He pulls the knife out of SARAH, who is close to death.  He'}
 {'N': 'looks at it -- it is a black Teflon knife with a serrated'}
 {'N': 'edge.'}
 
@@ -2303,16 +2303,16 @@ D 	CLAIRE!
 {'N': 'BEHIND ETHAN'}
 
 
-{'N': 'The DRUNKEN COUPLE seem drunk no more.In fact, theyÃ\xadre'}
-{'N': 'watching ETHAN.Through the fog and night, they see him'}
+{'N': 'The DRUNKEN COUPLE seem drunk no more.  In fact, theyÃ\xadre'}
+{'N': 'watching ETHAN.  Through the fog and night, they see him'}
 {'N': 'leaning over SARAH, holding the knife in his hands.'}
 
 
 {'N': 'AT THE BODIES'}
 
 
-{'N': 'SARAH goes still.ETHAN lays her down, turns the other body'}
-{'N': 'over and sees that it is GOLITSYN.He quickly begins'}
+{'N': 'SARAH goes still.  ETHAN lays her down, turns the other body'}
+{'N': 'over and sees that it is GOLITSYN.  He quickly begins'}
 {'N': 'rummaging through his pockets.'}
 
 
@@ -2323,7 +2323,7 @@ D 	CLAIRE!
 
 
 {'N': 'A Prague police boat, SIREN wailing, arrives at the dock in'}
-{'N': 'front of the Embassy.The DRUNKEN MAN and WOMAN stop'}
+{'N': 'front of the Embassy.  The DRUNKEN MAN and WOMAN stop'}
 {'N': 'suddenly.'}
 
 
@@ -2335,15 +2335,15 @@ D 	CLAIRE!
 {'S': 'EXT. STREET -- PHONE BOOTH - NIGHT'}
 
 
-{'N': 'ETHAN unscrews the mouthpiece of a payphone receiver.HeÃ\xads'}
+{'N': 'ETHAN unscrews the mouthpiece of a payphone receiver.  HeÃ\xads'}
 {'N': 'holding a flat piece of metal with six prongs on it, a '}
-{'N': 'modernist cockroach.He CLICKS the cockroach into the guts'}
+{'N': 'modernist cockroach.  He CLICKS the cockroach into the guts'}
 {'N': 'of the phoneÃ\xads wiring, piercing it with its little prongs.'}
 
 
 {'N': 'He screws the mouthpiece back on, holds the phoneÃ\xads tongue'}
-{'N': 'down for a second, releases it and listens.He has a dial'}
-{'N': 'tone.Now he punches in a fourteen digit number he knows by'}
+{'N': 'down for a second, releases it and listens.  He has a dial'}
+{'N': 'tone.  Now he punches in a fourteen digit number he knows by'}
 {'N': 'heart.'}
 
 
@@ -2356,7 +2356,7 @@ D 	Satcom seven.
 
 
 {'C': 'ETHAN'}
-D 	Central Europe.Unsecured.
+D 	Central Europe.  Unsecured.
 
 
 
@@ -2389,7 +2389,7 @@ D 	Go secure.
 
 
 
-{'N': 'Pause.A funny series of CLICKS comes over the line.'}
+{'N': 'Pause.  A funny series of CLICKS comes over the line.      '}
 {'M': ''}
 {'C': 'KITTRIDGE (O.S.)'}
 D 	Go ahead.
@@ -2407,7 +2407,7 @@ D 	WhoÃ­s dead?
 
 
 {'C': 'ETHAN'}
-D 	My team.Claire, Jack, even Jim -
+D 	My team.  Claire, Jack, even Jim -
 
 D 	- Hannah, maybe, I -- donÃ­t know
 
@@ -2418,9 +2418,9 @@ D 	Are you damaged?
 
 
 {'C': 'ETHAN'}
-D 	They knew we were coming.GolitsynÃ­s
+D 	They knew we were coming.  GolitsynÃ­s
 
-D 	dead too.The disk is gone.
+D 	dead too.  The disk is gone.
 
 
 
@@ -2430,20 +2430,20 @@ D 	Are you intact?
 
 
 {'C': 'ETHAN'}
-D 	Do you read me?The list is in the open!
+D 	Do you read me?  The list is in the open!
 
 
 
 {'C': 'KITTRIDGE (O.S.)'}
 D 	Let's just bring you in safely, and then
 
-D 	we'll worry about that, okay?Were you
+D 	we'll worry about that, okay?  Were you
 
 D 	followed?
 
 
 
-{'N': 'ETHAN closes his eyes.KITTRIDGEÃ\xadS voice is strong and'}
+{'N': 'ETHAN closes his eyes.  KITTRIDGEÃ\xadS voice is strong and'}
 {'N': 'reassuring and he needs that right now.'}
 
 
@@ -2453,7 +2453,7 @@ D 	I donÃ­t think so.
 
 
 {'C': 'KITTRIDGE (O.S.)'}
-D 	DonÃ­t think, be sure.Are you clean?
+D 	DonÃ­t think, be sure.  Are you clean?
 
 
 
@@ -2463,7 +2463,7 @@ D 	Yes.
 
 
 {'C': 'KITTRIDGE (O.S.)'}
-D 	Location green.One hour.IÃ­ll be there
+D 	Location green.  One hour.  IÃ­ll be there
 
 D 	myself.
 
@@ -2475,7 +2475,7 @@ D 	YouÃ­re in Prague?
 
 
 {'C': 'KITTRIDGE (O.S.)'}
-D 	Heard a lot about you, Hunt.DonÃ­t
+D 	Heard a lot about you, Hunt.  DonÃ­t
 
 D 	disappoint me.
 
@@ -2491,16 +2491,16 @@ D 	One hour.
 
 
 
-{'N': 'He hangs up.ETHAN does the same.He stares at the phone'}
-{'N': 'for a moment, thinking.He checks his watch.'}
+{'N': 'He hangs up.  ETHAN does the same.  He stares at the phone'}
+{'N': 'for a moment, thinking.  He checks his watch.'}
 
 
 {'S': 'EXT. STREET - NIGHT'}
 
 
 {'N': 'ETHAN steps out of the phone booth and starts down the'}
-{'N': 'street.Every face seems to be starring at him now, every'}
-{'N': 'sound is menacing.He pulls his coat in tight, shoves his'}
+{'N': 'street.  Every face seems to be starring at him now, every'}
+{'N': 'sound is menacing.  He pulls his coat in tight, shoves his'}
 {'N': 'hands in his pockets and walks among the crowd.'}
 
 
@@ -2536,17 +2536,17 @@ D 	One hour.
 
 
 {'N': 'EUGENE KITTRIDGE is seated at a table in the middle. He and '}
-{'N': 'ETHAN make eye contact.ETHAN walks to the table, a couple '}
+{'N': 'ETHAN make eye contact.  ETHAN walks to the table, a couple '}
 {'N': 'of quick, seemingly cursory glances around the room as he '}
-{'N': 'goes.KITTRIDGE has been working on a pretty good-sized '}
-{'N': 'lobster.He rises to greet ETHAN and they sit. '}
+{'N': 'goes.  KITTRIDGE has been working on a pretty good-sized '}
+{'N': 'lobster.  He rises to greet ETHAN and they sit. '}
 {'M': ''}
 {'C': 'KITTRIDGE '}
-D 	I can't tell you how sorry I am.I know 
+D 	I can't tell you how sorry I am.  I know 
 
 D 	how much Jim in particular meant to you, 
 
-D 	Ethan.Personally as well as professionally. 
+D 	Ethan.  Personally as well as professionally. 
 
 
 
@@ -2558,7 +2558,7 @@ D 	Yeah.
 {'N': 'He spots a stack of documents on the table.'}
 
 
-{'N': "ETHAN picks them up.There's a Canadian picture bearing "}
+{'N': "ETHAN picks them up.  There's a Canadian picture bearing "}
 {'N': 'ETHAN photo and the name Phillipe Doucette, credit cards, '}
 {'N': "driver's license, etc. "}
 
@@ -2568,16 +2568,16 @@ D 	Passport, visas - you know the drill.
 
 D 	We'll work the exfiltration thru Canada, 
 
-D 	debrief you at Langley.Throw the Prague 
+D 	debrief you at Langley.  Throw the Prague 
 
 D 	police a bone, you know toss them a few 
 
-D 	suspects.Follow me? 
+D 	suspects.  Follow me? 
 
 
 
 {'C': 'ETHAN '}
-D 	Yeah.I follow you. 
+D 	Yeah.  I follow you. 
 
 
 
@@ -2609,7 +2609,7 @@ D 	Who else is left?
 
 
 {'C': 'KITTRIDGE '}
-D 	Yes.I see your point. 
+D 	Yes.  I see your point. 
 
 
 
@@ -2624,7 +2624,7 @@ D 	What?
 
 
 {'C': 'ETHAN '}
-D 	Of IMF agents.At the Embassy.Tonight. 
+D 	Of IMF agents.  At the Embassy.  Tonight. 
 
 
 
@@ -2649,7 +2649,7 @@ D 	The waiter behind Hannah at the top of
 
 D 	the staircase - Bowtie, 12 o'clock. The 
 
-D 	other IMF team.You're worried about me. 
+D 	other IMF team.  You're worried about me. 
 
 D 	Why?
 
@@ -2657,13 +2657,13 @@ D 	Why?
 
 {'C': 'KITTRIDGE '}
 {'N': '(a tight little smile) '}
-D 	You're right.Maybe this'll save some 
+D 	You're right.  Maybe this'll save some 
 
 D 	time. 
 
 
 
-{'N': 'The figures around the room have grown restless.KITTRIDGE '}
+{'N': 'The figures around the room have grown restless.  KITTRIDGE '}
 {'N': "tries to indicate that it's okay. He pulls some papers out "}
 {'N': 'of his jacket. '}
 
@@ -2673,7 +2673,7 @@ D 	For a little over two years now we've
 
 D 	been spotting serious blowback in IMF 
 
-D 	operations.We have a penetration.The 
+D 	operations.  We have a penetration.  The 
 
 D 	other day we decoded a message on the 
 
@@ -2687,7 +2687,7 @@ D 	The arms dealer.
 
 
 {'C': 'KITTRIDGE '}
-D 	That's right.Max, it seems, has two 
+D 	That's right.  Max, it seems, has two 
 
 D 	unique gifts -- a capacity for anonymity
 
@@ -2699,7 +2699,7 @@ D 	inside - he's put himself in a position
 
 D 	to buy our NOC list. An operation he 
 
-D 	referred to as "Job 314".The job he 
+D 	referred to as "Job 314".  The job he 
 
 D 	thought Golitsyn was doing tonight. 
 
@@ -2713,7 +2713,7 @@ D 	But the list Golitsyn stole was a decoy.
 {'C': 'KITTRIDGE '}
 D 	Correct the actual list is safe at 
 
-D 	Langley."Golitsyn" was a lightning rod, 
+D 	Langley.  "Golitsyn" was a lightning rod, 
 
 D 	one of ours. 
 
@@ -2727,7 +2727,7 @@ D 	This whole operation was a molehunt.
 {'C': 'KITTRIDGE '}
 D 	Yes, the mole's deep inside. And -- like 
 
-D 	you said.You survived. 
+D 	you said.  You survived. 
 
 
 
@@ -2739,9 +2739,9 @@ D 	I want to show you something, Ethan.
 
 
 
-{'N': "He now shoves the papers across the table.They're xeroxed "}
+{'N': "He now shoves the papers across the table.  They're xeroxed "}
 {'N': 'copies of a Wisconsin bank account in the name of DONALD and '}
-{'N': 'MARGARET ETHAN HUNT.It shows a balance of $127, 000. '}
+{'N': 'MARGARET ETHAN HUNT.  It shows a balance of $127, 000. '}
 
 
 {'C': "KITTRIDGE (CONT'D) "}
@@ -2759,7 +2759,7 @@ D 	out the bank account -- dying slowly in
 
 D 	America after all, can be a very 
 
-D 	expensive proposition Ethan.So, why 
+D 	expensive proposition Ethan.  So, why 
 
 D 	don't we go quietly out of here onto the 
 
@@ -2792,12 +2792,12 @@ D 	upset.
 
 
 
-{'M': 'ETHAN takes something from his jacket pocket.While '}
+{'M': 'ETHAN takes something from his jacket pocket.  While '}
 {'M': 'KITTRIDGE talks, ETHAN unwraps whatever is in his hand. '}
 
 
 {'C': 'KITTRIDGE '}
-D 	All right, enough isenough Hunt. You've 
+D 	All right, enough is  enough Hunt. You've 
 
 D 	bribed, cajoled, killed - and relied on 
 
@@ -2817,20 +2817,20 @@ D 	it in hell.
 
 
 {'N': "ETHAN lashes out, swatting KITTRIDGE'S glass of wine off the"}
-{'N': 'table in one quick motion.As he does, he hurls the piece of '}
+{'N': 'table in one quick motion.  As he does, he hurls the piece of '}
 {'N': 'gum. '}
 
 
 {'N': 'Diners look up, startled at the sound of the breaking wine '}
-{'N': 'glass.KITTRIDGE follows the trajectory of the glass -- '}
+{'N': 'glass.  KITTRIDGE follows the trajectory of the glass -- '}
 
 
 {'N': '-- and sees the piece of gum, stuck to the tank. His eyes '}
-{'N': 'widen.KA BOOM! '}
+{'N': 'widen.  KA BOOM! '}
 
 
 {'N': 'The tiny piece of plastique explodes, SHATTERING the fish '}
-{'N': 'tank.A hundred gallons of water flow over the MAN and '}
+{'N': 'tank.  A hundred gallons of water flow over the MAN and '}
 {'N': 'WOMAN, knocking them to the ground. '}
 
 
@@ -2847,22 +2847,22 @@ D 	it in hell.
 {'S': 'EXT. SAFE HOUSE - ENTRYWAY - NIGHT'}
 
 
-{'N': 'Silence.ETHAN enters the darkened entry. '}
+{'N': 'Silence.  ETHAN enters the darkened entry. '}
 
 
 {'S': 'INT. SAFE HOUSE STAIRWELL - NIGHT'}
 
 
-{'N': 'ETHAN glances up at the stairwell.Naked light bulbs '}
-{'N': 'illuminate the way up.He slips off his jacket and shirt, '}
+{'N': 'ETHAN glances up at the stairwell.  Naked light bulbs '}
+{'N': 'illuminate the way up.  He slips off his jacket and shirt, '}
 {'N': 'then puts his jacket back on. '}
 
 
 {'S': 'INT. SAFE HOUSE STAIRWELL - MOMENTS LATER - NIGHT'}
 
 
-{'N': 'ETHAN unscrews a bulb.He crushes the bulb in his shirt and '}
-{'N': 'scatters the glass fragments on the steps.He climbs to the '}
+{'N': 'ETHAN unscrews a bulb.  He crushes the bulb in his shirt and '}
+{'N': 'scatters the glass fragments on the steps.  He climbs to the '}
 {'N': 'next bulb. '}
 
 
@@ -2887,14 +2887,14 @@ D 	it in hell.
 
 
 {'N': 'ETHAN checks the shower, then goes to his shaving kit, '}
-{'N': 'pulling out a shaving cream can and a hairspray can.He '}
+{'N': 'pulling out a shaving cream can and a hairspray can.  He '}
 {'N': 'unscrews the bottoms, retrieving cash in various '}
 {'N': 'denominations from various countries and a couple of '}
 {'N': 'passports. '}
 
 
 {'N': 'As he pockets them, he catches sight of himself in the'}
-{'N': "mirror.He's a mess.He splashes water on his face. "}
+{'N': "mirror.  He's a mess.  He splashes water on his face. "}
 
 
 {'S': 'INT. SAFE HOUSE KITCHEN - NIGHT'}
@@ -2909,18 +2909,18 @@ D 	it in hell.
 
 {'N': 'He comes back into the living room. Still drinking, he '}
 {'N': 'notices flickering lights on the other side of the room, the '}
-{'N': 'static from the four monitors PHELPS was watching.One by '}
+{'N': 'static from the four monitors PHELPS was watching.  One by '}
 {'N': 'one, he switches them off. '}
 
 
 {'N': 'THE LAPTOP '}
 
 
-{'N': 'JACK had been using lies closed at his abandoned desk.ETHAN '}
+{'N': 'JACK had been using lies closed at his abandoned desk.  ETHAN '}
 {'N': 'wakes it up. '}
 {'M': ''}
 {'N': 'The computer emits a DIAL TONE, then STATIC as it hits its '}
-{'N': 'connection.It prompts ETHAN along: '}
+{'N': 'connection.  It prompts ETHAN along: '}
 
 
 D 	SELECT USENET GROUP
@@ -2935,7 +2935,7 @@ D 	job 314
 
 
 {'C': 'ETHAN'}
-D 	Job.Job 3:14.March fourteen.Job 31 
+D 	Job.  Job 3:14.  March fourteen.  Job 31 
 
 D 	March. 
 
@@ -2963,21 +2963,21 @@ D 	SEARCH STRING NOT FOUND
 
 
 {'N': 'He tries a few more, quickly -- "job," "jobs," "joblist.com," '}
-{'N': 'but nothing comes up.He tries something else -- "scroll '}
-{'N': 'usenet groups."'}
+{'N': 'but nothing comes up.  He tries something else -- "scroll '}
+{'N': 'usenet groups."  '}
 
 
 {'N': 'The computer scrolls names of bulletin boards at a dizzying '}
-{'N': "speed, by the hundreds.That's not going anywhere. "}
+{'N': "speed, by the hundreds.  That's not going anywhere. "}
 
 
 {'N': 'ETHAN pauses, slaking his bottomless thirst and trying to '}
 {'N': 'figure out what permutation of "job 314" he should add to the '}
-{'N': 'others on his computer screen.He MUMBLES. '}
+{'N': 'others on his computer screen.  He MUMBLES. '}
 
 
 {'C': 'ETHAN '}
-D 	Job three fourteen.Job --
+D 	Job three fourteen.  Job --
 
 {'M': '(a realization, '}
 {'M': 'the Biblical pronunciation) '}
@@ -2986,7 +2986,7 @@ D 	It's Job!
 
 
 {'N': 'He rummages around on the desk, checks the bookshelf and '}
-{'N': 'finds a Gideon Bible.He turns to Job 3:14 and reads the '}
+{'N': 'finds a Gideon Bible.  He turns to Job 3:14 and reads the '}
 {'N': 'Bible passage "Kings and Counsellors..." '}
 
 
@@ -3019,26 +3019,26 @@ D 	BOOK OF JOB
 
 D 	WELCOME TO THE BOOK OF JOB DISCUSSION 
 
-D 	GROUP.WHICH CHAPTER AND VERSE DO 
+D 	GROUP.  WHICH CHAPTER AND VERSE DO 
 
 D 	YOU WISH TO POST YOUR ENTRY UNDER?
 
 
 
 {'N': 'ETHAN types his answer "Job 3:14" and the screen presents a '}
-{'M': '"stickie" for him to write his message on.He does: '}
+{'M': '"stickie" for him to write his message on.  He does: '}
 
 
 {'C': 'ETHAN '}
-D 	Max -- Goods tainted.Consider extremely 
+D 	Max -- Goods tainted.  Consider extremely 
 
-D 	hazardous.DO NOT USE.Fate will be 
+D 	hazardous.  DO NOT USE.  Fate will be 
 
 D 	that of kings and counsellors who built 
 
 D 	for themselves palaces now lying in 
 
-D 	ruins.Must meet to discuss a.s.a.p. 
+D 	ruins.  Must meet to discuss a.s.a.p. 
 
 
 
@@ -3047,8 +3047,8 @@ D 	ruins.Must meet to discuss a.s.a.p.
 
 {'N': 'A rhythmic CRUNCHING sound and from the darkness on the other '}
 {'N': 'side of the room, PHELPS staggers toward him, wet and muddy, '}
-{'N': "his middle a hopelessly bloody mess.He looks like he's "}
-{'N': 'dying on his feet.ETHAN freezes, appalled. '}
+{'N': "his middle a hopelessly bloody mess.  He looks like he's "}
+{'N': 'dying on his feet.  ETHAN freezes, appalled. '}
 
 
 {'C': 'PHELPS'}
@@ -3062,7 +3062,7 @@ D 	Ethan, what are you doing?
 {'C': "PHELPS (CONT'D) "}
 D 	I needed you, Ethan. 1 needed you on the 
 
-D 	bridge, and -- you weren't there.Ethan? 
+D 	bridge, and -- you weren't there.  Ethan? 
 
 D 	Ethan? 
 
@@ -3090,7 +3090,7 @@ D 	What are you doing here?!
 
 {'C': 'CLAIRE '}
 {'N': '(carefully) '}
-D 	Ethan -- Ethan, it's okay.It's Claire. 
+D 	Ethan -- Ethan, it's okay.  It's Claire. 
 
 D 	Ethan what's wrong with you? 
 
@@ -3101,7 +3101,7 @@ D 	Don't move.
 
 
 
-{'N': 'Her right hand has moved a fraction.She freezes again. '}
+{'N': 'Her right hand has moved a fraction.  She freezes again. '}
 
 
 {'C': 'ETHAN '}
@@ -3110,16 +3110,16 @@ D 	You were in the car!
 
 
 {'C': 'CLAIRE '}
-D 	I wasn't.I heard that Jim was in 
+D 	I wasn't.  I heard that Jim was in 
 
-D 	trouble on the radio.He said someone 
+D 	trouble on the radio.  He said someone 
 
 D 	was... 
 
 
 
 {'C': 'ETHAN '}
-D 	Shut up!I saw you.You were in the 
+D 	Shut up!  I saw you.  You were in the 
 
 D 	car. 
 
@@ -3133,7 +3133,7 @@ D 	bridge.
 
 
 {'C': 'ETHAN '}
-D 	Don't give me that!I was on the bridge. 
+D 	Don't give me that!  I was on the bridge. 
 
 
 
@@ -3156,9 +3156,9 @@ D 	What happened to Jim?
 
 
 {'C': 'ETHAN '}
-D 	Dead.Dead.Dead!Wake up, Claire! 
+D 	Dead.  Dead.  Dead!  Wake up, Claire! 
 
-D 	Jim's dead, they're dead.They're all 
+D 	Jim's dead, they're dead.  They're all 
 
 D 	dead! 
 
@@ -3169,7 +3169,7 @@ D 	dead!
 
 {'C': 'CLAIRE '}
 {'N': '(mumbling) '}
-D 	They're dead.Jim's dead. 
+D 	They're dead.  Jim's dead. 
 
 
 
@@ -3189,12 +3189,12 @@ D 	Take off your God damn coat!
 
 
 {'N': 'He grabs a sleeve and literally tears the coat off her, half- '}
-{'N': 'spinning her around.The coat hits the floor like a dead '}
-{'N': "body.CLAIRE'S instinctive move is to cover her chest. "}
+{'N': 'spinning her around.  The coat hits the floor like a dead '}
+{'N': "body.  CLAIRE'S instinctive move is to cover her chest. "}
 
 
-{'N': 'CLAIRE begins to shiver.ETHAN circles her, runs his hand '}
-{'N': "cursorily across her body.It accentuates CLAIRE'S "}
+{'N': 'CLAIRE begins to shiver.  ETHAN circles her, runs his hand '}
+{'N': "cursorily across her body.  It accentuates CLAIRE'S "}
 {'N': 'shivering. '}
 
 
@@ -3204,14 +3204,14 @@ D 	Where were you?
 
 
 {'C': 'CLAIRE '}
-D 	I walked away.He said abort.He was 
+D 	I walked away.  He said abort.  He was 
 
 D 	gone so I walked away. 
 
 
 
 {'C': 'ETHAN '}
-D 	That was four hours ago!Who sent you? 
+D 	That was four hours ago!  Who sent you? 
 
 D 	Did they send you here? 
 
@@ -3237,13 +3237,13 @@ D 	Who is they, who is they?
 
 
 {'C': 'ETHAN '}
-D 	Who sent you?!Who sent you? 
+D 	Who sent you?!  Who sent you? 
 
 
 
 {'C': 'CLAIRE '}
 {'N': '(screaming) '}
-D 	No one sent me!We're supposed to be 
+D 	No one sent me!  We're supposed to be 
 
 D 	back here at four o'clock, four o'clock, 
 
@@ -3255,8 +3255,8 @@ D 	four o'clock --!
 
 
 
-{'N': 'She sags.A moment.Then the clock begins to chime -- BONG, '}
-{'N': "BONG, BONG, BONG.In the wake of the bells' reverb, ETHAN "}
+{'N': 'She sags.  A moment.  Then the clock begins to chime -- BONG, '}
+{'N': "BONG, BONG, BONG.  In the wake of the bells' reverb, ETHAN "}
 {'N': 'releases his grip on her wrists. '}
 
 
@@ -3264,8 +3264,8 @@ D 	four o'clock --!
 
 
 {'N': 'ETHAN sits in front of the computer, staring blankly at it, '}
-{'N': 'still waiting for a response.CLAIRE sitting on the end of '}
-{'N': "the bed.Dawn approaches, it's very, very quiet. "}
+{'N': 'still waiting for a response.  CLAIRE sitting on the end of '}
+{'N': "the bed.  Dawn approaches, it's very, very quiet. "}
 
 
 {'C': 'CLAIRE '}
@@ -3274,13 +3274,13 @@ D 	Why haven't they brought us in yet?
 
 
 {'C': 'ETHAN'}
-D 	I've been disavowed.They think I killed 
+D 	I've been disavowed.  They think I killed 
 
-D 	Jim and everyone else.Somehow a hundred 
+D 	Jim and everyone else.  Somehow a hundred 
 
 D 	thousand dollars found its way into my 
 
-D 	parents' bank account.Kittridge assumes 
+D 	parents' bank account.  Kittridge assumes 
 
 D 	I'm a mole they've been tracing and I've 
 
@@ -3301,7 +3301,7 @@ D 	What are you going to do?
 
 
 {'C': 'ETHAN '}
-D 	I'm going to get it for him.Whoever the 
+D 	I'm going to get it for him.  Whoever the 
 
 D 	mole is, I think goes by the name of Job, 
 
@@ -3336,21 +3336,21 @@ D 	me.
 {'N': 'THE COMPUTER SCREEN'}
 
 
-{'N': 'Blinking -- "MESSAGE WAITING."ETHAN hurries over and clicks '}
-{'N': 'on the message box.The screen blinks and the message shows '}
+{'N': 'Blinking -- "MESSAGE WAITING."  ETHAN hurries over and clicks '}
+{'N': 'on the message box.  The screen blinks and the message shows '}
 {'N': 'up: '}
 
 
-{'M': '?JOB - CORNER OF NEKAZANKA AND PRlKOPY ONE P.M. '}
+{'M': '?        JOB - CORNER OF NEKAZANKA AND PRlKOPY ONE P.M. '}
 
 
-{'M': '?BUY A PACKET OF DUNHILL '}
+{'M': '?        BUY A PACKET OF DUNHILL '}
 
 
-{'M': '?AND ASK THE MAN SITTING ON THE BUS '}
+{'M': '?        AND ASK THE MAN SITTING ON THE BUS '}
 
 
-{'M': '?STOP BENCH FOR A MATCH'}
+{'M': '?        STOP BENCH FOR A MATCH'}
 
 
 {'N': 'CLAIRE looks to ETHAN. '}
@@ -3390,7 +3390,7 @@ D 	match?
 
 
 {'N': 'ETHAN slides into the back seat, between the TWO MEN. '}
-{'N': 'MATTHIAS, the man on the left, holds up a black hood.He '}
+{'N': 'MATTHIAS, the man on the left, holds up a black hood.  He '}
 {'N': "extends it to ETHAN, who doesn't take it. "}
 
 
@@ -3405,7 +3405,7 @@ D 	Why?
 
 
 {'C': 'MATTHIAS '}
-D 	You wish to meet Max?This is the price 
+D 	You wish to meet Max?  This is the price 
 
 D 	of admission. 
 
@@ -3419,15 +3419,15 @@ D 	of admission.
 
 
 {'N': 'The black hood still on his head, ETHAN has trouble sitting '}
-{'N': "upright.He's before a desk, in an apartment somewhere in "}
+{'N': "upright.  He's before a desk, in an apartment somewhere in "}
 {'N': "the city -- it's impossible to tell where, as the blinds are "}
-{'N': 'drawn.The place is roomy and lavishly furnished -- '}
+{'N': 'drawn.  The place is roomy and lavishly furnished -- '}
 {'N': 'expensive Oriental rugs, well-chosen objects of art. '}
 
 
 {'N': 'Somewhere down the block, a dog BARKS, steadily, every few '}
 {'N': 'seconds. In the hallway outside the apartment door, someone '}
-{'N': 'is VACUUMING.MATTHIAS and the OTHER MAN are nearby. '}
+{'N': 'is VACUUMING.  MATTHIAS and the OTHER MAN are nearby. '}
 
 
 {'C': 'ETHAN'}
@@ -3436,7 +3436,7 @@ D 	I thought I was going to see Max.
 
 
 {'C': 'MATTHIAS '}
-D 	You misunderstood.No one sees Max. 
+D 	You misunderstood.  No one sees Max. 
 
 
 
@@ -3478,9 +3478,9 @@ D 	Very well.
 
 
 
-{'N': "MAX'S figure into frame.MATTHIAS removes ETHAN's hood. "}
+{'N': "MAX'S figure into frame.  MATTHIAS removes ETHAN's hood. "}
 {'N': 'When it comes off ETHAN finds himself looking up at a tall '}
-{'N': "woman of indeterminate age.She's handsome to the point of "}
+{'N': "woman of indeterminate age.  She's handsome to the point of "}
 {'N': 'severity. '}
 
 
@@ -3494,29 +3494,29 @@ D 	I need one hundred thousand dollars.
 
 
 {'C': 'MAX'}
-D 	Really?And you thought if you simply 
+D 	Really?  And you thought if you simply 
 
 D 	showed up I might give it to you? 
 
 
 
 {'C': 'ETHAN '}
-D 	Why not?You gave Job a hundred and 
+D 	Why not?  You gave Job a hundred and 
 
 D 	twenty five thousand. 
 
 
 
 {'C': 'MAX '}
-D 	The penny drops.You are not Job.Yes, 
+D 	The penny drops.  You are not Job.  Yes, 
 
 D 	Job is not given to quoting Scripture in 
 
 D 	his communications. And there was its 
 
-D 	tone -- aggressive but playful.Job is 
+D 	tone -- aggressive but playful.  Job is 
 
-D 	not playful.So you're something of a 
+D 	not playful.  So you're something of a 
 
 D 	paradox. 
 
@@ -3533,7 +3533,7 @@ D 	On what?
 
 
 {'C': 'ETHAN '}
-D 	Whether you like a paradox.I want a 
+D 	Whether you like a paradox.  I want a 
 
 D 	hundred and fifty thousand dollars. 
 
@@ -3545,14 +3545,14 @@ D 	It's quite out of the question.
 
 
 {'C': 'ETHAN '}
-D 	The disk Job sold you is worthless.It's 
+D 	The disk Job sold you is worthless.  It's 
 
 D 	bait, part of an internal molehunt. 
 
 
 
 {'C': 'MAX'}
-D 	And how might you know that?Are you 
+D 	And how might you know that?  Are you 
 
 D 	another Company man? 
 
@@ -3569,7 +3569,7 @@ D 	Ah, but, we're asking about you.
 
 
 {'C': 'ETHAN'}
-D 	I'm NOC.Was.Now disavowed. 
+D 	I'm NOC.  Was.  Now disavowed. 
 
 
 
@@ -3605,7 +3605,7 @@ D 	Why should I?
 {'C': 'ETHAN '}
 D 	Because I can deliver the actual NOC 
 
-D 	list.The one you have is not only 
+D 	list.  The one you have is not only 
 
 D 	worthless, it's certain to be equipped 
 
@@ -3644,7 +3644,7 @@ D 	Mm - Hmmm...
 
 
 {'C': 'ETHAN'}
-D 	Tell you what.How good's the RF scanner 
+D 	Tell you what.  How good's the RF scanner 
 
 D 	you used in the car? 
 
@@ -3656,7 +3656,7 @@ D 	Very good.
 
 
 {'C': 'ETHAN '}
-D 	Okay, use it.But I suggest pack up 
+D 	Okay, use it.  But I suggest pack up 
 
 D 	first. 
 
@@ -3665,15 +3665,15 @@ D 	first.
 {'N': 'ANGLE'}
 
 
-{'N': "MATTHIAS boots up.There's a little musical noise and the "}
-{'N': 'screen brightens.The computer WHIRS and CLICKS and a '}
+{'N': "MATTHIAS boots up.  There's a little musical noise and the "}
+{'N': 'screen brightens.  The computer WHIRS and CLICKS and a '}
 {'N': 'complex list of names, addresses, phone numbers and other '}
-{'N': 'personal information scrolls by.But Matthias is watching '}
+{'N': 'personal information scrolls by.  But Matthias is watching '}
 {'N': 'the digital read-out on the RF scanner. '}
 
 
 {'C': 'MATTHIAS '}
-D 	Twenty-six, twenty-seven.So far so 
+D 	Twenty-six, twenty-seven.  So far so 
 
 D 	good. 
 
@@ -3694,7 +3694,7 @@ D 	Thirty-two and change.
 
 {'C': 'MAX '}
 {'N': '(to Ethan) '}
-D 	Doesn't mean it's a signal.Could just 
+D 	Doesn't mean it's a signal.  Could just 
 
 D 	be the hard drive heating up. 
 
@@ -3705,7 +3705,7 @@ D 	be the hard drive heating up.
 
 
 {'C': 'MATTHIAS '}
-D 	Forty-four.Forty-five. 
+D 	Forty-four.  Forty-five. 
 
 
 
@@ -3724,13 +3724,13 @@ D 	I'd say you've got about two minutes.
 {'S': "EXT. MAX'S APARTMENT - BALCONY - DAY"}
 
 
-{'N': 'The OTHER MAN comes out on the balcony.Nothing out here but '}
-{'N': 'a beautiful day.He walks to the railing and looks down at '}
+{'N': 'The OTHER MAN comes out on the balcony.  Nothing out here but '}
+{'N': 'a beautiful day.  He walks to the railing and looks down at '}
 {'N': 'the street. '}
 
 
 {'N': "Down below, the dog that's still barking is tied to a street "}
-{'N': 'sign.WOOF.WOOF.WOOF.Abruptly, it stops. '}
+{'N': 'sign.  WOOF.  WOOF.  WOOF.  Abruptly, it stops. '}
 
 
 {'S': "INT. MAX'S APARTMENT - DAY "}
@@ -3771,11 +3771,11 @@ D 	Fifty-seven. Fifty-nine.
 
 {'C': 'FEMALE IMF '}
 {'N': '(in czech) '}
-D 	Switch it on.Keep cleaning. 
+D 	Switch it on.  Keep cleaning. 
 
 
 
-{'N': 'KITTRIDGE looks at her sharply and gestures.She turns the '}
+{'N': 'KITTRIDGE looks at her sharply and gestures.  She turns the '}
 {'N': 'vacuum back on. They reach the door of a certain apartment '}
 {'N': 'and -- '}
 
@@ -3783,12 +3783,12 @@ D 	Switch it on.Keep cleaning.
 {'S': 'INT. APARTMENT - DAY'}
 
 
-{'N': "-- KICK through it.The AGENTS swarm into MAX'S apartment, "}
-{'N': 'guns waving in all directions.KITTRIDGE sweeps in between '}
+{'N': "-- KICK through it.  The AGENTS swarm into MAX'S apartment, "}
+{'N': 'guns waving in all directions.  KITTRIDGE sweeps in between '}
 {'N': 'them and takes command of the place -- '}
 
 
-{'N': "--but there's nobody here.TWO AGENTS race into the bedroom, "}
+{'N': "--but there's nobody here.  TWO AGENTS race into the bedroom, "}
 {'N': 'and just as quickly out again. '}
 
 
@@ -3803,7 +3803,7 @@ D 	Switch it on.Keep cleaning.
 
 
 {'N': 'KITTRIDGE kicks open the door to the balcony, comes outside, '}
-{'N': 'and looks around.Nobody in sight. '}
+{'N': 'and looks around.  Nobody in sight. '}
 
 
 {'C': 'KITTRIDGE '}
@@ -3822,14 +3822,14 @@ D 	one of his apartments again.
 {'N': '(turns to Ethan) '}
 D 	Phew, sorry I doubted you, dear boy. 
 
-D 	You're a good sport.Do accept the 
+D 	You're a good sport.  Do accept the 
 
 D 	compliment. 
 
 
 
 {'C': 'ETHAN '}
-D 	Thanks, Max.Or is it Maxine? 
+D 	Thanks, Max.  Or is it Maxine? 
 
 
 
@@ -3846,9 +3846,9 @@ D 	a warm blanket.
 {'N': '(abruptly) '}
 D 	My deal with Job was subject to a 
 
-D 	successful boot scan.Obviously it 
+D 	successful boot scan.  Obviously it 
 
-D 	didn't pass muster.Deal's off. 
+D 	didn't pass muster.  Deal's off. 
 
 
 
@@ -3858,13 +3858,13 @@ D 	What was your deal with Job?
 
 
 {'C': 'MAX '}
-D 	Six million dollars.I'll give you the 
+D 	Six million dollars.  I'll give you the 
 
-D 	same.But I want the complete list now, 
+D 	same.  But I want the complete list now, 
 
-D 	not just Eastern Europe.I won't do this 
+D 	not just Eastern Europe.  I won't do this 
 
-D 	piecemeal, it's too dangerous.I want 
+D 	piecemeal, it's too dangerous.  I want 
 
 D 	the entire list, the true name of every 
 
@@ -3875,11 +3875,11 @@ D 	world.
 
 
 {'C': 'ETHAN '}
-D 	Ten million.Ten million in negotiable 
+D 	Ten million.  Ten million in negotiable 
 
 D 	U.S. Treasury certificates, in bearer 
 
-D 	form, coupons attached.And one more 
+D 	form, coupons attached.  And one more 
 
 D 	thing -- your personal assurance that Job 
 
@@ -3888,7 +3888,7 @@ D 	will be at the exchange.
 
 
 {'C': 'MAX '}
-D 	Done.Bring it to me in London.I want 
+D 	Done.  Bring it to me in London.  I want 
 
 D 	it by the end of the week. 
 
@@ -3902,7 +3902,7 @@ D 	How will you make sure Job will be there?
 {'C': 'MAX'}
 D 	How will you make sure I'll have the list 
 
-D 	in three days?It's been a delight.Now 
+D 	in three days?  It's been a delight.  Now 
 
 D 	where can I drop you dear boy? 
 
@@ -3915,14 +3915,14 @@ D 	money.
 
 
 
-{'N': 'MAX manages to laugh without coughing.Then, with an '}
+{'N': 'MAX manages to laugh without coughing.  Then, with an '}
 {'N': 'admonishing forefinger: '}
 
 
 {'C': 'MAX '}
 D 	I'm going to have to front you 
 
-D 	personally.Don't lose that money 
+D 	personally.  Don't lose that money 
 
 D 	without losing your life. 
 
@@ -3933,7 +3933,7 @@ D 	I wouldn't dream of it.
 
 
 
-{'N': 'MAX settles back and regards ETHAN.A theatrical sigh.She '}
+{'N': 'MAX settles back and regards ETHAN.  A theatrical sigh.  She '}
 {'N': 'fancies this guy. '}
 
 
@@ -3944,12 +3944,12 @@ D 	I wouldn't dream of it.
 
 
 {'N': 'KITTRIDGE waits on the balcony for his AGENTS to complete '}
-{'N': 'their search.HARRY BARNES, a middle-aged, gray suited, '}
+{'N': 'their search.  HARRY BARNES, a middle-aged, gray suited, '}
 {'N': 'somewhat gray-faced bureaucrat, comes to join Kittridge. '}
 
 
 {'C': 'KITTRIDGE '}
-D 	The man's gone black, Barnes.He's under 
+D 	The man's gone black, Barnes.  He's under 
 
 D 	until he decides to surface. 
 
@@ -3965,17 +3965,17 @@ D 	involved. Close off his transportation.
 
 
 {'C': 'KITTRIDGE '}
-D 	What can we do, Barnes?Put a guy at the 
+D 	What can we do, Barnes?  Put a guy at the 
 
-D 	airport?How many identities do you 
+D 	airport?  How many identities do you 
 
-D 	think Hunt has?How many times has he 
+D 	think Hunt has?  How many times has he 
 
 D 	slipped past custom, in how many 
 
-D 	countries?These guys are trained to be 
+D 	countries?  These guys are trained to be 
 
-D 	ghosts.We taught them how to do it, for 
+D 	ghosts.  We taught them how to do it, for 
 
 D 	Christ's sake! 
 
@@ -3987,11 +3987,11 @@ D 	So what do you suggest?
 
 
 {'C': 'KITTRIDGE '}
-D 	Let's not waste time chasing him.Make 
+D 	Let's not waste time chasing him.  Make 
 
-D 	him come to us.EverybodyÃ­s got pressure 
+D 	him come to us.  EverybodyÃ­s got pressure 
 
-D 	points.Find out something that's 
+D 	points.  Find out something that's 
 
 D 	important to him personally and you 
 
@@ -4005,7 +4005,7 @@ D 	squeeze.
 {'S': 'INT. SAFE HOUSE - DAY'}
 
 
-{'N': 'ETHAN enters the living room.CLAIRE walks out of the '}
+{'N': 'ETHAN enters the living room.  CLAIRE walks out of the '}
 {'N': 'bedroom holding a gun. '}
 
 
@@ -4108,12 +4108,12 @@ D 	DISAVOWED
 {'N': 'high speed train, where the newly assembled IM force has '}
 {'N': 'gathered around a table -- KRIEGER, a dangerous-looking '}
 {'N': 'Frenchman of forty or so, LUTHER STICKELL, a muscular, soft- '}
-{'N': 'spoken American in his mid-thirties.ETHAN, and CLAIRE. '}
+{'N': 'spoken American in his mid-thirties.  ETHAN, and CLAIRE. '}
 {'N': 'LUTHER regards the others warily. '}
 
 
 {'C': 'ETHAN'}
-D 	Simple game.Four players. 
+D 	Simple game.  Four players. 
 
 {'N': '(points to Krieger) '}
 D 	Exfil opens the pocket -- 
@@ -4145,7 +4145,7 @@ D 	In Langley.
 
 
 {'C': 'LUTHER '}
-D 	In Langley?The one in Virginia, Langley? 
+D 	In Langley?  The one in Virginia, Langley? 
 
 
 
@@ -4154,7 +4154,7 @@ D 	Inside CIA headquarters at Langley.
 
 
 
-{'N': 'ETHAN nods.KRIEGER turns to CLAIRE. '}
+{'N': 'ETHAN nods.  KRIEGER turns to CLAIRE. '}
 
 
 {'C': "KRIEGER (CONT'D) "}
@@ -4170,9 +4170,9 @@ D 	Always.
 {'C': 'KRIEGER '}
 D 	If we're going to Virginia, why don't we 
 
-D 	drop by Fort Knox?I can fly a 
+D 	drop by Fort Knox?  I can fly a 
 
-D 	helicopter right in through the lobby and
+D 	helicopter right in through the lobby and  
 
 D 	set it down inside the vault and it will 
 
@@ -4208,18 +4208,18 @@ D 	Payment on delivery.
 
 
 {'C': 'LUTHER '}
-D 	I don't know.This I don't know. 
+D 	I don't know.  This I don't know. 
 
 
 
 {'C': 'ETHAN'}
 D 	This doesn't sound like the Luther 
 
-D 	Stickell I've heard of.What'd they used 
+D 	Stickell I've heard of.  What'd they used 
 
-D 	to call you?The Net Ranger?Phineas 
+D 	to call you?  The Net Ranger?  Phineas 
 
-D 	Phreak?The only man alive who actually 
+D 	Phreak?  The only man alive who actually 
 
 D 	hacked NATO Ghostcom. 
 
@@ -4247,7 +4247,7 @@ D 	is the Mt. Everest of hacks.
 {'C': 'LUTHER '}
 D 	You're all kidding yourselves. Even with 
 
-D 	top of the line crypto.Cray access. 
+D 	top of the line crypto.  Cray access. 
 
 D 	STU 3's -- 
 
@@ -4290,7 +4290,7 @@ D 	Twenty-four hours.
 
 
 
-{'N': 'ETHAN looks back at LUTHER.LUTHER thinks. '}
+{'N': 'ETHAN looks back at LUTHER.  LUTHER thinks. '}
 
 
 {'C': 'LUTHER '}
@@ -4308,11 +4308,11 @@ D 	excuses.
 
 
 {'C': 'LUTHER '}
-D 	I can't just hack my way inside.There's 
+D 	I can't just hack my way inside.  There's 
 
 D 	no modem access to the mainframe, it's in 
 
-D 	a stand-alone.I'd have to be physically 
+D 	a stand-alone.  I'd have to be physically 
 
 D 	at the terminal. 
 
@@ -4333,14 +4333,14 @@ D 	The terminal's in black vault lock-down.
 
 {'N': 'A CIA ANALYST carrying a glass of iced tea and several file '}
 {'N': 'folders walks down a long corridor in the headquarters '}
-{'N': 'building.He comes to an impressive guard station and rests '}
+{'N': 'building.  He comes to an impressive guard station and rests '}
 {'N': 'his chin on a strange-looking optometric device. '}
 
 
 {'C': 'ETHAN (V.O.) '}
-D 	They missed nothing in that room.Even 
+D 	They missed nothing in that room.  Even 
 
-D 	the vents have laser nets over them.
+D 	the vents have laser nets over them.  
 
 
 
@@ -4352,7 +4352,7 @@ D 	the vents have laser nets over them.
 
 
 {'N': 'The ANALYST reaches a curtained area. He shoves the curtain '}
-{'N': 'aside and comes to a large, vaulted door.He slides a card- '}
+{'N': 'aside and comes to a large, vaulted door.  He slides a card- '}
 {'N': 'key into a slot, leaves it there and slides a second card-key '}
 {'N': 'into the slot beneath it. '}
 
@@ -4362,20 +4362,20 @@ D 	Inside, there are three countermeasure
 
 D 	systems that can only be deactivated by 
 
-D 	authorized entry.Which we won't have. 
+D 	authorized entry.  Which we won't have. 
 
 
 
 {'N': 'A panel next to the ANALYST says "INTRUSION COUNTERMEASURES '}
-{'N': 'OFF."The ANALYST next spins a three digit combination code, '}
+{'N': 'OFF."  The ANALYST next spins a three digit combination code, '}
 {'N': 'CHUNKS the door open and steps into -- '}
 
 
 {'S': 'INT. CIA COMPUTER ROOM - DAY'}
 
 
-{'N': "-- the secured terminal room.It's not large but it's "}
-{'N': 'impressive.A single terminal is bolted into the middle of '}
+{'N': "-- the secured terminal room.  It's not large but it's "}
+{'N': 'impressive.  A single terminal is bolted into the middle of '}
 {'N': 'the floor and the glass and tile walls of the room overlook '}
 {'N': 'computer storage towers. '}
 
@@ -4392,14 +4392,14 @@ D 	pressure-sensitive --
 
 
 {'N': 'The ANALYST closes the vault door behind him and walks across '}
-{'N': 'the room.As he walks, the floor tiles light up under his '}
+{'N': 'the room.  As he walks, the floor tiles light up under his '}
 {'N': 'feet, turning off again when he lifts the weight from them. '}
 
 
 {'C': 'ETHAN (V.O.) '}
 D 	--and the third detects any increase in 
 
-D 	temperature.Even the body heat of an 
+D 	temperature.  Even the body heat of an 
 
 D 	unauthorized person in the room will 
 
@@ -4408,7 +4408,7 @@ D 	trigger it.
 
 
 {'N': 'A thermometer on the wall shows the temperature is 72 '}
-{'N': 'degrees.The ANALYST sets his glass down, boots up the '}
+{'N': 'degrees.  The ANALYST sets his glass down, boots up the '}
 {'N': 'computer, and starts entering data from the file folders. '}
 
 
@@ -4416,7 +4416,7 @@ D 	trigger it.
 D 	All three systems are state of the art. 
 
 {'M': ''}
-{'N': 'The ANALYST turns and takes a sip of his iced tea.A drop of '}
+{'N': 'The ANALYST turns and takes a sip of his iced tea.  A drop of '}
 {'N': 'condensation runs down the glass and hits the floor. When it '}
 {'N': 'makes contact, the floor panel lights up. '}
 
@@ -4441,7 +4441,7 @@ D 	And you really think we can do this.
 {'N': 'heads in one direction, ETHAN and CLAIRE in the other.'}
 
 
-{'N': 'ETHAN stops.His attention is drawn to the car ahead. There '}
+{'N': 'ETHAN stops.  His attention is drawn to the car ahead. There '}
 {'N': 'is a window in the door to the car and he looks through it. '}
 
 
@@ -4475,7 +4475,7 @@ D 	Sure...
 
 
 
-{'S': 'INT. TRAIN - CLAIREÃ\xadS COMPARTMENT - NIGHT'}
+{'S': 'INT. TRAIN - CLAIREÃ\xadS COMPARTMENT - NIGHT                              '}
 
 
 {'N': 'ETHAN and CLAIRE enter, ETHAN closing the compartment door. '}
@@ -4524,7 +4524,7 @@ D 	What about you?
 {'C': 'ETHAN'}
 D 	What about me - Jim called an abort - I 
 
-D 	didn't comply.I lost the team. I just 
+D 	didn't comply.  I lost the team. I just 
 
 D 	need you to be safe. 
 
@@ -4540,8 +4540,8 @@ D 	I wish I'd never laid eyes on you..
 
 
 {'N': "And they're suddenly, violently in each others arms, kissing "}
-{'N': 'and half-falling onto the converted bed.She suddenly '}
-{'N': 'resists.He senses it and pulls away.'}
+{'N': 'and half-falling onto the converted bed.  She suddenly '}
+{'N': 'resists.  He senses it and pulls away.  '}
 
 
 {'C': 'ETHAN '}
@@ -4549,9 +4549,9 @@ D 	Sorry.
 
 
 
-{'N': "He rises and goes to the door.He's got his hand on the knob "}
+{'N': "He rises and goes to the door.  He's got his hand on the knob "}
 {'N': 'when CLAIRE wraps her arms around him from behind, turns him '}
-{'N': 'to her and kisses him, deeply.This time they sink slowly to '}
+{'N': 'to her and kisses him, deeply.  This time they sink slowly to '}
 {'N': 'the bed. '}
 
 
@@ -4574,7 +4574,7 @@ D 	Sorry.
 
 {'N': 'KITTRIDGE, BARNES, and their STAFF are hard at work, '}
 {'N': 'photographs and biographical data of ETHAN on various '}
-{'N': 'computer and television screens around the room.KITTRIDGE '}
+{'N': 'computer and television screens around the room.  KITTRIDGE '}
 {'N': 'leans back in his chair, staring at the ceiling. '}
 
 
@@ -4593,7 +4593,7 @@ D 	He may have used Phelps' code. They were
 
 D 	friends, and Phelps, was still valid for 
 
-D 	twenty-four hours.
+D 	twenty-four hours.  
 
 
 
@@ -4617,11 +4617,11 @@ D 	Hunt just kicked us in the ass, you guys
 
 D 	are standing here trying to figure out 
 
-D 	what kind of shoes he had on!I don't
+D 	what kind of shoes he had on!  I don't
 
 D 	care how he did it, I want to know why he 
 
-D 	did it!Is he recruiting?For what 
+D 	did it!  Is he recruiting?  For what 
 
 D 	purpose? 
 
@@ -4642,9 +4642,9 @@ D 	Survival.
 
 
 {'C': 'KITTRIDGE'}
-D 	Too short sighted.This guy's proactive,
+D 	Too short sighted.  This guy's proactive,
 
-D 	he initiates.The question is what does 
+D 	he initiates.  The question is what does 
 
 D 	he want now and where does he need to get 
 
@@ -4687,15 +4687,15 @@ D 	S.O.P..
 {'N': 'gray van parked on the shoulder of a two lane highway. '}
 
 
-{'S': 'INT. CIA LANGLEY LOBBY - DAY'}
+{'S': 'INT. CIA LANGLEY LOBBY - DAY                               '}
 
 
 {'N': 'Three FIREMEN stomp into the main lobby of the CIA '}
-{'N': 'headquarters building.ETHAN and KRIEGER are among them, in '}
-{'N': "firemen's jumpsuits, carrying packs of equipment."}
+{'N': 'headquarters building.  ETHAN and KRIEGER are among them, in '}
+{'N': "firemen's jumpsuits, carrying packs of equipment.  "}
 
 
-{'N': "ETHAN takes a breath as they cross to the GUARD's desk.He "}
+{'N': "ETHAN takes a breath as they cross to the GUARD's desk.  He "}
 {'N': 'looks up, above him. '}
 
 
@@ -4703,7 +4703,7 @@ D 	S.O.P..
 {'N': 'KNOW THE TRUTH AND THE TRUTH SHALL MAKE YOU FREE."'}
 
 
-{'N': 'They reach the GUARD.ETHAN, who wears Visco glasses, elbows '}
+{'N': 'They reach the GUARD.  ETHAN, who wears Visco glasses, elbows '}
 {'N': 'to the front of the group and takes charge. '}
 
 
@@ -4719,11 +4719,11 @@ D 	seven, and twelve.
 
 
 {'C': 'GUARD RICHARD '}
-D 	Yeah.That's what I've got too. 
+D 	Yeah.  That's what I've got too. 
 
 
 
-{'N': 'The FIREMEN look at each other.Who is this guy?But he '}
+{'N': 'The FIREMEN look at each other.  Who is this guy?  But he '}
 {'N': "seems to know what he's talking about, so -- "}
 
 
@@ -4767,12 +4767,12 @@ D 	alarm did not go off --
 
 
 
-{'S': 'EXT. CIA LANGLEY - PARKING AREA - DAY'}
+{'S': 'EXT. CIA LANGLEY - PARKING AREA - DAY                            '}
 
 
 {'N': 'One fire truck is parked slightly behind the others in the '}
-{'N': 'parking area of the headquarters building.Second truck '}
-{'N': 'roars past.LUTHER watches it go. '}
+{'N': 'parking area of the headquarters building.  Second truck '}
+{'N': 'roars past.  LUTHER watches it go. '}
 
 
 {'S': 'INT. FIRE TRUCK - DAY'}
@@ -4805,11 +4805,11 @@ D 	Twenty-one, twenty-one --
 
 
 
-{'N': "He finds what he's looking for and double clicks on it.A "}
+{'N': "He finds what he's looking for and double clicks on it.  A "}
 {'N': 'red box on his screen lights up -- '}
 
 
-{'S': 'INT. CIA LANGLEY - LOBBY - DAY'}
+{'S': 'INT. CIA LANGLEY - LOBBY - DAY                               '}
 
 
 {'N': "-- and the same red box lights up on the GUARD'S screen. "}
@@ -4817,7 +4817,7 @@ D 	Twenty-one, twenty-one --
 
 
 {'C': 'GUARD RANDALL '}
-D 	Wait!Hold it - it's on. Let's go. 
+D 	Wait!  Hold it - it's on. Let's go. 
 
 
 
@@ -4827,7 +4827,7 @@ D 	Let's move!
 
 
 {'N': 'ETHAN turns and looks at one of the FIREMEN behind them -- '}
-{'N': "it's CLAIRE.CLAIRE and KRIEGER follow ETHAN/GUARD to "}
+{'N': "it's CLAIRE.  CLAIRE and KRIEGER follow ETHAN/GUARD to "}
 {'N': 'corridor. '}
 
 
@@ -4835,12 +4835,12 @@ D 	Let's move!
 
 
 {'N': "CLAIRE quickly slips out of her fireman's jumpsuit, revealing "}
-{'N': 'a business suit underneath.She clips an ID tag to her '}
-{'N': 'breast pocket.'}
+{'N': 'a business suit underneath.  She clips an ID tag to her '}
+{'N': 'breast pocket.  '}
 
 
 {'N': 'She pulls a piece of paper from her pocket, a computer '}
-{'N': "printout of a man's ID photo.She stares at the face, "}
+{'N': "printout of a man's ID photo.  She stares at the face, "}
 {'N': 'studying it. '}
 
 
@@ -4852,8 +4852,8 @@ D 	Let's move!
 {'N': 'building. '}
 
 
-{'N': "She sees a MAN sitting alone, reading a newspaper.It's the "}
-{'N': 'man whose picture she looked at in the storage room.She '}
+{'N': "She sees a MAN sitting alone, reading a newspaper.  It's the "}
+{'N': 'man whose picture she looked at in the storage room.  She '}
 {'N': 'sits next to him. '}
 
 
@@ -4863,21 +4863,21 @@ D 	Let's move!
 
 {'N': 'He turns to pick up the paper and in the moment he is facing '}
 {'N': 'the other way, CLAIRE pulls out a small vial resembling a '}
-{'N': 'perfume sampler.She dumps the clear liquid contents into '}
-{'N': 'his coffee.He turns back and hands her part of the paper. '}
+{'N': 'perfume sampler.  She dumps the clear liquid contents into '}
+{'N': 'his coffee.  He turns back and hands her part of the paper. '}
 {'N': 'CLAIRE smiles. '}
 
 
-{'N': 'COFFEE MAN drinks up.CLAIRE stares at his shoulder '}
-{'N': 'strangely.He notices. '}
+{'N': 'COFFEE MAN drinks up.  CLAIRE stares at his shoulder '}
+{'N': 'strangely.  He notices. '}
 
 
 {'N': 'She reaches out and flicks something off his shoulder blade. '}
 
 
-{'N': "He smiles.But she hasn't flicked something off his shoulder "}
+{'N': "He smiles.  But she hasn't flicked something off his shoulder "}
 {'N': "blade, she's flicked something onto it -- a little piece of "}
-{'N': 'shiny gray metallic tape.CLAIRE leaves the table. COFFEE '}
+{'N': 'shiny gray metallic tape.  CLAIRE leaves the table. COFFEE '}
 {'N': 'MAN drinks up and leaves the table. '}
 
 
@@ -4885,8 +4885,8 @@ D 	Let's move!
 
 
 {'N': 'LUTHER stares at another one of his laptops, this one with a '}
-{'N': 'blueprint of the inside of the building.A cursor begins to '}
-{'N': 'flash in one of the rooms.LUTHER smiles. '}
+{'N': 'blueprint of the inside of the building.  A cursor begins to '}
+{'N': 'flash in one of the rooms.  LUTHER smiles. '}
 
 
 {'C': 'LUTHER '}
@@ -4894,7 +4894,7 @@ D 	Hi there.
 
 
 
-{'S': 'INT. CIA CORRIDOR/GUARD STATION - DAY'}
+{'S': 'INT. CIA CORRIDOR/GUARD STATION - DAY                               '}
 
 
 {'N': 'A GUARD carrying an MP5, a handheld machine gun, leads ETHAN '}
@@ -4909,11 +4909,11 @@ D 	Air conditioning's through here!
 {'N': 'They turn a corner, walking directly past -- '}
 
 
-{'N': "-- COFFEE MAN, who's coming the other way.We stay with "}
+{'N': "-- COFFEE MAN, who's coming the other way.  We stay with "}
 {'N': 'COFFEE MAN. '}
 
 
-{'S': 'INT. CIA LANGLEY - CORRIDORS - DAY'}
+{'S': 'INT. CIA LANGLEY - CORRIDORS - DAY                            '}
 {'M': ''}
 {'N': 'COFFEE MAN comes out of the cafeteria, walks down the '}
 {'N': 'corridor. he goes to the restricted access door, taps the '}
@@ -4927,14 +4927,14 @@ D 	William Donloe.
 
 {'N': 'COFFEE MAN (ANALYST) walks past a GUARD desk and peers into '}
 {'N': "an optometric scanner and we suddenly remember where we've "}
-{'N': "seen COFFEE MAN before.He's the TECHNICIAN who works at the "}
+{'N': "seen COFFEE MAN before.  He's the TECHNICIAN who works at the "}
 {'N': 'secured computer terminal. '}
 
 
 {'S': 'INT. CIA - SERVICE AREA - DAY '}
 
 
-{'N': 'ETHAN and KRIEGER in the service area - preparing.ETHAN '}
+{'N': 'ETHAN and KRIEGER in the service area - preparing.  ETHAN '}
 {'N': 'putting the mask in a bag. '}
 
 
@@ -4948,17 +4948,17 @@ D 	Where's the other guy?
 
 {'N': 'The GUARD moves towards ETHAN, who kicks back at him, pushing '}
 {'N': 'him back to KRIEGER, who zaps the GUARD on the back of the '}
-{'N': 'neck.He twitches and slumps to the ground, unconscious. '}
+{'N': 'neck.  He twitches and slumps to the ground, unconscious. '}
 {'N': 'KRIEGER quickly grabs him around the neck. '}
 
 
-{'N': "ETHAN turns.Holding the GUARD'S head with one hand, KRIEGER "}
+{'N': "ETHAN turns.  Holding the GUARD'S head with one hand, KRIEGER "}
 {'N': 'pulls a stiletto from the sheath in the back of his belt with '}
-{'N': "the other.He jabs it toward the base of the GUARD'S skull - "}
+{'N': "the other.  He jabs it toward the base of the GUARD'S skull - "}
 
 
-{'N': "-- but ETHAN is on him in a flash.He grabs KRIEGER's knife "}
-{'N': "arm shoving it up against the wall.Staring into KRIEGER'S "}
+{'N': "-- but ETHAN is on him in a flash.  He grabs KRIEGER's knife "}
+{'N': "arm shoving it up against the wall.  Staring into KRIEGER'S "}
 {'N': 'face in warning. '}
 
 
@@ -4969,7 +4969,7 @@ D 	Zero body count.
 
 {'C': 'KRIEGER '}
 {'N': '(a threat) '}
-D 	We'll see.
+D 	We'll see.  
 
 
 
@@ -4985,11 +4985,11 @@ D 	Time up.
 
 
 {'N': 'The Guard is tied up, lying on the floor of the Service Area '}
-{'N': 'Room.ETHAN and KRIEGER are below the open vent into the '}
+{'N': 'Room.  ETHAN and KRIEGER are below the open vent into the '}
 {'N': 'duct system. '}
 
 
-{'N': 'The first climb is straight up.KRIEGER cups his hands under '}
+{'N': 'The first climb is straight up.  KRIEGER cups his hands under '}
 {'N': "ETHAN'S foot and lifts him up into the duct as he starts to "}
 {'N': 'climb. '}
 
@@ -4998,36 +4998,36 @@ D 	Time up.
 
 
 {'N': 'ETHAN and KRIEGER crawl quickly through the ducts, moving '}
-{'N': 'horizontally now.They reach a juncture and turn right. '}
+{'N': 'horizontally now.  They reach a juncture and turn right. '}
 
 
 {'C': 'ETHAN '}
-D 	1 - 2 - 3 - Toast, toast.Luther, I'm 
+D 	1 - 2 - 3 - Toast, toast.  Luther, I'm 
 
-D 	going in.Don't disappoint me...Krieger, 
+D 	going in.  Don't disappoint me...Krieger, 
 
 D 	from here on in, absolute silence. 
 
 
 
-{'S': 'INT. DUCT - DAY'}
+{'S': 'INT. DUCT - DAY                                             '}
 
 
-{'N': 'ETHAN and KRIEGER reach a ventilator shaft in the duct.A '}
+{'N': 'ETHAN and KRIEGER reach a ventilator shaft in the duct.  A '}
 {'N': 'laser net protects the ventilator, red shafts of light cris- '}
-{'N': 'crossing every which way.ETHAN looks down, through the net. '}
+{'N': 'crossing every which way.  ETHAN looks down, through the net. '}
 
 
 {'N': 'He can see the computer room below and the top of the '}
 {'N': "TECHNICIAN'S head. "}
 
 
-{'S': 'INT. DUCT - DAY'}
+{'S': 'INT. DUCT - DAY                                              '}
 
 
 {'N': 'In the duct, ETHAN signals to KRIEGER, making a triangle of '}
-{'N': 'his hands.KRIEGER wriggles forward and hands him a multi- '}
-{'N': 'sided, pyramid shaped glass object.'}
+{'N': 'his hands.  KRIEGER wriggles forward and hands him a multi- '}
+{'N': 'sided, pyramid shaped glass object.  '}
 
 
 {'N': 'ETHAN raises the pyramid and intercepts a portion of one of '}
@@ -5041,11 +5041,11 @@ D 	from here on in, absolute silence.
 {'N': 'shaft. '}
 
 
-{'S': 'INT. CIA - COMPUTER ROOM - DAY'}
+{'S': 'INT. CIA - COMPUTER ROOM - DAY                             '}
 
 
 {'N': 'Up in the ceiling above it, one of the screws starts to move '}
-{'N': 'in the ventilator shaft, unscrewing.When it appears ready '}
+{'N': 'in the ventilator shaft, unscrewing.  When it appears ready '}
 {'N': 'to drop out, a thin strip of metal snakes out from between '}
 {'N': 'the bars of the shaft and edges up next to the screw. '}
 
@@ -5055,7 +5055,7 @@ D 	from here on in, absolute silence.
 {'N': 'with a gentle CLICK, as to a magnet. '}
 
 
-{'N': 'The screw is pulled up, through the shaft.Now the whole '}
+{'N': 'The screw is pulled up, through the shaft.  Now the whole '}
 {'N': 'shaft moves, down, into the room, held by a hand. '}
 
 
@@ -5063,7 +5063,7 @@ D 	from here on in, absolute silence.
 
 
 {'N': 'A rubber tube snakes down, through the hole, coming to a stop '}
-{'N': "near the thermostat, which says it's seventy-two degrees.A "}
+{'N': "near the thermostat, which says it's seventy-two degrees.  A "}
 {'N': 'gentle WHOOSH is audible as frosty air blows through the '}
 {'N': 'tube, cooling the room. '}
 
@@ -5079,7 +5079,7 @@ D 	from here on in, absolute silence.
 
 
 {'N': 'It is eerily still in the locked-down computer room we saw '}
-{'N': "earlier.No-one is there, there's not a sound but for the "}
+{'N': "earlier.  No-one is there, there's not a sound but for the "}
 {'N': 'gentle HUM of the computer as it waits to be put to use. '}
 
 
@@ -5090,30 +5090,30 @@ D 	from here on in, absolute silence.
 {'N': "At first it seems he's just poking his head in for a look, "}
 {'N': 'but he keeps coming and coming -- first his head, then '}
 {'N': 'shoulders, then waist, then knees, and finally we see his '}
-{'N': 'ankles and understand.'}
+{'N': 'ankles and understand.  '}
 
 
 {'N': 'He is lowered to stop in front of the thermometer and '}
-{'N': 'temperature read out on the computer.Suddenly ETHAN is '}
+{'N': 'temperature read out on the computer.  Suddenly ETHAN is '}
 {'N': 'lifted back up quickly to hang at ceiling height above the '}
 {'N': 'computer as the ANALYST enters the room. '}
 
 
-{'S': 'INT. CIA - COMPUTER ROOM - DAY'}
+{'S': 'INT. CIA - COMPUTER ROOM - DAY                                  '}
 
 
 {'N': 'The TECHNICIAN crosses to the computer and sits down, a stack '}
 {'N': 'of work to his right. '}
 
 
-{'S': 'INT. CIA COMPUTER ROOM - DAY'}
+{'S': 'INT. CIA COMPUTER ROOM - DAY                                    '}
 
 
-{'N': 'The TECHNICIAN is working away at the computer.He pauses '}
+{'N': 'The TECHNICIAN is working away at the computer.  He pauses '}
 {'N': 'and wipes some sweat from his forehead. '}
 
 
-{'S': 'INT. CIA COMPUTER ROOM - DAY'}
+{'S': 'INT. CIA COMPUTER ROOM - DAY                                      '}
 
 
 {'N': 'With a strange look on his face, the TECHNICIAN looks up. '}
@@ -5125,19 +5125,19 @@ D 	Oh, God.
 
 
 
-{'N': '-- he vomits.'}
+{'N': '-- he vomits.  '}
 
 
-{'N': 'He reaches for the garbage can and upchucks again.Puzzled, '}
+{'N': 'He reaches for the garbage can and upchucks again.  Puzzled, '}
 {'N': 'sick and feeling another wave coming on, he drags himself to '}
 {'N': 'his feet, hauls himself across the room and leaves. '}
 
 
-{'S': 'INT. CIA - COMPUTER ANTEROOM - DAY'}
+{'S': 'INT. CIA - COMPUTER ANTEROOM - DAY                             '}
 
 
 {'N': 'Even sick, the TECHNICIAN still thinks to re-activate the '}
-{'N': 'alarm systems with a card-key.They HUM back to life '}
+{'N': 'alarm systems with a card-key.  They HUM back to life '}
 {'N': 'efficiently, a light flashing: '}
 
 
@@ -5145,7 +5145,7 @@ D 	INTRUSION COUNTERMEASURES ON
 
 
 
-{'S': 'INT. CIA COMPUTER ROOM - DAY'}
+{'S': 'INT. CIA COMPUTER ROOM - DAY                                   '}
 
 
 {'N': 'ETHAN descends again, slowly but steadily, until he is at the '}
@@ -5165,35 +5165,35 @@ D 	INTRUSION COUNTERMEASURES ON
 {'N': 'on his forehead. '}
 
 
-{'S': 'INT. CIA - COMPUTER ROOM - DAY'}
+{'S': 'INT. CIA - COMPUTER ROOM - DAY                               '}
 
 
-{'N': "Unfortunately, he's three feet away from it.He stretches "}
+{'N': "Unfortunately, he's three feet away from it.  He stretches "}
 {'N': "his arms but can't reach. "}
 
 
-{'N': 'He blinks, unable to believe this.He curls himself into a '}
+{'N': 'He blinks, unable to believe this.  He curls himself into a '}
 {'N': 'situp and looks up, into the shaft. '}
 
 
-{'S': 'INT. DUCT - DAY'}
+{'S': 'INT. DUCT - DAY                                      '}
 
 
 {'N': 'KRIEGER sees the predicament. '}
 
 
-{'S': 'INT. CIA - COMPUTER ROOM - DAY'}
+{'S': 'INT. CIA - COMPUTER ROOM - DAY                               '}
 
 
-{'N': 'ETHAN gestures to him, pointing to the floor.Slowly, '}
-{'N': "KRIEGER drops him another few feet.Now ETHAN's lower than "}
+{'N': 'ETHAN gestures to him, pointing to the floor.  Slowly, '}
+{'N': "KRIEGER drops him another few feet.  Now ETHAN's lower than "}
 {'N': 'the terminal and still three feet away from it. '}
 {'M': ''}
 {'N': 'He closes his eyes, summoning his strength and does another '}
 {'N': 'situp, bringing himself up right in front of the terminal. '}
 
 
-{'S': 'INT. FIRE TRUCK - DAY'}
+{'S': 'INT. FIRE TRUCK - DAY                                 '}
 
 
 {'N': 'In the fire truck, LUTHER, who is watching on the Visco '}
@@ -5202,57 +5202,57 @@ D 	INTRUSION COUNTERMEASURES ON
 
 
 {'N': 'He cups his hands around the microphone of his headset and '}
-{'N': 'begins to whisper.We hear only the moist, airy sound of his '}
+{'N': 'begins to whisper.  We hear only the moist, airy sound of his '}
 {'N': 'breath, not the words. '}
 
 
 {'C': 'LUTHER '}
-D 	Type this password: AW96B6.Return.Go 
+D 	Type this password: AW96B6.  Return.  Go 
 
 D 	to the files menu, find the NOC list 
 
-D 	file.Open "NOC List."Put your 
+D 	file.  Open "NOC List."  Put your 
 
-D 	diskette in.Double click on the NOC 
+D 	diskette in.  Double click on the NOC 
 
 D 	list. 
 
 
 
-{'S': 'INT. CIA - COMPUTER ROOM - DAY'}
+{'S': 'INT. CIA - COMPUTER ROOM - DAY                               '}
 
 
-{'N': "ETHAN's ear receiver WHISPERS ever-so-slightly.He reaches "}
+{'N': "ETHAN's ear receiver WHISPERS ever-so-slightly.  He reaches "}
 {'N': 'out, to the upside down keyboard, cranes his head to see it'}
 {'N': 'and starts typing, softly. '}
 
 
-{'N': 'The computer HUMS, activated.ETHAN unbuttons his pocket, '}
+{'N': 'The computer HUMS, activated.  ETHAN unbuttons his pocket, '}
 {'N': 'withdraws a 3.5 disk and slides it gently into the floppy '}
 {'N': 'drive. '}
 
 
-{'N': 'The computer accepts it with a soft WHIR.ETHAN winces, even '}
-{'N': 'that soft sound is deafening in these circumstances.'}
+{'N': 'The computer accepts it with a soft WHIR.  ETHAN winces, even '}
+{'N': 'that soft sound is deafening in these circumstances.  '}
 
 
 {'N': 'But no alarms go off. '}
 
 
-{'S': 'INT. FIRE TRUCK - DAY'}
+{'S': 'INT. FIRE TRUCK - DAY                                          '}
 
 
 {'N': 'LUTHER cranes his head again to see the computer terminal '}
-{'N': "through ETHAN's trembling viewpoint.He WHISPERS more "}
+{'N': "through ETHAN's trembling viewpoint.  He WHISPERS more "}
 {'N': 'commands.'}
 
 
 {'C': 'LUTHER '}
-D 	Ok, good!It's scrolling.0K, now we're 
+D 	Ok, good!  It's scrolling.  0K, now we're 
 
-D 	going to download.Edit menu.Select 
+D 	going to download.  Edit menu.  Select 
 
-{'M': '"copy to disc".You\'re downloading. '}
+{'M': '"copy to disc".  You\'re downloading. '}
 D 	When it's all green it's done. 
 
 
@@ -5268,7 +5268,7 @@ D 	DOWNLOADING
 
 
 
-{'S': 'INT. FIRE TRUCK - DAY'}
+{'S': 'INT. FIRE TRUCK - DAY                                           '}
 
 
 {'N': "LUTHER'S eyes widen as he gets his first look, on the Visco "}
@@ -5281,23 +5281,23 @@ D 	Holy mother of God.
 
 
 
-{'S': 'INT. DUCT - DAY'}
+{'S': 'INT. DUCT - DAY                                                '}
 
 
-{'N': 'KRIEGER shakes with the strain of holding the rope.His eyes '}
+{'N': 'KRIEGER shakes with the strain of holding the rope.  His eyes '}
 {'N': 'suddenly widen as he sees something next to him. '}
 
 
-{'N': "It's a rat.KRIEGER stares. The rat stares back.Neither "}
-{'N': "moves.Puzzled by KRIEGER'S lack of response, the rat crawls "}
+{'N': "It's a rat.  KRIEGER stares. The rat stares back.  Neither "}
+{'N': "moves.  Puzzled by KRIEGER'S lack of response, the rat crawls "}
 {'N': 'forward, inquisitive. '}
 
 
-{'N': "KRIEGER's eyes water, his nose twitches.He's about to "}
+{'N': "KRIEGER's eyes water, his nose twitches.  He's about to "}
 {'N': 'sneeze. '}
 
 
-{'S': 'INT. FIRE TRUCK - DAY'}
+{'S': 'INT. FIRE TRUCK - DAY                                          '}
 
 
 {'N': 'LUTHER pulls himself together and WHISPERS another command '}
@@ -5305,24 +5305,24 @@ D 	Holy mother of God.
 
 
 {'C': 'LUTHER '}
-D 	You've done it.Eject it. 
+D 	You've done it.  Eject it. 
 
 
 
-{'S': 'INT. CIA - COMPUTER ROOM - DAY'}
+{'S': 'INT. CIA - COMPUTER ROOM - DAY                             '}
 
 
-{'N': 'The 3.5 disk is ejected from the floppy drive.ETHAN pockets '}
+{'N': 'The 3.5 disk is ejected from the floppy drive.  ETHAN pockets '}
 {'N': 'it and signals to be raised. '}
 
 
-{'N': 'Slowly, his body starts to move up.As it does, a bead of '}
+{'N': 'Slowly, his body starts to move up.  As it does, a bead of '}
 {'N': 'sweat rolls down his nose, balling at the tip. '}
 
 
-{'N': 'ETHAN ignores it.But below him, he sees the floor tiles, '}
+{'N': 'ETHAN ignores it.  But below him, he sees the floor tiles, '}
 {'N': 'four of them lit up under the wheels of the chair at the '}
-{'N': 'computer terminal.'}
+{'N': 'computer terminal.  '}
 
 
 {'N': 'His eyes widen as he realizes something -- '}
@@ -5334,7 +5334,7 @@ D 	You've done it.Eject it.
 {'N': '--and he catches it with his right hand. '}
 
 
-{'S': "INT. CIA - MEN'S - DAY"}
+{'S': "INT. CIA - MEN'S - DAY                                    "}
 
 
 {'N': 'CIA ANALYST crosses corridor from restricted access door to '}
@@ -5350,30 +5350,30 @@ D 	You've done it.Eject it.
 {'N': 'He walks out of the bathroom, crosses corridor to door. '}
 
 
-{'S': 'INT. FIRE TRUCK - DAY'}
+{'S': 'INT. FIRE TRUCK - DAY                                       '}
 
 
 {'N': "On one of LUTHER'S laptops, the blinking cursor starts to "}
-{'N': 'move down a corridor.LUTHER speaks into his microphone. '}
+{'N': 'move down a corridor.  LUTHER speaks into his microphone. '}
 
 
 {'C': 'LUTHER '}
-D 	He's rolling.Get moving! 
+D 	He's rolling.  Get moving! 
 
 
 
-{'S': 'INT. CIA - COMPUTER ROOM - DAY'}
+{'S': 'INT. CIA - COMPUTER ROOM - DAY                             '}
 
 
 {'N': "ETHAN is near the ceiling, but KRIEGER isn't pulling any "}
-{'N': 'more.ETHAN looks up at him, wide-eyed and gestures to pull '}
-{'N': 'him up.KRIEGER shakes his head no. '}
+{'N': 'more.  ETHAN looks up at him, wide-eyed and gestures to pull '}
+{'N': 'him up.  KRIEGER shakes his head no. '}
 
 
 {'N': 'ETHAN gestures -- "WHAT?!" '}
 
 
-{'S': 'INT. FIRE TRUCK - DAY'}
+{'S': 'INT. FIRE TRUCK - DAY                                     '}
 
 
 {'N': 'The cursor is halfway across the screen. '}
@@ -5384,21 +5384,21 @@ D 	Get out of there -- get out of there --
 
 
 
-{'S': 'INT. CIA - COMPUTER ROOM - DAY'}
+{'S': 'INT. CIA - COMPUTER ROOM - DAY                                '}
 
 
-{'N': 'ETHAN still dangles.Holding the rope with one hand, KRIEGER '}
-{'N': 'holds out his other, demanding something.He wants the disk. '}
+{'N': 'ETHAN still dangles.  Holding the rope with one hand, KRIEGER '}
+{'N': 'holds out his other, demanding something.  He wants the disk. '}
 
 
-{'S': 'INT. CIA CORRIDOR/GUARD STATION - DAY'}
+{'S': 'INT. CIA CORRIDOR/GUARD STATION - DAY                             '}
 
 
 {'N': 'The TECHNICIAN makes his way back down the corridor, toward '}
 {'N': 'the computer room. '}
 
 
-{'S': 'INT. FIRE TRUCK - DAY'}
+{'S': 'INT. FIRE TRUCK - DAY                                          '}
 
 
 {'N': 'The blinking cursor is near the edge of the screen and LUTHER'}
@@ -5406,26 +5406,26 @@ D 	Get out of there -- get out of there --
 
 
 {'C': 'LUTHER '}
-D 	He's at the vault - get moving!1 
+D 	He's at the vault - get moving!  1 
 
 D 	yellow, 2 yellows...Toast! 
 
 
 
-{'S': 'INT. CIA - COMPUTER ROOM - DAY'}
+{'S': 'INT. CIA - COMPUTER ROOM - DAY                               '}
 
 
-{'N': 'ETHAN, still hanging upside down, has refused.KRIEGER '}
+{'N': 'ETHAN, still hanging upside down, has refused.  KRIEGER '}
 {'N': 'demands again. '}
 
 
-{'S': 'INT. CORRIDOR/GUARD STATION - DAY'}
+{'S': 'INT. CORRIDOR/GUARD STATION - DAY                                '}
 
 
 {'N': 'The TECHNICIAN passes through the optometric scanner. '}
 
 
-{'S': 'INT. FIRE TRUCK - DAY'}
+{'S': 'INT. FIRE TRUCK - DAY                                         '}
 
 
 {'C': 'LUTHER '}
@@ -5433,13 +5433,13 @@ D 	You're not moving!
 
 
 
-{'S': 'INT. CIA - COMPUTER ROOM - DAY'}
+{'S': 'INT. CIA - COMPUTER ROOM - DAY                                '}
 
 
 {'N': 'ETHAN is hoisted up. '}
 
 
-{'S': 'INT. FIRE TRUCK - DAY'}
+{'S': 'INT. FIRE TRUCK - DAY                                          '}
 
 
 {'C': 'LUTHER '}
@@ -5447,11 +5447,11 @@ D 	Phew! (to himself) NOC list.
 
 
 
-{'S': 'INT. CIA - COMPUTER ROOM - DAY'}
+{'S': 'INT. CIA - COMPUTER ROOM - DAY                                '}
 
 
-{'N': 'ETHAN has the diskette in his mouth.KRIEGER leans down and '}
-{'N': 'takes it.He drops the knife. '}
+{'N': 'ETHAN has the diskette in his mouth.  KRIEGER leans down and '}
+{'N': 'takes it.  He drops the knife. '}
 
 
 {'C': 'KRIEGER '}
@@ -5468,7 +5468,7 @@ D 	We're not outta here yet.
 
 
 {'N': 'The TECHNICIAN deactivates the alarm systems, swings the '}
-{'N': 'door open and comes back into the room.'}
+{'N': 'door open and comes back into the room.  '}
 
 
 {'N': 'He turns to close the door behind him and in so doing just '}
@@ -5479,27 +5479,27 @@ D 	We're not outta here yet.
 {'M': 'CUT TO:'}
 
 
-{'S': 'INT. DUCT - DAY'}
+{'S': 'INT. DUCT - DAY                                           '}
 
 
 {'N': 'ETHAN throws smoke cannisters and he and KRIEGER crawl '}
 {'N': 'frantically back through the duct, the way they came. '}
 
 
-{'S': 'INT. CIA LANGLEY - LOBBY - DAY'}
+{'S': 'INT. CIA LANGLEY - LOBBY - DAY                              '}
 
 
 {'N': 'CLAIRE walks quickly past the GUARDS in the reception area '}
 {'N': 'and out of the building. '}
 
 
-{'S': 'INT. CIA - COMPUTER ROOM - DAY'}
+{'S': 'INT. CIA - COMPUTER ROOM - DAY                               '}
 
 
-{'N': 'The TECHNICIAN enters the room and shuts the door.He sees '}
+{'N': 'The TECHNICIAN enters the room and shuts the door.  He sees '}
 {'N': 'the knife, picks it up, looks at it and then puts it down. '}
 {'N': 'He resumes his work at the computer but when he punches up '}
-{'N': 'his program, something prints out on his screen.Its header: '}
+{'N': 'his program, something prints out on his screen.  Its header: '}
 
 
 D 	KEYSTROKE LOG -- FILE DOWNLOAD 
@@ -5507,16 +5507,16 @@ D 	KEYSTROKE LOG -- FILE DOWNLOAD
 {'M': '11/18/95 9.58 AM'}
 
 
-{'N': "And it goes on.The TECHNICIAN'S eyes widen in disbelief. "}
+{'N': "And it goes on.  The TECHNICIAN'S eyes widen in disbelief. "}
 {'N': 'He spins back in his chair and reaches for the nearest '}
 {'N': 'telephone. '}
 
 
-{'S': 'INT. CIA - COMMUNICATIONS ROOM - DAY'}
+{'S': 'INT. CIA - COMMUNICATIONS ROOM - DAY                           '}
 
 
 {'N': 'In the communications room, tempers are running a little '}
-{'N': 'high.KITTRIDGE is on his feet, berating his staff. '}
+{'N': 'high.  KITTRIDGE is on his feet, berating his staff. '}
 
 
 {'C': 'KITTRIDGE '}
@@ -5524,16 +5524,16 @@ D 	Think, for Christ's sake, you guys are
 
 D 	mired in detail, open your minds, it's 
 
-D 	gotta be staring us in the face!What 
+D 	gotta be staring us in the face!  What 
 
 D 	does Ethan Hunt want?! 
 
 
 
 {'C': 'BARNES '}
-D 	Same thing he wanted in Prague!Same 
+D 	Same thing he wanted in Prague!  Same 
 
-D 	thing he's always wanted!The NOC list! 
+D 	thing he's always wanted!  The NOC list! 
 
 
 
@@ -5551,7 +5551,7 @@ D 	And where is the list vulnerable?
 
 
 
-{'N': 'There is nervous silence for a moment.Behind KITTRIDGE, on '}
+{'N': 'There is nervous silence for a moment.  Behind KITTRIDGE, on '}
 {'N': 'the other side of the room, the phone starts to ring. '}
 
 
@@ -5565,7 +5565,7 @@ D 	Other than here.
 
 
 
-{'N': 'Nervous laughter goes around the table.It fades.On the '}
+{'N': 'Nervous laughter goes around the table.  It fades.  On the '}
 {'N': 'other side of the room, the AGENT who answered the phone '}
 {'N': 'turns, receiver in hand, face ashen. '}
 
@@ -5574,7 +5574,7 @@ D 	Other than here.
 {'N': 'extremely bad news. '}
 
 
-{'N': 'They all turn slowly and look at him.He holds the phone out '}
+{'N': 'They all turn slowly and look at him.  He holds the phone out '}
 {'N': 'to KITTRIDGE, shaking slightly. '}
 
 
@@ -5591,7 +5591,7 @@ D 	Kittridge, yup?
 {'M': 'CUT TO:'}
 
 
-{'S': 'EXT. VIRGINIA ROAD - DAY'}
+{'S': 'EXT. VIRGINIA ROAD - DAY                                   '}
 
 
 {'N': "It may be a HUMAN SCREAM or it may be a SIREN'S WAIL but it "}
@@ -5599,17 +5599,17 @@ D 	Kittridge, yup?
 {'N': 'the headquarters building, making its escape. '}
 
 
-{'S': 'INT. FIRE TRUCK - MOVING - DAY'}
+{'S': 'INT. FIRE TRUCK - MOVING - DAY                                '}
 
 
 {'N': 'LUTHER, KRIEGER, CLAIRE and ETHAN, the victorious team, are '}
-{'N': "in the truck's cab.They exchange looks of massive relief. "}
-{'N': 'But no one speaks.LUTHER, in particular, looks heavily '}
+{'N': "in the truck's cab.  They exchange looks of massive relief. "}
+{'N': 'But no one speaks.  LUTHER, in particular, looks heavily '}
 {'N': "troubled by what they've just done. "}
 
 
 {'N': 'ETHAN looks at CLAIRE, who is jammed into the seat next to '}
-{'N': 'him.She drops her head on his shoulder, exhausted. '}
+{'N': 'him.  She drops her head on his shoulder, exhausted. '}
 
 
 {'N': "KRIEGER, in the driver's seat literally and figuratively. "}
@@ -5621,12 +5621,12 @@ D 	Kittridge, yup?
 {'M': 'CUT TO:'}
 
 
-{'S': 'INT. COMMUNICATIONS ROOM - DAY'}
+{'S': 'INT. COMMUNICATIONS ROOM - DAY                           '}
 
 
 {'N': 'The TECHNICIAN who discovered the theft of the list sits at '}
 {'N': 'one end of the now-empty conference table in the '}
-{'N': 'communications room.KITTRIDGE sits in a chair beside, '}
+{'N': 'communications room.  KITTRIDGE sits in a chair beside, '}
 {'N': 'staring gravely at him. '}
 
 
@@ -5638,7 +5638,7 @@ D 	Kittridge, yup?
 {'N': '(to Barnes) '}
 D 	You and I know about this -- and that's 
 
-D 	where it stops.Understand?It never happened. 
+D 	where it stops.  Understand?  It never happened. 
 
 
 
@@ -5653,20 +5653,20 @@ D 	What about him...?
 {'C': 'KITTRIDGE '}
 D 	I want him manning a radar tower in 
 
-D 	Alaska by the end of the day.Just mail 
+D 	Alaska by the end of the day.  Just mail 
 
 D 	him his clothes. 
 
 
 
-{'N': 'He leaves.Barnes turns to the TECHNICIAN, who looks up at '}
+{'N': 'He leaves.  Barnes turns to the TECHNICIAN, who looks up at '}
 {'N': 'him anxiously. '}
 
 
 {'M': 'CUT TO:'}
 
 
-{'S': 'EXT. LONDON - NIGHT'}
+{'S': 'EXT. LONDON - NIGHT                                       '}
 
 
 {'N': 'Night. This street is a row of nondescript hotels, one after '}
@@ -5677,19 +5677,19 @@ D 	him his clothes.
 {'C': 'LONDON '}
 
 
-{'S': 'INT. LONDON SAFE HOUSE - NIGHT'}
+{'S': 'INT. LONDON SAFE HOUSE - NIGHT                            '}
 
 
 {'N': 'This barely furnished flat is as nondescript as the row of '}
-{'N': "buildings it's in.ETHAN hurriedly digs through an overnight "}
+{'N': "buildings it's in.  ETHAN hurriedly digs through an overnight "}
 {'N': "bag until he finds what he's looking for -- the now-battered "}
-{'N': "bible he's used to contact Max.He flips through the pages "}
+{'N': "bible he's used to contact Max.  He flips through the pages "}
 {'N': 'and crosses the room to his laptop, which is powered up and '}
 {'N': 'waiting on the tiny desk. '}
 
 
 {'N': 'LUTHER, alone in a chair across the room. is seriously '}
-{'N': 'preoccupied.KRIEGER is sprawled-on a ratty sofa, hoisting a '}
+{'N': 'preoccupied.  KRIEGER is sprawled-on a ratty sofa, hoisting a '}
 {'N': 'lager and watching CNN. '}
 
 
@@ -5707,30 +5707,30 @@ D 	Ethan?
 
 
 
-{'N': 'From the desk, ETHAN glances up.Then goes back to the '}
-{'N': 'computer.KRIEGER continues to glare over the sofa back. '}
+{'N': 'From the desk, ETHAN glances up.  Then goes back to the '}
+{'N': 'computer.  KRIEGER continues to glare over the sofa back. '}
 
 
 {'C': "KRIEGER (CONT'D) "}
-D 	Ethan?Oh, 'scuse me Mr. Hunt? 
+D 	Ethan?  Oh, 'scuse me Mr. Hunt? 
 
 
 
-{'N': 'ETHAN ignores him, working.His computer jams with static as '}
-{'N': 'it connects to a BBS.The screen blinks and displays the '}
+{'N': 'ETHAN ignores him, working.  His computer jams with static as '}
+{'N': 'it connects to a BBS.  The screen blinks and displays the '}
 {'N': "familiar Bible group service through which he's contacted "}
-{'N': 'Max.When it asks him which chapter and verse for the '}
+{'N': 'Max.  When it asks him which chapter and verse for the '}
 {'N': 'posting, ETHAN flicks through the Bible, looking for the next '}
-{'N': 'code.Hebegins to type. '}
+{'N': 'code.  He  begins to type. '}
 
 
 D 	MAX -- Now might be an excellent time 
 
 D 	to interpret Scripture face to face. 
 
-D 	Meet on TGV, noon tomorrow.Take 
+D 	Meet on TGV, noon tomorrow.  Take 
 
-D 	seat 27.Bring our mutual friend 
+D 	seat 27.  Bring our mutual friend 
 
 D 	Job.
 
@@ -5755,14 +5755,14 @@ D 	My contact is extremely shy.
 
 
 {'N': 'LUTHER and CLAIRE watch this growing conflict closely. ETHAN '}
-{'N': 'sighs and stands up.KRIEGER pulls out the blue disk he took '}
+{'N': 'sighs and stands up.  KRIEGER pulls out the blue disk he took '}
 {'N': 'from ETHAN in the computer room and waves it in front of him. '}
 
 
 {'C': 'KRIEGER '}
 D 	I don't think you're in any position to 
 
-D 	give orders, do you?Not while I'm 
+D 	give orders, do you?  Not while I'm 
 
 D 	holding this. 
 
@@ -5780,7 +5780,7 @@ D 	OR
 
 D 	Lachez - moi 
 
-D 	OR
+D 	OR  
 
 D 	T'agueue 
 
@@ -5792,14 +5792,14 @@ D 	Don't you mean this?
 
 
 {'N': 'He reaches into his briefcase and pulls out an identical '}
-{'N': 'disk.He puts it back in his jacket pocket. '}
+{'N': 'disk.  He puts it back in his jacket pocket. '}
 
 
 {'N': 'KRIEGER stares for a second. '}
 
 
 {'C': 'KRIEGER'}
-D 	That's not it.That's not the list. 
+D 	That's not it.  That's not the list. 
 
 
 
@@ -5811,12 +5811,12 @@ D 	trick?
 
 
 {'N': 'He holds the jacket pocket wide open, for KRIEGER to look '}
-{'N': 'into.KRIEGER does.The pocket is empty. '}
+{'N': 'into.  KRIEGER does.  The pocket is empty. '}
 
 
 {'C': "ETHAN (CONT'D) "}
 {'N': '(mock surprise) '}
-D 	Where did it go?!It's GONE! 
+D 	Where did it go?!  It's GONE! 
 
 
 
@@ -5839,13 +5839,13 @@ D 	You're thinking, back in the computer
 
 D 	room -- I was up here -- he was down 
 
-D 	there -- .He was carrying two discs. 
+D 	there -- .  He was carrying two discs. 
 
 
 
 {'N': 'While he talks, he rotates his hand, palm away from KRIEGER. '}
-{'N': 'When he rotates it back, the disk is gone again.He holds up '}
-{'N': "his left hand.It's there now. "}
+{'N': 'When he rotates it back, the disk is gone again.  He holds up '}
+{'N': "his left hand.  It's there now. "}
 
 
 {'C': "ETHAN (CONT'D) "}
@@ -5866,14 +5866,14 @@ D 	Where is it?
 
 
 {'C': 'ETHAN '}
-D 	I thought you had it!Do you actually 
+D 	I thought you had it!  Do you actually 
 
 D 	think I'd let you have the NOC list? 
 
 
 
-{'N': 'KRIEGER just stares at him, shaken.CLAIRE laughs.KRIEGER '}
-{'N': 'looks at her.He turns completely red.When he looks back '}
+{'N': 'KRIEGER just stares at him, shaken.  CLAIRE laughs.  KRIEGER '}
+{'N': 'looks at her.  He turns completely red.  When he looks back '}
 {'N': 'at ETHAN, ETHAN holds two disks -- one in each hand. '}
 
 
@@ -5885,14 +5885,14 @@ D 	IÃ­ll cut your throat.
 
 
 {'N': 'He tosses his worthless disk into the trash can and storms '}
-{'N': 'out, SLAMMING the door behind him.ETHAN picks up the Bible '}
+{'N': 'out, SLAMMING the door behind him.  ETHAN picks up the Bible '}
 {'N': 'and sees Drake Hotel. '}
 
 
 {'C': 'CLAIRE '}
-D 	I'm so sorry.Krieger was my call.I've 
+D 	I'm so sorry.  Krieger was my call.  I've 
 
-D 	never worked with him.I'm sorry, Ethan. 
+D 	never worked with him.  I'm sorry, Ethan. 
 
 
 
@@ -5910,7 +5910,7 @@ D 	I'm going to try and get some sleep.
 {'N': 'LUTHER alone. '}
 
 
-{'M': 'ANGLE'}
+{'M': 'ANGLE                                                      '}
 
 
 {'N': 'ETHAN waits a moment, then casually walks to the trash can, '}
@@ -5952,18 +5952,18 @@ D 	open.
 
 
 {'C': 'ETHAN '}
-D 	Exactly, that's your job.Tomorrow on 
+D 	Exactly, that's your job.  Tomorrow on 
 
 D 	the train, you can't let this list get 
 
-D 	out into the open.What's the range of 
+D 	out into the open.  What's the range of 
 
 D 	this thing? 
 
 
 
 {'C': 'LUTHER '}
-D 	It's hard to tell.I'm gonna have to be 
+D 	It's hard to tell.  I'm gonna have to be 
 
 D 	close. 
 
@@ -6001,7 +6001,7 @@ D 	Wisconsin, where federal agents claim to
 
 D 	have broken the brain trust behind an 
 
-D 	international drug ring.For a report we 
+D 	international drug ring.  For a report we 
 
 D 	go live now to CNN correspondent (Joe 
 
@@ -6023,14 +6023,14 @@ D 	Margaret Ethan Hunt and Donald Hunt.
 {'N': 'BACK TO SCENE '}
 
 
-{'N': 'ETHAN looks.CLAIRE behind him. '}
+{'N': 'ETHAN looks.  CLAIRE behind him. '}
 
 
 {'N': 'INSERT - SCREEN '}
 
 
 {'N': 'An OLDER COUPLE, mid-sixties, exit the doors and are led down '}
-{'N': 'the steps of the courthouse in shackles.The Reporter and '}
+{'N': 'the steps of the courthouse in shackles.  The Reporter and '}
 {'N': 'other news crews race up to the door. '}
 
 
@@ -6039,14 +6039,14 @@ D 	Here they are now.
 
 
 
-{'N': 'Camera follows the couple downstairs.Police roughly pull '}
+{'N': 'Camera follows the couple downstairs.  Police roughly pull '}
 {'N': 'them away from the news crews. '}
 
 
 {'N': 'BACK TO SCENE'}
 
 
-{'M': 'INSERT - SCREEN'}
+{'M': 'INSERT - SCREEN                                                 '}
 
 
 {'C': 'REPORTER '}
@@ -6061,13 +6061,13 @@ D 	methcathinone, known on the street as
 {'M': '"cat". '}
 
 
-{'M': 'BACK TO SCENE'}
+{'M': 'BACK TO SCENE                                                   '}
 
 
 {'N': 'ETHAN '}
 
 
-{'M': 'INSERT - SCREEN'}
+{'M': 'INSERT - SCREEN                                                   '}
 
 
 {'C': 'VOICE (O.S.) '}
@@ -6075,7 +6075,7 @@ D 	Similar to methamphetamines, cat is seen
 
 D 	by officials as one of the most powerful 
 
-D 	and dangerous drugs in the world.Some 
+D 	and dangerous drugs in the world.  Some 
 
 D 	thirty-four cat labs have been seized so 
 
@@ -6089,7 +6089,7 @@ D 	network.
 
 
 
-{'N': 'A public official exits the building.The reporter and other '}
+{'N': 'A public official exits the building.  The reporter and other '}
 {'N': 'news crews charge up to him. '}
 
 
@@ -6105,11 +6105,11 @@ D 	please.
 
 
 {'C': 'PUBLIC OFFICIAL '}
-D 	I think it's sad, really.Farmers, 
+D 	I think it's sad, really.  Farmers, 
 
 D 	unless they're a conglomerate, are always 
 
-D 	operating on a paper-thin margin.I'm 
+D 	operating on a paper-thin margin.  I'm 
 
 D 	afraid what we have here is a case of a 
 
@@ -6124,7 +6124,7 @@ D 	money through illegal means.
 {'C': 'REPORTER '}
 D 	That was John Fairchild, the DEA agent in 
 
-D 	charge of this investigation.Officials 
+D 	charge of this investigation.  Officials 
 
 D 	tell me that international law 
 
@@ -6138,7 +6138,7 @@ D 	Wisconsin.
 
 
 
-{'M': 'BACK TO SCENE'}
+{'M': 'BACK TO SCENE                                               '}
 
 
 {'C': 'ETHAN '}
@@ -6151,10 +6151,10 @@ D 	Bastard!
 
 
 
-{'N': 'ETHAN switches TV off and paces away from it.His anger '}
+{'N': 'ETHAN switches TV off and paces away from it.  His anger '}
 {'N': 'erupts and he kicks the old filing cabinets, then picks up a '}
 {'N': 'chair and throws it across the room so it smashes into the '}
-{'N': 'wall.CLAIRE tries to get hold of him, but he shakes her '}
+{'N': 'wall.  CLAIRE tries to get hold of him, but he shakes her '}
 {'N': 'away. '}
 
 
@@ -6183,7 +6183,7 @@ D 	And I'm going to call him.
 
 
 
-{'S': 'EXT. LONDON SAFE HOUSE - RAIN - NIGHT'}
+{'S': 'EXT. LONDON SAFE HOUSE - RAIN - NIGHT                           '}
 
 
 {'N': 'ETHAN comes out from a side street by Liverpool Street '}
@@ -6191,21 +6191,21 @@ D 	And I'm going to call him.
 {'N': 'CLAIRE watches him from the window. '}
 
 
-{'S': 'INT. LONDON TERMINUS RAILWAY STATION - NIGHT'}
+{'S': 'INT. LONDON TERMINUS RAILWAY STATION - NIGHT                        '}
 
 
-{'N': 'ETHAN hurries down escalator.CAMERA MOVES IN on him.He '}
+{'N': 'ETHAN hurries down escalator.  CAMERA MOVES IN on him.  He '}
 {'N': 'crosses to the TELEPHONE BOXES. He starts to dial a number. '}
 
 
 {'M': 'CUT TO:'}
 
 
-{'S': 'INT. CIA - COMMUNICATIONS ROOM - NIGHT'}
+{'S': 'INT. CIA - COMMUNICATIONS ROOM - NIGHT                             '}
 
 
-{'N': 'A light flashes and a phone BUZZES.KITTRIDGE in shirt and '}
-{'N': 'tie, picks up.BARNES and several other AGENTS are '}
+{'N': 'A light flashes and a phone BUZZES.  KITTRIDGE in shirt and '}
+{'N': 'tie, picks up.  BARNES and several other AGENTS are '}
 {'N': 'monitoring newscasts and engaged in various activities '}
 {'N': 'related to the Hunt case. '}
 
@@ -6223,7 +6223,7 @@ D 	I see you've been out visiting the folks.
 
 {'C': 'KITTRIDGE '}
 {'N': '(covers receiver) '}
-D 	It's Hunt.What do you need for a 
+D 	It's Hunt.  What do you need for a 
 
 D 	pinpoint? 
 
@@ -6233,13 +6233,13 @@ D 	Been watching a little T.V., have you?
 
 
 {'N': 'One of the technicians frantically scratches something on a '}
-{'N': 'piece of foolscap and waves it at KITTRIDGE:"80 SECONDS". '}
+{'N': 'piece of foolscap and waves it at KITTRIDGE:  "80 SECONDS". '}
 
 
 {'N': 'KITTRIDGE nods. '}
 
 
-{'S': 'EXT. PHONE BOX - LONDON - NIGHT'}
+{'S': 'EXT. PHONE BOX - LONDON - NIGHT                             '}
 
 
 {'C': 'ETHAN'}
@@ -6249,7 +6249,7 @@ D 	an especially nice touch.
 
 
 
-{'S': 'INT. CIA - COMMUNICATIONS ROOM - NIGHT'}
+{'S': 'INT. CIA - COMMUNICATIONS ROOM - NIGHT                           '}
 
 
 {'N': "At the console, the number 44 flashes on the TECHNICIAN'S "}
@@ -6292,9 +6292,9 @@ D 	against you as well.
 
 
 
-{'N': 'The wall clock is thirty seconds and counting down.The '}
+{'N': 'The wall clock is thirty seconds and counting down.  The '}
 {'N': 'TECHNICIAN is frantically signalling KITTRIDGE to keep '}
-{'N': 'talking.KITTRIDGE is momentarily stuck.Fortunately: '}
+{'N': 'talking.  KITTRIDGE is momentarily stuck.  Fortunately: '}
 
 
 {'C': 'ETHAN (O.S.) '}
@@ -6306,7 +6306,7 @@ D 	Certainly Ethan.
 
 
 
-{'S': 'INT. PHONE BOX - LONDON - NIGHT'}
+{'S': 'INT. PHONE BOX - LONDON - NIGHT                             '}
 
 
 {'C': 'ETHAN '}
@@ -6324,7 +6324,7 @@ D 	down to the county courthouse?
 
 
 
-{'S': 'INT. CIA - COMMUNICATIONS ROOM - NIGHT'}
+{'S': 'INT. CIA - COMMUNICATIONS ROOM - NIGHT                            '}
 
 
 {'C': 'KITTRIDGE '}
@@ -6332,12 +6332,12 @@ D 	I don't know, Ethan. Suppose you tell me?
 
 
 
-{'N': 'Click.ETHAN has hung up.KITTRIDGE looks hopefully to the '}
+{'N': 'Click.  ETHAN has hung up.  KITTRIDGE looks hopefully to the '}
 {'N': 'TECHNICIAN who says: '}
 
 
 {'C': 'BARNES '}
-D 	Lost him.We needed three more seconds. 
+D 	Lost him.  We needed three more seconds. 
 
 
 
@@ -6356,16 +6356,16 @@ D 	He wanted us to know he was in London.
 {'M': 'CUT TO:'}
 
 
-{'S': 'EXT. PHONE BOX - LONDON - NIGHT'}
+{'S': 'EXT. PHONE BOX - LONDON - NIGHT                           '}
 
 
-{'N': 'Close Digital clock.It reads 23.59.Angle widens to show '}
-{'N': 'ETHAN looking at it with grim satisfaction.He opens the '}
+{'N': 'Close Digital clock.  It reads 23.59.  Angle widens to show '}
+{'N': 'ETHAN looking at it with grim satisfaction.  He opens the '}
 {'N': 'door of the phone booth and almost SMACKS right into -- '}
 
 
 {'N': '--the pale, weary, ghostlike figure of a man standing just '}
-{'N': 'inches in front of him.Startled, ETHAN looks up, but what '}
+{'N': 'inches in front of him.  Startled, ETHAN looks up, but what '}
 {'N': 'he sees shakes him to the core. '}
 
 
@@ -6380,7 +6380,7 @@ D 	He wanted us to know he was in London.
 D 	You're a hard man to catch up with. 
 
 {'M': ''}
-{'N': "PHELPS falls towards ETHAN.ETHAN tries to speak, but can't "}
+{'N': "PHELPS falls towards ETHAN.  ETHAN tries to speak, but can't "}
 {'N': 'even form words. '}
 
 
@@ -6388,7 +6388,7 @@ D 	You're a hard man to catch up with.
 
 
 {'N': 'ETHAN and PHELPS opposite one another in a booth, PHELPS '}
-{'N': 'looking clammy and listing to one side.But the banter '}
+{'N': 'looking clammy and listing to one side.  But the banter '}
 {'N': 'seems friendly and very quick - two friends and close '}
 {'N': "colleagues able to follow one another's reasoning easily, "}
 {'N': "finishing each other's sentences: "}
@@ -6447,27 +6447,27 @@ D 	I remember..
 
 
 {'N': 'PHELPS smiles warmly, has to steady himself to maintain an '}
-{'N': 'upright position.He opens a medicine bottle and takes the '}
+{'N': 'upright position.  He opens a medicine bottle and takes the '}
 {'N': 'pain killers. '}
 
 
 {'C': 'ETHAN '}
-D 	Jim, who do you think you're kidding?A 
+D 	Jim, who do you think you're kidding?  A 
 
-D 	doctor's gotta look at that.You can't 
+D 	doctor's gotta look at that.  You can't 
 
 D 	sit up straight. 
 
 
 
 {'C': 'PHELPS '}
-D 	I can sit up straight.I just can't..sit 
+D 	I can sit up straight.  I just can't..sit 
 
-D 	up straight very well.It's not 
+D 	up straight very well.  It's not 
 
-D 	important!I saw who shot me.Ethan, I 
+D 	important!  I saw who shot me.  Ethan, I 
 
-D 	saw the mole.It was Kittridge. 
+D 	saw the mole.  It was Kittridge. 
 
 {'N': '(a fist into the table) '}
 D 	Kittridge! 
@@ -6478,7 +6478,7 @@ D 	Kittridge!
 
 
 {'C': 'ETHAN '}
-D 	Kitteridge.Oh my god!Kittridge is the 
+D 	Kitteridge.  Oh my god!  Kittridge is the 
 
 D 	mole? 
 
@@ -6494,7 +6494,7 @@ D 	How did Kittridge do it?..
 
 
 
-{'S': 'EXT. CHARLES BRIDGE - FLASHBACK - NIGHT'}
+{'S': 'EXT. CHARLES BRIDGE - FLASHBACK - NIGHT                           '}
 
 
 {'N': "A reprise of PHELPS'S narrative only now ETHAN'S telling it "}
@@ -6544,7 +6544,7 @@ D 	How did he do Hannah?
 
 
 {'C': 'ETHAN VO '}
-D 	No.No.He could've taken out Hannah 
+D 	No.  No.  He could've taken out Hannah 
 
 D 	himself. 
 
@@ -6560,7 +6560,7 @@ D 	himself.
 
 
 {'C': 'ETHAN'}
-D 	Why, Jim?Why?
+D 	Why, Jim?  Why?
 
 
 
@@ -6570,21 +6570,21 @@ D 	Why, Jim?Why?
 {'C': 'PHELPS'}
 D 	..when you think about it, Ethan, it was
 
-D 	inevitable..no more Cold War.No more
+D 	inevitable..no more Cold War.  No more
 
 D 	secrets you keep from everyone but
 
 D 	yourself, operations you answer to no one
 
-D 	but yourself.Then one morning you wake
+D 	but yourself.  Then one morning you wake
 
 D 	up and find out the President of the
 
 D 	United States is running the country -
 
-D 	without your permission.The son-of-a-
+D 	without your permission.  The son-of-a-
 
-D 	bitch!How dare he?You realize itÃ­s
+D 	bitch!  How dare he?  You realize itÃ­s
 
 D 	over, youÃ­re an obsolete piece of
 
@@ -6592,14 +6592,14 @@ D 	hardware not worth upgrading, youÃ­ve got
 
 D 	a lousy marriage and sixty-two grand a 
 
-D 	year.Kittridge, weÃ­ll go after that no
+D 	year.  Kittridge, weÃ­ll go after that no
 
 D 	good son-of-a-bitch, big time!
 
 
 
 {'C': 'ETHAN'}
-D 	We donÃ­t have to, Jim.HeÃ­ll come after
+D 	We donÃ­t have to, Jim.  HeÃ­ll come after
 
 D 	us.
 
@@ -6611,14 +6611,14 @@ D 	WhatÃ­s going to make him do that?
 
 
 {'C': 'ETHAN'}
-D 	What he didnÃ­t get in Prague.The NOC
+D 	What he didnÃ­t get in Prague.  The NOC
 
 D 	list.
 
 
 
 {'C': 'PHELPS'}
-D 	Jesus, Ethan.Good for you.
+D 	Jesus, Ethan.  Good for you.
 
 
 
@@ -6630,7 +6630,7 @@ D 	Paris.
 
 
 {'C': 'PHELPS'}
-D 	Tight security.No guns.Real plus.
+D 	Tight security.  No guns.  Real plus.
 
 
 
@@ -6641,7 +6641,7 @@ D 	Max, Max has agreed to deliver Job to me.
 
 D 	IÃ­ll have Claire and Luther Stickell with
 
-D 	me on the train.Marcel Krieger will
+D 	me on the train.  Marcel Krieger will
 
 D 	have helicopter transport waiting in
 
@@ -6649,7 +6649,7 @@ D 	Paris.
 
 
 
-{'N': 'PHELPS looks away.Seems badly shaken.'}
+{'N': 'PHELPS looks away.  Seems badly shaken.'}
 
 
 {'C': 'ETHAN'}
@@ -6666,7 +6666,7 @@ D 	the rain just outside the safe
 
 D 	house..alive and beautiful..and thinking
 
-D 	IÃ­m dead and gone.God knows what sheÃ­s
+D 	IÃ­m dead and gone.  God knows what sheÃ­s
 
 D 	had to do forget about me to keep going
 
@@ -6674,14 +6674,14 @@ D 	and get the job done, I..
 
 
 
-{'N': 'PHELPS breaks off abruptly.Apparently some inner struggle'}
-{'N': 'over this threatens to overwhelm him.Then, controlling it:'}
+{'N': 'PHELPS breaks off abruptly.  Apparently some inner struggle'}
+{'N': 'over this threatens to overwhelm him.  Then, controlling it:'}
 
 
 {'C': 'PHELPS'}
-D 	- no.She canÃ­t know about me.No one
+D 	- no.  She canÃ­t know about me.  No one
 
-D 	can.Not til this is over.ThereÃ­s too
+D 	can.  Not til this is over.  ThereÃ­s too
 
 D 	much at stake, Ethan.
 
@@ -6700,7 +6700,7 @@ D 	I usually am.
 {'C': 'ETHAN'}
 D 	Once we leave the safehouse, get in there
 
-D 	and crash.IÃ­ll call you from Paris.
+D 	and crash.  IÃ­ll call you from Paris.
 
 
 
@@ -6723,12 +6723,12 @@ D 	Good luck.
 
 
 {'N': "The door to CLAIRE'S room in the safe house opens, throwing a"}
-{'N': 'shaft of light over her form.ETHAN creeps in and closes the'}
+{'N': 'shaft of light over her form.  ETHAN creeps in and closes the'}
 {'N': 'door behind him.'}
 
 
-{'N': 'It is approximately one a.m. .CLAIRE is huddled in the'}
-{'N': 'corner.ETHAN enters and stands looking at her.'}
+{'N': 'It is approximately one a.m. .  CLAIRE is huddled in the'}
+{'N': 'corner.  ETHAN enters and stands looking at her.'}
 
 
 {'C': 'CLAIRE'}
@@ -6738,7 +6738,7 @@ D 	What happened?
 
 {'C': 'ETHAN'}
 {'N': '(walks towards her)'}
-D 	I sent the message to Max.WeÃ­re on for
+D 	I sent the message to Max.  WeÃ­re on for
 
 D 	tomorrow.
 
@@ -6763,8 +6763,8 @@ D 	Yes.......come here....viens pres moi...
 {'N': 'She draws him down by his hand to kiss her.'}
 
 
-{'N': 'He kisses her again, more fully.She wraps an arm around him'}
-{'N': 'and he holds onto the kiss.The room appears to revolve'}
+{'N': 'He kisses her again, more fully.  She wraps an arm around him'}
+{'N': 'and he holds onto the kiss.  The room appears to revolve'}
 {'N': 'around them.'}
 
 
@@ -6783,27 +6783,27 @@ D 	Yes.......come here....viens pres moi...
 
 
 {'N': 'TWO AGENTS immediately flank KITTRIDGE at the bottom and fall'}
-{'N': 'into step alongside, ready to brief him.One of them holds'}
+{'N': 'into step alongside, ready to brief him.  One of them holds'}
 {'N': 'out a small package with "for Job" written on it.'}
 
 
-{'N': 'KITTRIDGE looks at him.He rips it open.A note inside'}
+{'N': 'KITTRIDGE looks at him.  He rips it open.  A note inside'}
 {'N': 'simply says:'}
 
 
-{'M': 'TGV.LONDON TERMINUS'}
+{'M': 'TGV.  LONDON TERMINUS'}
 {'M': 'Noon.'}
 
 
-{'N': 'KITTRIDGE looks at his watch.ItÃ\xads ten to twelve.'}
+{'N': 'KITTRIDGE looks at his watch.  ItÃ\xads ten to twelve.'}
 
 
 {'N': 'As he reads the note, something else falls out of the'}
 {'N': 'envelope and CLUNKS to the ground.'}
 
 
-{'N': 'He bends over, picks it up, and looks at it.Cradled in his'}
-{'N': 'hand, we canÃ\xadt see what it is.But to him, itÃ\xads very'}
+{'N': 'He bends over, picks it up, and looks at it.  Cradled in his'}
+{'N': 'hand, we canÃ\xadt see what it is.  But to him, itÃ\xads very'}
 {'N': 'interesting.'}
 
 
@@ -6822,7 +6822,7 @@ D 	Twenty, twenty-five minutes.
 
 
 {'C': 'KITTRIDGE'}
-D 	YouÃ­ve got ten.Move!
+D 	YouÃ­ve got ten.  Move!
 
 
 
@@ -6843,12 +6843,12 @@ D 	YouÃ­ve got ten.Move!
 
 
 {'N': 'The business car is similar to the one ETHAN saw on the first'}
-{'N': 'train they look across Europe.ItÃ\xads crowded, maybe THIRTY'}
+{'N': 'train they look across Europe.  ItÃ\xads crowded, maybe THIRTY'}
 {'N': 'MEN and WOMEN in suits, most of them already immersed in work'}
 {'N': 'on their laptops or talking on their cellular phones.'}
 
 
-{'N': 'One such woman is MAX in her seat, number 27.MATTHIAS and'}
+{'N': 'One such woman is MAX in her seat, number 27.  MATTHIAS and'}
 {'N': 'the OTHER MAN, last seen dropping off ETHAN in Prague, sit'}
 {'N': 'across from her, her laptop is on the table next to her, in'}
 {'N': 'her briefcase.'}
@@ -6868,7 +6868,7 @@ D 	Twenty minutes.
 
 
 {'N': 'A MAN puts a cellular phone and a radio/cassette machine on'}
-{'N': 'the bunk-bed.We only see his hands as he proceeds to take'}
+{'N': 'the bunk-bed.  We only see his hands as he proceeds to take'}
 {'N': 'the parts of a pistol out of the cassette machine and'}
 {'N': 'assemble a wicked-looking pistol from the seemingly innocuous'}
 {'N': 'electrical parts inside.'}
@@ -6877,9 +6877,9 @@ D 	Twenty minutes.
 {'S': 'INT. BUSINESS CAR - MOVING - DAY'}
 
 
-{'N': 'MAX is reading the Financial Times.MATTHIAS is looking out'}
-{'N': 'of the window.A cellular phone rings inside MAXÃ\xads briefcase'}
-{'N': 'in front of MATTHIAS.MATTHIAS takes the phone out.'}
+{'N': 'MAX is reading the Financial Times.  MATTHIAS is looking out'}
+{'N': 'of the window.  A cellular phone rings inside MAXÃ\xads briefcase'}
+{'N': 'in front of MATTHIAS.  MATTHIAS takes the phone out.'}
 
 
 {'C': 'MATTHIAS'}
@@ -6898,26 +6898,26 @@ D 	This wasnÃ­t what we discussed.
 
 {'C': 'ETHAN (O.S.)'}
 {'N': '(on phone) '}
-D 	My apologies Max.CouldnÃ­t be helped.
+D 	My apologies Max.  CouldnÃ­t be helped.
 
 D 	ThereÃ­s a piece of black cloth under your
 
-D 	seat.Tear it away and youÃ­ll find the
+D 	seat.  Tear it away and youÃ­ll find the
 
 D 	disk.
 
 
 
 {'N': 'MAX reaches down and does as instructed, finding the computer'}
-{'N': 'disk as promised.She hands it to Matthias who strips off'}
+{'N': 'disk as promised.  She hands it to Matthias who strips off'}
 {'N': 'the velcro covering and slots it into the drive next to the'}
-{'N': 'computer in the briefcase.He boots it up quickly and turns'}
+{'N': 'computer in the briefcase.  He boots it up quickly and turns'}
 {'N': 'the briefcase containing the computer toward MAX for her to'}
 {'N': 'see.'}
 
 
 {'N': 'One half of the screen, with the heading "CRYPTONYM AND'}
-{'N': 'OPERATIONAL SPECS" is already jammed with information.The'}
+{'N': 'OPERATIONAL SPECS" is already jammed with information.  The'}
 {'N': 'blank second half of the screen acquires the title "TRUE'}
 {'N': 'NAME," and information starts filling itself in rapidly --'}
 {'N': 'names, addresses, identities.'}
@@ -6932,14 +6932,14 @@ D 	IDENTITY MATCH
 
 {'C': 'MAX'}
 {'N': '(back into phone) '}
-D 	Ha, dear boy!I do hope this doesnÃ­t
+D 	Ha, dear boy!  I do hope this doesnÃ­t
 
 D 	prelude a meeting in private.
 
 
 
 {'C': 'ETHAN (O.S.)'}
-D 	It doesnÃ­t, dear girl.as long as you
+D 	It doesnÃ­t, dear girl.  as long as you
 
 D 	tell me where the money is.
 
@@ -6948,9 +6948,9 @@ D 	tell me where the money is.
 {'C': 'MAX'}
 D 	The possibility alone is worth ten
 
-D 	million.Baggage car, rack 3.Silver
+D 	million.  Baggage car, rack 3.  Silver
 
-D 	briefcase.Combination 314.
+D 	briefcase.  Combination 314.
 
 
 
@@ -6960,7 +6960,7 @@ D 	What about Job?
 
 
 {'C': 'MAX'}
-D 	I wouldnÃ­t worry about him.Once youÃ­ve
+D 	I wouldnÃ­t worry about him.  Once youÃ­ve
 
 D 	got the money -- heÃ­ll find you.
 
@@ -6970,24 +6970,24 @@ D 	got the money -- heÃ­ll find you.
 
 
 {'N': 'LUTHER, three rows behind in another seat, is at work on a'}
-{'N': 'laptop of his own.A mobile Nokia phone is beside it - red'}
+{'N': 'laptop of his own.  A mobile Nokia phone is beside it - red'}
 {'N': 'light flashing.'}
 
 
 {'S': 'INT. SECOND CLASS CAR - MOVING (ANOTHER ANGLE) - DAY'}
 
 
-{'N': 'KITTRIDGE and BARNES move through the second class car.They'}
+{'N': 'KITTRIDGE and BARNES move through the second class car.  They'}
 {'N': 'turn around and start working their way back again.'}
 
 
-{'N': 'At the front, CLAIRE is getting desperate.A LARGE MAN'}
+{'N': 'At the front, CLAIRE is getting desperate.  A LARGE MAN'}
 {'N': 'passes through the door behind her.'}
 
 
 {'N': 'The LARGE MAN continues back, nearing KITTRIDGE and BARNES,'}
 {'N': 'who are forced to step into empty seats on the side in order'}
-{'N': 'to make room for him to pass.As they move by him, their'}
+{'N': 'to make room for him to pass.  As they move by him, their'}
 {'N': 'vision is momentarily blocked --'}
 
 
@@ -7017,9 +7017,9 @@ D 	WhatÃ­s Hunt doing on the TGV?
 
 
 {'C': 'KITTRIDGE'}
-D 	High speed train.No-one gets on.No-
+D 	High speed train.  No-one gets on.  No-
 
-D 	one gets off.High security.Good place
+D 	one gets off.  High security.  Good place
 
 D 	for a pass off to Max.
 
@@ -7059,19 +7059,19 @@ D 	Ethan...Kittridge is on the train.
 
 
 {'C': 'ETHAN'}
-D 	Kittridge is Job.Max delivered.How
+D 	Kittridge is Job.  Max delivered.  How
 
 D 	far is he from Luther?
 
 
 
 {'C': 'CLAIRE'}
-D 	Two cars.Where are you?
+D 	Two cars.  Where are you?
 
 
 
 {'C': 'ETHAN'}
-D 	You are my eyes.Stay with him.
+D 	You are my eyes.  Stay with him.
 
 
 
@@ -7107,9 +7107,9 @@ D 	IÃ­ll be there.
 
 
 {'N': 'MAX hangs up and hands the phone to MATTHIAS who slots it'}
-{'N': 'into the briefcase next to the computer.He dials a number'}
-{'N': 'on the keyboard and pushes send.The computer emits a DIAL'}
-{'N': 'TONE.Her computer flashes a message.'}
+{'N': 'into the briefcase next to the computer.  He dials a number'}
+{'N': 'on the keyboard and pushes send.  The computer emits a DIAL'}
+{'N': 'TONE.  Her computer flashes a message.'}
 
 
 D 	MODEM DENIED
@@ -7184,9 +7184,9 @@ D 	what Max looks like.
 {'C': 'BARNES'}
 D 	Maybe we donÃ­t have to know what he looks
 
-D 	like.If heÃ­s got that list, heÃ­s going
+D 	like.  If heÃ­s got that list, heÃ­s going
 
-D 	to want to check it.We should be
+D 	to want to check it.  We should be
 
 D 	looking for laptops.
 
@@ -7200,10 +7200,10 @@ D 	Good idea.
 {'S': 'INT. BUSINESS CAR - (LUTHER) - MOVING - DAY'}
 
 
-{'N': 'LUTHER sees them coming.He smacks the laptop shut and'}
+{'N': 'LUTHER sees them coming.  He smacks the laptop shut and'}
 {'N': 'positions his jamming phone on the table to point at MaxÃ\xads'}
-{'N': 'computer.He gets up, taking his computer with him, headed'}
-{'N': 'for the rear of the car.A WAITER sees the phone and goes'}
+{'N': 'computer.  He gets up, taking his computer with him, headed'}
+{'N': 'for the rear of the car.  A WAITER sees the phone and goes'}
 {'N': 'after LUTHER with it.'}
 
 
@@ -7212,8 +7212,8 @@ D 	Excuse me, Sir, your telephone...
 
 
 
-{'N': 'OTHER PASSENGERSÃ\xad phones nearby go haywire.LUTHER looks to'}
-{'N': 'MAX.Exits car.'}
+{'N': 'OTHER PASSENGERSÃ\xad phones nearby go haywire.  LUTHER looks to'}
+{'N': 'MAX.  Exits car.'}
 
 
 {'S': 'INT. BUSINESS CAR - MOVING - (MAX) - DAY'}
@@ -7233,28 +7233,28 @@ D 	ItÃ­s working.
 
 
 {'C': 'MAX'}
-D 	Phew!WeÃ­ve got five minutes...
+D 	Phew!  WeÃ­ve got five minutes...
 
 
 
 {'S': 'INT. BUSINESS CAR - MOVING - DAY'}
 
 
-{'N': 'LUTHER shuts himself in the bathroom.The OTHER MAN follows'}
-{'N': 'him, tries the door and waits his moment.The OTHER MAN'}
-{'N': 'bangs against the door.LUTHER braces himself against the'}
+{'N': 'LUTHER shuts himself in the bathroom.  The OTHER MAN follows'}
+{'N': 'him, tries the door and waits his moment.  The OTHER MAN'}
+{'N': 'bangs against the door.  LUTHER braces himself against the'}
 {'N': 'door.'}
 
 
 {'S': 'INT. ANOTHER CAR - MOVING - DAY'}
 
 
-{'N': 'CLAIRE walking through.She pauses to listen in her'}
+{'N': 'CLAIRE walking through.  She pauses to listen in her'}
 {'N': 'earpiece.'}
 
 
 {'C': 'ETHAN (O/S)'}
-D 	IÃ­ve got the money.Meet me in the
+D 	IÃ­ve got the money.  Meet me in the
 
 D 	baggage car.
 
@@ -7267,9 +7267,9 @@ D 	baggage car.
 
 
 {'N': 'KITTRIDGE and BARNES are looking at the people in the'}
-{'N': 'Business Car behind MAX.CLAIRE passes them by heading for'}
-{'N': 'the last executive coach to get to Club and Baggage Car.She'}
-{'N': 'passes the OTHER MAN at the bathroom door.He follows her.'}
+{'N': 'Business Car behind MAX.  CLAIRE passes them by heading for'}
+{'N': 'the last executive coach to get to Club and Baggage Car.  She'}
+{'N': 'passes the OTHER MAN at the bathroom door.  He follows her.'}
 
 
 {'C': 'KITTRIDGE'}
@@ -7288,11 +7288,11 @@ D 	Get this door open.
 
 {'N': 'CLAIRE moves swiftly through the last car (after MAXÃ\xadS car).'}
 {'N': 'up into the Club Car and opens the door leading to the'}
-{'N': 'BAGGAGE CAR.Goes in.The door slams shut.'}
+{'N': 'BAGGAGE CAR.  Goes in.  The door slams shut.'}
 
 
 {'C': 'KITTRIDGE'}
-D 	Hello, Luther.WhereÃ­s Hunt?
+D 	Hello, Luther.  WhereÃ­s Hunt?
 
 
 
@@ -7311,18 +7311,18 @@ D 	Where?
 {'S': 'INT. REAR CAR - MOVING - DAY'}
 
 
-{'N': 'CLAIRE enters a little breathless.Spotting PHELPÃ\xadS profile'}
+{'N': 'CLAIRE enters a little breathless.  Spotting PHELPÃ\xadS profile'}
 {'N': 'in the darkened car.'}
 
 
 {'C': 'CLAIRE'}
-D 	EthanÃ­s right behind me.Listen to me
+D 	EthanÃ­s right behind me.  Listen to me
 
-D 	Jim.Is it such a good idea to kill him?
+D 	Jim.  Is it such a good idea to kill him?
 
-D 	We take the money.Ethan takes the
+D 	We take the money.  Ethan takes the
 
-D 	blame.No-one else has seen you alive.
+D 	blame.  No-one else has seen you alive.
 
 D 	No-one will believe him.
 
@@ -7341,7 +7341,7 @@ D 	Ethan?
 
 
 {'C': 'PHELPS'}
-D 	Yes.Ethan Hunt, darling.Remember him?
+D 	Yes.  Ethan Hunt, darling.  Remember him?
 
 
 
@@ -7354,9 +7354,9 @@ D 	You knew about Jim?
 
 
 {'C': 'PHELPS'}
-D 	Course he did.Just exactly when he knew
+D 	Course he did.  Just exactly when he knew
 
-D 	is something of a question.Before or
+D 	is something of a question.  Before or
 
 D 	after I showed in London, mind telling
 
@@ -7365,14 +7365,14 @@ D 	me, Ethan?
 
 
 {'C': 'ETHAN'}
-D 	Before London.But after you took the
+D 	Before London.  But after you took the
 
 D 	Bible out of the Drake Hotel in Chicago.
 
 
 
 {'C': 'PHELPS'}
-D 	They stamped it, didnÃ­t they?Those damn
+D 	They stamped it, didnÃ­t they?  Those damn
 
 D 	Gideons.
 
@@ -7382,7 +7382,7 @@ D 	Gideons.
 
 
 {'C': 'PHELPS'}
-D 	Two minutes til Krieger shows.ThisÃ­ll
+D 	Two minutes til Krieger shows.  ThisÃ­ll
 
 D 	have to be quicker than IÃ­d like.
 
@@ -7396,7 +7396,7 @@ D 	Ethan, if you knew about Jim?..Why..
 
 
 {'C': 'PHELPS'}
-D 	Why the masquerade?Why take the risk?
+D 	Why the masquerade?  Why take the risk?
 
 D 	Well, Claire, youÃ­ve asked the question
 
@@ -7410,7 +7410,7 @@ D 	I knew about Jim.
 
 
 {'C': 'PHELPS'}
-D 	But, he didnÃ­t know about you.In all
+D 	But, he didnÃ­t know about you.  In all
 
 D 	fairness, Ethan, Claire was never
 
@@ -7418,13 +7418,13 @@ D 	convinced her charms would work with you.
 
 D 	But I was supremely confident - having
 
-D 	tastes the goods."Thou shall not covet
+D 	tastes the goods.  "Thou shall not covet
 
-D 	thy NeighbourÃ­s wife", Ethan.Oh, Ethan
+D 	thy NeighbourÃ­s wife", Ethan.  Oh, Ethan
 
 D 	is in love with you, Claire, make no
 
-D 	mistake about it.And like all the 
+D 	mistake about it.  And like all the 
 
 D 	worldÃ­s lovers, heÃ­s tortured by the
 
@@ -7438,7 +7438,7 @@ D 	feel the same way I do?"
 
 
 {'C': 'PHELPS'}
-D 	Well Claire do you?Have you been
+D 	Well Claire do you?  Have you been
 
 D 	exploiting his feelings or returning
 
@@ -7497,7 +7497,7 @@ D 	Keep counting Claire.
 
 
 {'C': 'CLAIRE'}
-D 	It was me.I did it.
+D 	It was me.  I did it.
 
 
 
@@ -7517,12 +7517,12 @@ D 	All ten million.
 
 
 {'C': 'PHELPS'}
-D 	Fold it.Fold it tight.
+D 	Fold it.  Fold it tight.
 
 
 
 {'C': 'ETHAN'}
-D 	ArenÃ­t you going to thank me Jim.Ten
+D 	ArenÃ­t you going to thank me Jim.  Ten
 
 D 	million is better than six.
 
@@ -7531,13 +7531,13 @@ D 	million is better than six.
 {'C': 'PHELPS'}
 D 	DonÃ­t flatter yourself - six was for
 
-D 	Eastern Europe.You made a lousy deal -
+D 	Eastern Europe.  You made a lousy deal -
 
-D 	ten for the world?What is that?But I
+D 	ten for the world?  What is that?  But I
 
-D 	needed you for the transfer with Max.I
+D 	needed you for the transfer with Max.  I
 
-D 	got a little extra change;and you got a
+D 	got a little extra change;  and you got a
 
 D 	little extra too.
 
@@ -7547,12 +7547,12 @@ D 	little extra too.
 
 
 {'C': 'PHELPS'}
-D 	Sorry Ethan.Times up.Say goodbye.
+D 	Sorry Ethan.  Times up.  Say goodbye.
 
 
 
 {'C': 'ETHAN'}
-D 	YouÃ­re wrong about one thing.IÃ­m not
+D 	YouÃ­re wrong about one thing.  IÃ­m not
 
 D 	the only one whoÃ­s seen you alive.
 
@@ -7583,9 +7583,9 @@ D 	DonÃ­t Jim.
 
 
 {'C': 'PHELPS'}
-D 	Now we donÃ­t have to eliminate him?You
+D 	Now we donÃ­t have to eliminate him?  You
 
-D 	like that, donÃ­t you Claire?DonÃ­t you?
+D 	like that, donÃ­t you Claire?  DonÃ­t you?
 
 
 
@@ -7602,15 +7602,15 @@ D 	Jim, itÃ­s over.
 {'C': 'PHELPS'}
 D 	Ethan - IÃ­ve always taught you, nothing
 
-D 	can be more dangerous than the truth.It
+D 	can be more dangerous than the truth.  It
 
 D 	can kill you.
 
 
 
-{'N': 'PHELPS shoots CLAIRE.Struggle between PHELPS and ETHAN.'}
-{'N': 'The gun is lost.PHELPS beats ETHAN to the ground.His'}
-{'N': 'watch alarm beeps rapidly.He turns, goes up the stairs'}
+{'N': 'PHELPS shoots CLAIRE.  Struggle between PHELPS and ETHAN.'}
+{'N': 'The gun is lost.  PHELPS beats ETHAN to the ground.  His'}
+{'N': 'watch alarm beeps rapidly.  He turns, goes up the stairs'}
 {'N': 'and...'}
 
 
@@ -7643,7 +7643,7 @@ D 	I always have, Claire..
 
 
 
-{'N': 'CLAIRE dies.ETHAN looks to ladder hatch and climbs ladder. '}
+{'N': 'CLAIRE dies.  ETHAN looks to ladder hatch and climbs ladder. '}
 
 
 {'S': "INT. REAR CAR - ENGINEER'S SECTION - DAY"}
@@ -7658,9 +7658,9 @@ D 	I always have, Claire..
 {'S': 'EXT. ROOF OF TRAIN - DAY'}
 
 
-{'N': '-- halfway out onto the roof of the train.He reaches into '}
+{'N': '-- halfway out onto the roof of the train.  He reaches into '}
 {'N': 'his jacket pocket and pulls out a suction cup with a handle '}
-{'N': 'on the end of it.He SMACKS the suction cup down on the roof '}
+{'N': 'on the end of it.  He SMACKS the suction cup down on the roof '}
 {'N': 'and pulls himself the rest of the way out. '}
 
 
@@ -7668,9 +7668,9 @@ D 	I always have, Claire..
 {'N': 'smooth surface of the train. '}
 
 
-{'N': 'Now for the tough part.Using the suction cups, PHELPS '}
+{'N': 'Now for the tough part.  Using the suction cups, PHELPS '}
 {'N': 'slowly pulls himself forward, a foot at a time, pulling and '}
-{'N': 'replanting the cups as he goes.'}
+{'N': 'replanting the cups as he goes.  '}
 
 
 {'N': 'He drags himself over the length of the final car, to the '}
@@ -7682,26 +7682,26 @@ D 	I always have, Claire..
 {'N': 'belt.'}
 
 
-{'N': 'He looks up, scanning the sky behind the train.From out '}
+{'N': 'He looks up, scanning the sky behind the train.  From out '}
 {'N': 'of the fog, a helicopter approaches. '}
 
 
 {'N': 'PHELPS turns and looks ahead, in the direction the train is '}
-{'N': 'going.In the distance, he can see the chunnel approaching '}
-{'N': 'the tunnel under the English Channel.His eyes widen. '}
+{'N': 'going.  In the distance, he can see the chunnel approaching '}
+{'N': 'the tunnel under the English Channel.  His eyes widen. '}
 
 
 {'S': 'INT. HELICOPTER - DAY'}
 
 
-{'N': 'KRIEGER is at the controls.He sees the approaching tunnel '}
+{'N': 'KRIEGER is at the controls.  He sees the approaching tunnel '}
 {'N': 'as well. '}
 
 
 {'S': 'EXT. ROOF OF TRAIN - DAY'}
 
 
-{'N': 'PHELPS crawls like hell to get into position.Looking up, he '}
+{'N': 'PHELPS crawls like hell to get into position.  Looking up, he '}
 {'N': 'sees KRIEGER pointing frantically behind him. PHELPS turns. '}
 
 
@@ -7714,17 +7714,17 @@ D 	I always have, Claire..
 
 {'N': 'ETHAN, behind him, is in a far more precarious position. '}
 {'N': 'Without goggles or suction cups, he has to use his fingers to '}
-{'N': 'grab small holes on the roof.'}
+{'N': 'grab small holes on the roof.  '}
 
 
 {'N': 'He is flipped over by the wind, ending up facing the other '}
-{'N': 'way.Loses his grip and is blown backwards over the roof. '}
+{'N': 'way.  Loses his grip and is blown backwards over the roof. '}
 
 
 {'S': 'INT. HELICOPTER - DAY'}
 
 
-{'N': 'KRIEGER sees the Chunnel entrance approaching.He gestures '}
+{'N': 'KRIEGER sees the Chunnel entrance approaching.  He gestures '}
 {'N': 'to PHELPS and tries to move the cable closer to him, passing '}
 {'N': 'over PHELPS and then back to him. '}
 
@@ -7751,7 +7751,7 @@ D 	I always have, Claire..
 {'S': 'INT. HELICOPTER - DAY'}
 
 
-{'N': 'KRIEGER sees the tunnel, only seconds away now.He paws at '}
+{'N': 'KRIEGER sees the tunnel, only seconds away now.  He paws at '}
 {'N': 'the controls, jerking back desperately on a certain lever. '}
 
 
@@ -7759,7 +7759,7 @@ D 	I always have, Claire..
 
 
 {'N': 'PHELPS kicks ETHAN and he falls off the far side of the '}
-{'N': 'train.PHELPS falls off the near side and holding onto the '}
+{'N': 'train.  PHELPS falls off the near side and holding onto the '}
 {'N': 'strap manages to pull himself back on. '}
 
 
@@ -7774,7 +7774,7 @@ D 	I always have, Claire..
 
 {'N': 'As the train roars into the tunnel, the business car goes '}
 {'N': "nearly dark and the message on MAX'S computer screen changes "}
-{'N': 'one last time.This time it says: '}
+{'N': 'one last time.  This time it says: '}
 
 
 D 	CONNECTION TERMINATED. 
@@ -7795,7 +7795,7 @@ D 	Damn!
 
 {'N': 'Another CONDUCTOR races into the power car, past his inert '}
 {'N': 'companion, and is shocked to see the copter right behind the '}
-{'N': 'train.He grabs a radio and SCREAMS into it. '}
+{'N': 'train.  He grabs a radio and SCREAMS into it. '}
 
 
 {'C': 'CONDUCTOR '}
@@ -7809,7 +7809,7 @@ D 	Stop the train!
 
 
 {'C': 'CONDUCTOR '}
-D 	It'll crash into us!Accelerate, 
+D 	It'll crash into us!  Accelerate, 
 
 D 	accelerate. 
 
@@ -7818,7 +7818,7 @@ D 	accelerate.
 {'S': 'EXT. ROOF OF TRAIN/TUNNEL - DAY'}
 
 
-{'N': 'For a moment, we see no one.No ETHAN.No PHELPS.Moving '}
+{'N': 'For a moment, we see no one.  No ETHAN.  No PHELPS.  Moving '}
 {'N': "around to the other end of the car, we see where they've "}
 {'N': 'gone. '}
 
@@ -7827,7 +7827,7 @@ D 	accelerate.
 
 
 {'N': 'PHELPS paws for one of the suction cups and pulls himself '}
-{'N': 'back onto the roof of the train.ETHAN reaches for the other '}
+{'N': 'back onto the roof of the train.  ETHAN reaches for the other '}
 {'N': 'cup. '}
 
 
@@ -7862,16 +7862,16 @@ D 	accelerate.
 
 
 {'N': 'The helicopter avoids the oncoming train too -- and PHELPS '}
-{'N': 'misses the skid.'}
+{'N': 'misses the skid.  '}
 
 
 {'N': 'KRIEGER tips the front of the copter, trying to decapitate '}
-{'N': 'ETHAN with the rotor.PHELPS jumps onto the skid, but the '}
+{'N': 'ETHAN with the rotor.  PHELPS jumps onto the skid, but the '}
 {'N': 'copter pitches so far forward the blade hits the top of the '}
-{'N': 'tunnel.SPARKS and chunks of cement fly.'}
+{'N': 'tunnel.  SPARKS and chunks of cement fly.  '}
 
 
-{'N': 'KRIEGER levels the chopper quickly.ETHAN uses the moment to '}
+{'N': 'KRIEGER levels the chopper quickly.  ETHAN uses the moment to '}
 {'N': 'leap from the train onto the other helicopter skid. '}
 
 
@@ -7888,7 +7888,7 @@ D 	accelerate.
 
 
 {'C': 'ETHAN '}
-D 	Red light, green light.Asta Lasagna 
+D 	Red light, green light.  Asta Lasagna 
 
 D 	mother fucker. 
 
@@ -7901,7 +7901,7 @@ D 	mother fucker.
 {'N': 'PHELPS kicks vainly at the gum, SCREAMING -- '}
 
 
-{'N': '-- but the gum EXPLODES.The force of the blast rockets '}
+{'N': '-- but the gum EXPLODES.  The force of the blast rockets '}
 {'N': "ETHAN forward, he lands on the train's windshield. "}
 
 
@@ -7913,7 +7913,7 @@ D 	mother fucker.
 {'N': 'ETHAN, stuck on the windshield, can only watch as the '}
 {'N': 'wreckage of the copter tumbles down the train towards him. '}
 {'N': 'It stops just short of him, with its bent and broken rotor '}
-{'N': 'blade barely missing his throat.'}
+{'N': 'blade barely missing his throat.  '}
 
 
 {'N': 'ETHAN lays his head against the windshield glass, utterly '}
@@ -7924,7 +7924,7 @@ D 	mother fucker.
 
 
 {'N': 'KITTRIDGE comes back into the business car and is joined by '}
-{'N': 'BARNES.LUTHER, only slightly bruised, stands up next to '}
+{'N': 'BARNES.  LUTHER, only slightly bruised, stands up next to '}
 {'N': 'them and gestures to MAX and her laptop. '}
 
 
@@ -7933,7 +7933,7 @@ D 	I think this is what you're looking for.
 
 
 
-{'N': 'MAX looks up, stunned.KITTRIDGE leans over and peers at her '}
+{'N': 'MAX looks up, stunned.  KITTRIDGE leans over and peers at her '}
 {'N': 'screen. He just smiles and sits down next to her, content to '}
 {'N': 'wait for her to speak. '}
 
@@ -7944,7 +7944,7 @@ D 	I think this is what you're looking for.
 {'C': 'MAX '}
 D 	My lawyers will have a field day with 
 
-D 	this.Entrapment, jurisdictional 
+D 	this.  Entrapment, jurisdictional 
 
 D 	conflicts -- 
 
@@ -7977,14 +7977,14 @@ D 	You know, I would love to try.
 
 
 {'N': 'LUTHER sits on a high stool, his PowerBook next to him, while '}
-{'N': 'he sips a beer.A television screen is featuring follow-up '}
+{'N': 'he sips a beer.  A television screen is featuring follow-up '}
 {'N': "coverage of yesterday's dramatic helicopter-train wreck in "}
-{'N': 'the chunnel.Aside from emphasizing that it was the work of '}
+{'N': 'the chunnel.  Aside from emphasizing that it was the work of '}
 {'N': 'a lone, crazed character in a helicopter who was killed in '}
 {'N': 'the crash, there are comments about how miraculous it was '}
-{'N': 'there were no other fatalaties.There are intermittent '}
+{'N': 'there were no other fatalaties.  There are intermittent '}
 {'N': 'sounds of aircraft taking off and landing, announcements of '}
-{'N': 'arrivals and departures.ETHAN into shot.He sits beside '}
+{'N': 'arrivals and departures.  ETHAN into shot.  He sits beside '}
 {'N': 'LUTHER. '}
 
 
@@ -8034,7 +8034,7 @@ D 	Cheers.
 
 
 {'C': 'ETHAN'}
-D 	Here's toyou, Luther. (clink glasses)To 
+D 	Here's to  you, Luther. (clink glasses)  To 
 
 D 	being off the disavowed list. 
 
@@ -8046,20 +8046,20 @@ D 	Hey, I'm the flavour of the month!
 
 
 {'C': 'ETHAN'}
-D 	You're more than that, Luther.They were 
+D 	You're more than that, Luther.  They were 
 
 D 	mistaken about you and they're trying to 
 
-D 	show you they know it.They want you 
+D 	show you they know it.  They want you 
 
 D 	back in. 
 
 
 
 {'C': 'LUTHER'}
-D 	Sure.They want me back in so I won't 
+D 	Sure.  They want me back in so I won't 
 
-D 	break in!They still can't figure out 
+D 	break in!  They still can't figure out 
 
 D 	how we did it. 
 
@@ -8109,14 +8109,14 @@ D 	Just - not long enough. (looks up) Gotta
 
 D 	catch my flight..(rising) 
 
-D 	So.How's it feel being a solid citizen 
+D 	So.  How's it feel being a solid citizen 
 
 D 	again? 
 
 
 
 {'C': 'LUTHER '}
-D 	Oh man...I don't know.I'm gonna miss 
+D 	Oh man...I don't know.  I'm gonna miss 
 
 D 	being disreputable. 
 
@@ -8130,7 +8130,7 @@ D 	better I'll always think of you that way.
 
 
 {'N': 'The two men understand one another and LUTHER will say no '}
-{'N': 'more.The two exchange slight gestures of farewell and in a '}
+{'N': 'more.  The two exchange slight gestures of farewell and in a '}
 {'N': 'moment ETHAN disappears from the bar, leaving a contemplative '}
 {'N': 'LUTHER looking after him. '}
 
@@ -8154,7 +8154,7 @@ D 	Clarke?
 
 
 {'C': 'FLIGHT ATTENDANT '}
-D 	Excuse me, Mr. Hunt.Would you like to
+D 	Excuse me, Mr. Hunt.  Would you like to
 
 D 	watch a movie.
 
@@ -8172,7 +8172,7 @@ D 	Caribbean?
 
 
 
-{'N': "ETHAN just stares at her.This couldn't be what it's "}
+{'N': "ETHAN just stares at her.  This couldn't be what it's "}
 {'N': 'sounding like. '}
 
 
@@ -8181,8 +8181,8 @@ D 	Aruba, perhaps?
 
 
 
-{'N': "The camera moves into ETHAN's face.They found him.They "}
-{'N': 'want him back.He looks up at her and..... '}
+{'N': "The camera moves into ETHAN's face.  They found him.  They "}
+{'N': 'want him back.  He looks up at her and..... '}
 
 
 {'M': 'CUT TO BLACK '}
@@ -8200,4 +8200,3 @@ D 	Aruba, perhaps?
 {'M': ''}
 
 
-None

@@ -23,12 +23,13 @@ def clean_srt(srt_file):
 
 	for item in clean_lines:
 		if item.isnumeric():
+			line_dict = item
 			# if there is data in list save it to dictionary
 			if empty_list:
 				srt_dict[line_dict] = empty_list
 
 			# saves the line number
-			line_dict =  item
+
 			srt_dict[line_dict] = ""
 			empty_list = []
 

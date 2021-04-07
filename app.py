@@ -98,7 +98,6 @@ def process():
     os.remove(file_path_subs)
 
     sub_script_match = calculate_matches.calculate_matches('json_output.json')
-
     return redirect(url_for('index_page'))
 
 
