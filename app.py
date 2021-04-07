@@ -1,7 +1,6 @@
 from flask import Flask, render_template, request, send_from_directory, redirect, url_for, after_this_request, \
     send_file, flash
 import os
-from test_script import *
 from final_project import *
 import calculate_matches
 
