@@ -15,7 +15,7 @@ def calculate_matches(infile):
 	for line in output_file:
 		if '"D":' in line:
 			total += 1
-		elif 'timestamp' in line:
+		elif '"timestamp":' in line:
 			matches += 1
 
 	# Calculate the percentage of dialogue lines which have a timestamp
