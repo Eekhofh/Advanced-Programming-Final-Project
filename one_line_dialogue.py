@@ -54,7 +54,7 @@ def one_line_dialogue(text_file):
 
         # Else just add the line to the string aligned_dialogue_file
         elif not re.match('^D \t', infile_list[i]) and \
-                not re.match('^{\'N\': (', infile_list[i]):
+                not re.match('^{\'N\': \(', infile_list[i]):
             aligned_dialogue_file += infile_list[i]
         i += 1
 
