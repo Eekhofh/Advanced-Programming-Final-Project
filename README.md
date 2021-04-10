@@ -1,8 +1,7 @@
 PROGRAM DESCRIPTION
 _______________________________________________________________________
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+The goal of the program(s) in this Github repository is to align the script and the subtitles of the movie 'Mission Impossible'. It labels every line of the script and adds character names and timestamps. The degree to which (in percentages) the script and the subtitles match is also displayed. The repository contains a web-based Graphical User Interface, which allows the user to easily make use of the program(s). For results, the user can choose between either a JSON or a CSV format. The way in which the programs work is described in their comments. 
 
 _______________________________________________________________________
 
@@ -11,7 +10,7 @@ _______________________________________________________________________
 
 Here is a short overview on how to use the program.
 
-1) Load the web page.
+1) Load the web page by running app.py in the command-line.
 2) Upload a script .srt file and a script .txt file and submit both.
 3) Select desired output (.csv or .json)
 4) The program will now process the scripts.
