@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='css/main.css') }}">
+</head>
+<body>
+    <div class="body-wrapper">
+        <div class="title-container">
+            <h1>Subs Script Combiner</h1>
+        </div>
+
+        <div class="download-container">
+            <p> Script-Srt Match Percentage: {{ script_match }}%</p>
+            <a class="download-button" href="/download_file" target="blank"><button type="button">Download</button></a>
+            <a class="return-button" href="/redirect" target="blank"><button type="button">Return</button></a>
+        </div>
+
+    </div>
+</body>
+</html>
