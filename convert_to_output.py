@@ -4,7 +4,8 @@ import json
 
 def convert_to_csv(dict):
     with open('csv_output.csv', 'w') as csv_file:
-        fieldnames = ['line', 'metadata', 'scene boundary', 'scene description', 'actor', 'dialogue', 'time']
+        fieldnames = ['line', 'metadata', 'scene boundary',
+                      'scene description', 'actor', 'dialogue', 'time']
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames, delimiter=',')
 
         writer.writeheader()
@@ -18,7 +19,7 @@ def convert_to_csv(dict):
 
         for line in dict:
             line_number = line
-            if dict[line] == None:
+            if dict[line] is None:
                 break
             metadata = dict[line].get("M", "")
             scene_boundary = dict[line].get("S", "")
@@ -27,16 +28,16 @@ def convert_to_csv(dict):
             line_text = dict[line].get("D", "")
             time = dict[line].get("timestamp", "")
             writer.writerow({'line': line_number, 'metadata': metadata,
-                            'scene boundary': scene_boundary,
-                            'scene description': scene_description,
-                            'actor': actor, 'dialogue': line_text,
-                            'time': time})
+                             'scene boundary': scene_boundary,
+                             'scene description': scene_description,
+                             'actor': actor, 'dialogue': line_text,
+                             'time': time})
 
         return "csv_output.csv"
 
 
 def convert_to_json(dict):
     with open('json_output.json', 'w') as json_file:
-        json_file = json.dump(dict, json_file, indent = 2)
+        json_file = json.dump(dict, json_file, indent=2)
 
     return 'json_output.json'
