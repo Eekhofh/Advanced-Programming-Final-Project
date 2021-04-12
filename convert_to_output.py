@@ -3,6 +3,7 @@ import json
 
 
 def convert_to_csv(dict):
+    # Converts a dictionary to a csv file
     with open('csv_output.csv', 'w') as csv_file:
         fieldnames = ['line', 'metadata', 'scene boundary',
                       'scene description', 'actor', 'dialogue', 'time']
@@ -17,6 +18,8 @@ def convert_to_csv(dict):
         line_text = ""
         time = ""
 
+        # For every line in the dictionary, create a row of content from
+        # dictionary contents
         for line in dict:
             line_number = line
             if dict[line] is None:
@@ -37,6 +40,7 @@ def convert_to_csv(dict):
 
 
 def convert_to_json(dict):
+    # Converts a dictionary to a json file
     with open('json_output.json', 'w') as json_file:
         json_file = json.dump(dict, json_file, indent=2)
 
