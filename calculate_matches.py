@@ -27,7 +27,7 @@ def calculate_matches(infile):
 
 
 def main():
-    percentage_matches = calculate_matches('output.json')
+    percentage_matches = calculate_matches('json_output.json')
     print(percentage_matches)
 
 

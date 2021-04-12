@@ -1,19 +1,22 @@
 from flask import Flask, render_template, request, \
-    session, redirect, url_for, after_this_request, \
-    send_file, flash
+    session, redirect, url_for, send_file, flash
 import os
 import calculate_matches
 from subprocess import call
 
+# Setup the program
 app = Flask(__name__)
 
-# Set the root of the file
+# Set the root of the file, so it can be used throughout the program.
 APP_ROOT = os.path.dirname(os.path.abspath(__file__))
+
+# Set the key of the program
 app.config['SECRET_KEY'] = \
     '\xfd{H\xe5<\x95\xf9\xe3\x96.5\xd1\x01O<!\xd5\xa2\xa0\x9fR"\xa1\xa8'
 app.config.update()
 
 
+# The root/home page
 @app.route('/')
 def index_page():
     # Checks if the uploads folder exists, if not create an uploads folder.
@@ -21,7 +24,7 @@ def index_page():
     if not os.path.exists(upload_folder):
         os.makedirs(upload_folder)
 
-    # Render the homepage
+    # Render the homepage with the variables
     return render_template('index.html',
                            file_exist_srt=os.path.isfile(
                                os.path.join(upload_folder, 'subs.srt')),
@@ -150,4 +153,4 @@ def download():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()

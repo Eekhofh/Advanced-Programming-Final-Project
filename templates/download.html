@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Download</title>
     <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='css/main.css') }}">
 </head>
 <body>
@@ -12,6 +12,7 @@
         </div>
 
         <div class="download-container">
+            <!-- Download and Return buttons -->
             <p> Script-Srt Match Percentage: {{ script_match }}%</p>
             <a class="download-button" href="/download_file" target="blank"><button type="button">Download</button></a>
             <a class="return-button" href="/redirect" target="blank"><button type="button">Return</button></a>
