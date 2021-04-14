@@ -17,6 +17,10 @@ Here is a short overview on how to use the program.
 5) You will now see a percentage of how much both files matched.
 6) Download the desired output-file with the download-button.
 
+Pytest:
+1) Go into the unit_tests folder.
+2) Run the pytest command.
+* Some pycodestyle requirements were ignored, because of errors.
 
 _______________________________________________________________________
 
@@ -31,3 +35,12 @@ Louis: Made a user interface using Flask.
 Joey: Output result to JSON and CSV format.
 Joey: Created unit tests.
 
+_______________________________________________________________________
+
+TEAM
+_______________________________________________________________________
+
+N.R. Dijksterhuis - S2878739
+Hessel Eekhof - S3398641
+Joey Mallat - S4483081
+Louis Speelman - 

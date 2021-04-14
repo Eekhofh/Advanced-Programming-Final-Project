@@ -1,13 +1,13 @@
 import sys
-import srtscriptaligner
 sys.path.append('../')
+import srtscriptaligner
 
 
 def test_load_file():
     expected_output = ['This a sentence\n', ' which should be on\n',
                        ' one line.']
-    content = srtscriptaligner.load_file("test_input_files/\
-                                         test_dialogue_file.txt")
+    file_path = "test_input_files/test_dialogue_file.txt"
+    content = srtscriptaligner.load_file(file_path)
     assert content == expected_output
 
 

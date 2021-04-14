@@ -1,17 +1,16 @@
 import sys
+sys.path.append('../')
 import convert_to_output
 import json
-sys.path.append('../')
 
 test_dict = {"Line 1": {"C": "JACK", "D": "Great. Come on.", "timestamp":
              "00:01:23,210 --> 00:01:24,170"},
              "Line 2": {"C": "CLAIRE", "D": "Did we get it?", "timestamp":
                         "00:02:57,429 --> 00:02:58,889"}}
 
-expected_csv = "line,metadata,scene boundary,scene description,actor,\
-                dialogue,time\nLine 1,,,,JACK,Great. Come on.,\
-                \"00:01:23,210 --> 00:01:24,170\"\nLine 2,,,,CLAIRE,Did we \
-                get it?,\"00:02:57,429 --> 00:02:58,889\"\n"
+# It was not possible to complete pycodestyle requirements on the next
+# line, due to it leading to errors in the pytest.
+expected_csv = "line,metadata,scene boundary,scene description,actor,dialogue,time\nLine 1,,,,JACK,Great. Come on.,\"00:01:23,210 --> 00:01:24,170\"\nLine 2,,,,CLAIRE,Did we get it?,\"00:02:57,429 --> 00:02:58,889\"\n"
 expected_json = {"Line 1": {"C": "JACK", "D": "Great. Come on.", "timestamp":
                  "00:01:23,210 --> 00:01:24,170"}, "Line 2":
                  {"C": "CLAIRE", "D": "Did we get it?", "timestamp":

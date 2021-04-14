@@ -1,6 +1,6 @@
 import sys
-import calculate_matches
 sys.path.append('../')
+import calculate_matches
 
 
 def test_calculate_matches():
