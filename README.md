@@ -10,7 +10,7 @@ _______________________________________________________________________
 
 Here is a short overview on how to use the program.
 
-1) Load the web page by running app.py in the command-line.
+1) Load the web page by running app.py in the command-line. `sudo python3 app.py`
 2) Upload a script .srt file and a script .txt file and submit both.
 3) Select desired output (.csv or .json)
 4) The program will now process the scripts.
@@ -43,4 +43,4 @@ _______________________________________________________________________
 N.R. Dijksterhuis - S2878739
 Hessel Eekhof - S3398641
 Joey Mallat - S4483081
-Louis Speelman - 
+Louis Speelman - S4364473
