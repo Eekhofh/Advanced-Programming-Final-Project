@@ -18,7 +18,7 @@ def label_line(line):
 
     # if line starts with 26 spaces and one or more uppercase letters:
     # label line as C
-    elif re.match(r'^                          [A-Z]+', line):
+    elif re.match(r'^ {26,32}[A-Z]+', line):
         line = re.sub('^ [ ]+', r'', line)
         line_dict = {'C': line[:-1]}
         return line_dict
