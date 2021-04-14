@@ -10,13 +10,17 @@ _______________________________________________________________________
 
 Here is a short overview on how to use the program.
 
-1) Load the web page by running app.py in the command-line.
+1) Load the web page by running app.py in the command-line. `sudo python3 app.py`
 2) Upload a script .srt file and a script .txt file and submit both.
 3) Select desired output (.csv or .json)
 4) The program will now process the scripts.
 5) You will now see a percentage of how much both files matched.
 6) Download the desired output-file with the download-button.
 
+Pytest:
+1) Go into the unit_tests folder.
+2) Run the pytest command.
+* Some pycodestyle requirements were ignored, because of errors.
 
 _______________________________________________________________________
 
@@ -31,3 +35,12 @@ Louis: Made a user interface using Flask.
 Joey: Output result to JSON and CSV format.
 Joey: Created unit tests.
 
+_______________________________________________________________________
+
+TEAM
+_______________________________________________________________________
+
+N.R. Dijksterhuis - S2878739
+Hessel Eekhof - S3398641
+Joey Mallat - S4483081
+Louis Speelman - S4364473

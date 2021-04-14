@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# This program aligns the timestamp from the srt file with the matched dialogue from the script
 import sys
 import json
 import os
@@ -7,7 +8,7 @@ import convert_to_output
 
 
 def load_file(filescript):
-    # Loads a file and returns a list of the all the lines
+    """Loads a file and returns a list of the all the lines"""
 
     with open(filescript, encoding='latin-1') as f:
         data = f.readlines()
@@ -16,7 +17,7 @@ def load_file(filescript):
 
 
 def clean_srt(srt_file):
-    # places srt file content in dictionary
+    """places srt file content in dictionary"""
     # remove spaces around the items
     clean_lines = [item.strip() for item in srt_file if item.strip()]
 
@@ -41,7 +42,7 @@ def clean_srt(srt_file):
 
 
 def clean_script(text_script):
-    # reads script, removes empty lines and convert to dictionary
+    """reads script, removes empty lines and convert to dictionary"""
     script_dict = {}
     counter = 0
 
@@ -67,14 +68,14 @@ def main():
     srt_file = load_file(file_srt)
     cleaned_srt = clean_srt(srt_file)
 
-    # iternate over the script
+    # iterate over the script
     for line_numer, text in text_script.items():
         if type(text) is dict:
             # check if current dictionary is dialogue
             if "D" in text.keys():
                 # get value from dialogue
                 dialogue = text["D"]
-                # iternate over dictionary and search for dialogue
+                # iterate over dictionary and search for dialogue
                 if dialogue != "":
                     for srt_key, srt_value in cleaned_srt.items():
                         if len(srt_value) > 1:
