@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# This program aligns the timestamp from the srt file with the matched dialogue from the script
 import sys
 import json
 import os
